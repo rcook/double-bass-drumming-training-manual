@@ -12,7 +12,7 @@ A training manual built around Bobby Rondinelli and Michael Lauren's *The Encycl
 - `source-material/` — where you place your legally acquired copy of the PDF. Gitignored.
 - `LICENCE` — Creative Commons Attribution-ShareAlike 4.0 International
 
-Per-chapter working sheets will be added at the repo root as the manual is fleshed out. Your own practice log is not a repo file — see `approach.md` §7.
+Per-chapter working sheets live at the repo root as `chapter-01.md` through `chapter-23.md`, one file per chapter of the source book. Your own practice log is not a repo file — see `approach.md` §7.
 
 ## How to use
 
