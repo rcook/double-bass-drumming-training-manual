@@ -1,0 +1,5 @@
+source-material/
+data/
+__pycache__/
+*.pyc
+.venv/
