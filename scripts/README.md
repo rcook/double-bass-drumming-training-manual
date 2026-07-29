@@ -27,16 +27,17 @@ From the repo root:
 python scripts/extract_source_data.py
 ```
 
-The script writes two things:
+The script writes three things:
 
 - `data/source-index.json` — the whole-book index in one file
 - `data/chapters/chapter-NN.json` — one file per chapter (23 files, `chapter-01.json` through `chapter-23.json`)
+- `data/chapters/chapter-NN.txt` — cleaned per-chapter text (23 files) with music notation and boilerplate stripped
 
 `data/` is gitignored. The output is meant to be regenerated locally, not shared.
 
 ## What the output contains
 
-Each chapter entry has:
+**JSON per chapter:**
 
 - `number` — chapter number
 - `title` — chapter title (from the book's table of contents)
@@ -44,7 +45,16 @@ Each chapter entry has:
 - `start_pdf_page`, `end_pdf_page` — 1-indexed page numbers within the PDF file
 - `section_labels` — which of `Warm-Ups`, `Beats`, `Fills` appear as headings in that chapter, in book order. Some chapters have no such headings; the list is empty in that case.
 
-Exercise numbering is deliberately not extracted. The book's exercise numbers are entangled with musical notation, and pdfplumber's text stream cannot separate them reliably. Per-chapter working sheets should count exercises visually against the book.
+**Text per chapter:**
+
+The `.txt` files preserve what pdfplumber pulls from each chapter's pages, with music notation and page-frame noise stripped so the remaining content is readable prose plus enough structural landmarks to count exercises without reopening the PDF. Specifically:
+
+- **Kept:** the chapter's intro bullets, narrative prose paragraphs, section labels (`Warm-Ups` / `Beats` / `Fills`), un-labelled sub-section headings (e.g. Ch. 12's `3/16 Grouping Warm-Ups` and `Three-Note Rhythms`), and the lonely-integer lines that mark exercise numbers between music staves.
+- **Stripped:** music-staff lines (any line containing `œ`, `÷` or `‰`), pure cymbal-notation rows (`y y y y …`), pure accent rows (`> > > >`), the per-page personal-copy watermark, page-number footers (both the plain rendering and the doubled-letter bold rendering), and the redundant `Chapter N` marker and chapter title on the first page.
+
+The text files are meant as a low-cost alternative to loading PDF pages as images when a downstream tool (a chapter-sheet generator, for instance) needs to read a chapter's intro guidance or count how many exercises the chapter contains. They are not a replacement for the PDF itself — musical notation is not represented.
+
+Exercise numbering is not extracted as structured JSON: the book's exercise numbers are entangled with musical notation, and pdfplumber's text stream cannot separate them into fields reliably. The `.txt` file preserves the surviving integer labels so a reader can count them contextually.
 
 ## Reproducibility
 

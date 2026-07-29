@@ -8,7 +8,7 @@ A training manual built around Bobby Rondinelli and Michael Lauren's *The Encycl
 
 - `approach.md` — the training method. Start here.
 - `scripts/` — extraction tooling. See `scripts/README.md` for how to reproduce the data files from your own copy of the book.
-- `data/` — extracted structural index of the source book (chapter titles, page ranges, section labels). Gitignored; regenerate locally with the script above.
+- `data/` — extracted structural index of the source book (chapter titles, page ranges, section labels) plus cleaned per-chapter text. Gitignored; regenerate locally with the script above.
 - `source-material/` — where you place your legally acquired copy of the PDF. Gitignored.
 - `LICENCE` — Creative Commons Attribution-ShareAlike 4.0 International
 

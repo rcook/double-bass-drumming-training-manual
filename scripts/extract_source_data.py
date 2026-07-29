@@ -1,13 +1,22 @@
 #!/usr/bin/env python3
-"""Extract structural metadata from the source PDF.
+"""Extract structural metadata and cleaned prose from the source PDF.
 
-Reads a single PDF file from source-material/ and writes deterministic JSON
-output to data/. Captures chapter number, title, book-page range, PDF-page
-range and the section labels present (Warm-Ups / Beats / Fills).
+Reads a single PDF file from source-material/ and writes deterministic output
+to data/:
 
-Does NOT extract musical notation, verbatim intro bullets, footings tables or
-exercise-number ranges. The book's exercise numbering is entangled with music
-notation and cannot be parsed reliably from the PDF text stream.
+- data/source-index.json — whole-book index (chapter number, title, book-page
+  range, PDF-page range, section labels)
+- data/chapters/chapter-NN.json — same index entry, one file per chapter
+- data/chapters/chapter-NN.txt — cleaned per-chapter text: intro bullets,
+  narrative prose, section labels (Warm-Ups / Beats / Fills), sub-section
+  labels (e.g. "3/16 Grouping Warm-Ups"), and the lonely-integer exercise-
+  number lines that survive between music staves. Music notation, personal
+  footers and page-number footers are stripped.
+
+Does NOT extract musical notation or footings tables. The book's exercise
+numbering is entangled with music notation and cannot be parsed reliably from
+the PDF text stream; the .txt output preserves what pdfplumber does surface
+so a downstream tool can count exercises without re-opening the PDF.
 
 Usage: python scripts/extract_source_data.py
 
@@ -39,8 +48,30 @@ CHAPTERS_DIR = DATA_DIR / "chapters"
 INDEX_PATH = DATA_DIR / "source-index.json"
 
 CHAPTER_MARKER = re.compile(r"^\s*Chapter\s+(\d+)\s*$", re.MULTILINE)
+CHAPTER_MARKER_LINE = re.compile(r"^\s*Chapter\s+\d+\s*$")
 SECTION_HEADINGS = ("Warm-Ups", "Beats", "Fills")
 BACK_MATTER_MARKERS = ("Double Bass Time Line", "Double Bass Discography")
+
+# Purchase-watermark footer stamped on every page of a Modern Drummer PDF —
+# shape: "<name> | <email> | #<order-number>". Matches any name and email so
+# the script works for whoever owns the copy, not just one buyer.
+FOOTER_PERSONAL = re.compile(r"^\s*\S[^|]*\|\s*\S+@\S+\s*\|\s*#\d+\s*$")
+
+# Music-staff line marker. pdfplumber emits a `œ` (U+0153) for every notehead
+# in the score; `÷` (U+00F7) for the treble/percussion clef; `‰` (U+2030) for
+# rests. `œ` in particular never appears in the book's prose text, so its
+# presence on a line reliably identifies a music-staff line.
+MUSIC_LINE_CHARS = ("œ", "÷", "‰")
+
+# Two music-only line shapes that survive the MUSIC_LINE_CHARS filter and
+# still want dropping from the text output:
+# - Cymbal notation: lines that mix `y` tokens with optional digit tuplet
+#   markers and whitespace, and contain at least one `y` — e.g.
+#   "y y y y y y y y" or "3 y y y y y y y y". The at-least-one-y guard
+#   protects lines that are only digits (exercise-number labels).
+# - Accent rows: lines of only `>` marks (with whitespace).
+MUSIC_CYMBAL_LINE = re.compile(r"^[\sy\d]*y[\sy\d]*$")
+MUSIC_ACCENT_LINE = re.compile(r"^[\s>]+$")
 
 # Right-side footer, plain rendering: "... Encyclopedia Of Double Bass Drumming 5"
 FOOTER_RIGHT_PLAIN = re.compile(
@@ -226,6 +257,77 @@ def find_section_labels(chapter_text: str) -> list[str]:
     return result
 
 
+def is_page_footer(line: str) -> bool:
+    """True if a line is one of the four footer variants extract_book_page_number
+    recognises (right/left, plain/bold-doubled)."""
+    return bool(
+        FOOTER_RIGHT_PLAIN.search(line)
+        or FOOTER_RIGHT_DOUBLED.search(line)
+        or FOOTER_LEFT_PLAIN.search(line)
+        or FOOTER_LEFT_DOUBLED.search(line)
+    )
+
+
+def clean_chapter_text(pages_text: list[str], chapter: "ChapterInfo") -> str:
+    """Return the chapter's pdfplumber-extracted text with music notation and
+    boilerplate stripped, page breaks preserved as blank-line separators.
+
+    Kept: intro bullets, narrative prose, section labels, sub-section labels,
+    and lonely-integer exercise-number lines between staves.
+
+    Stripped: music-staff lines (any line containing `œ`, `÷` or `‰`),
+    per-page personal-copy footer, page-number footers (both plain and the
+    doubled-letter bold rendering), and the `Chapter N` marker at the top of
+    the chapter's first page. The chapter title itself is dropped so the file
+    is not gratuitously duplicated — the JSON sidecar already carries it.
+    """
+    pages: list[list[str]] = []
+    for pdf_idx in range(chapter.start_pdf_page - 1, chapter.end_pdf_page):
+        raw = pages_text[pdf_idx]
+        kept: list[str] = []
+        for line in raw.splitlines():
+            stripped = line.strip()
+            if not stripped:
+                if kept and kept[-1] != "":
+                    kept.append("")
+                continue
+            if FOOTER_PERSONAL.match(stripped):
+                continue
+            if is_page_footer(stripped):
+                continue
+            if any(ch in stripped for ch in MUSIC_LINE_CHARS):
+                continue
+            if MUSIC_CYMBAL_LINE.match(stripped):
+                continue
+            if MUSIC_ACCENT_LINE.match(stripped):
+                continue
+            if CHAPTER_MARKER_LINE.match(stripped):
+                continue
+            if stripped == chapter.title:
+                continue
+            kept.append(stripped)
+        while kept and not kept[-1]:
+            kept.pop()
+        pages.append(kept)
+
+    # Join pages with a single blank line between them so a downstream reader
+    # can see the natural page breaks without them dominating the file shape.
+    parts: list[str] = []
+    for i, page_lines in enumerate(pages):
+        if i > 0:
+            parts.append("")
+        parts.extend(page_lines)
+    # Collapse any runs of 2+ blank lines that survived page joining.
+    out: list[str] = []
+    for line in parts:
+        if line == "" and out and out[-1] == "":
+            continue
+        out.append(line)
+    while out and not out[-1]:
+        out.pop()
+    return "\n".join(out) + "\n"
+
+
 def build_chapters(pages_text: list[str]) -> list[ChapterInfo]:
     chapter_starts = find_chapter_starts(pages_text)
     if not chapter_starts:
@@ -311,10 +413,12 @@ def main() -> None:
 
     for ch in chapters:
         write_json(CHAPTERS_DIR / f"chapter-{ch.number:02d}.json", chapter_to_dict(ch))
+        text_path = CHAPTERS_DIR / f"chapter-{ch.number:02d}.txt"
+        text_path.write_text(clean_chapter_text(pages_text, ch), encoding="utf-8")
 
     sys.stdout.write(f"Wrote {INDEX_PATH.relative_to(REPO_ROOT)}\n")
     sys.stdout.write(
-        f"Wrote {len(chapters)} chapter files under "
+        f"Wrote {len(chapters)} chapter JSON + text files under "
         f"{CHAPTERS_DIR.relative_to(REPO_ROOT)}/\n"
     )
 
