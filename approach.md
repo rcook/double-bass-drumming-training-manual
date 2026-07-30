@@ -20,7 +20,7 @@ Read this section before any other. It is the difference between a manual you fo
 
 - **Less time available (say ~15 minutes a day, or 2 to 3 days a week).** Keep the session template (section 6) but shrink every block proportionally. Expect each stage of the chapter progression (section 5) to take roughly twice as long to feel solid. Do not cut the warm-up block — it is the most valuable part of a short session, not the least.
 - **More time available (say 60+ minutes most days).** Do not simply scale everything up. Long sessions past ~60 minutes produce diminishing returns and rising injury risk. Instead, use the extra time for a second short session later in the day, or add a Stage 5 application chapter alongside your current focus. Never let the active-chapters count exceed three, regardless of time budget.
-- **Highly irregular schedule.** Prioritise the minimum-useful session (section 6): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
+- **Highly irregular schedule.** Prioritize the minimum-useful session (section 6): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
 
 **Signs the programme is drifting toward unsustainable territory.** If any of these show up, adjust before they compound:
 
