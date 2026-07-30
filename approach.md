@@ -1,4 +1,4 @@
-# Double Bass Drumming Training Manual — general approach
+# Double Bass Drumming Training Manual—general approach
 
 ## 1. Purpose and scope
 
@@ -6,31 +6,33 @@ This manual is a training system built around Bobby Rondinelli and Michael Laure
 
 Two headline goals shape everything that follows: **strength** (evenness and endurance between the feet, weak foot brought up to match the strong foot) and **accuracy** (clean articulation and rhythmic placement, especially where the feet meet the hands). Speed is a downstream effect, not a target.
 
+Notice something in the manual that looks wrong or does not match the source book? See [content-issues.md](content-issues.md).
+
 ## 2. A sustainable regimen
 
 Read this section before any other. It is the difference between a manual you follow for years and one you give up on in six weeks.
 
-**The goal is not to complete every exercise at every tempo.** The source book is an encyclopedia — a reference — and no serious drummer works through a reference exhaustively. Attempting to do so is a common failure mode with well-regarded pedagogical books (Stone's *Stick Control*, Nelson's *Rhythm Guitar 365* and many others): the material is excellent, but the felt obligation to complete every exercise before moving on turns steady practice into a race the student inevitably loses. This manual is deliberately designed to avoid that trap.
+**The goal is not to complete every exercise at every tempo.** The source book is an encyclopedia—a reference—and no serious drummer works through a reference exhaustively. Attempting to do so is a common failure mode with well-regarded pedagogical books (Stone's *Stick Control*, Nelson's *Rhythm Guitar 365* and many others): the material is excellent, but the felt obligation to complete every exercise before moving on turns steady practice into a race the student inevitably loses. This manual is deliberately designed to avoid that trap.
 
-**The best training regimen is one you actually follow.** A modest programme sustained for years produces better results than an ambitious one abandoned in two months. Every rule in this manual — the flexible session template, the "done for now" advancement criterion, the small active-chapter set, the exit rules for boredom and plateau — exists to keep you practising rather than to maximize what you cover.
+**The best training regimen is one you actually follow.** A modest programme sustained for years produces better results than an ambitious one abandoned in two months. Every rule in this manual—the flexible session template, the "done for now" advancement criterion, the small active-chapter set, the exit rules for boredom and plateau—exists to keep you practising rather than to maximize what you cover.
 
-**Progress is not tied to specific days.** The manual is calibrated around a rough baseline of roughly 30 minutes a day, roughly five days a week — with the honest expectation that some sessions run longer, some run shorter, some weeks have more days and some have fewer. Life happens. A missed day is not a setback and does not require making up. A missed week is not a setback. The only thing that matters is that you come back.
+**Progress is not tied to specific days.** The manual is calibrated around a rough baseline of roughly 30 minutes a day, roughly five days a week—with the honest expectation that some sessions run longer, some run shorter, some weeks have more days and some have fewer. Life happens. A missed day is not a setback and does not require making up. A missed week is not a setback. The only thing that matters is that you come back.
 
-**Adjust the programme to your commitment, not the other way around.** If your realistic budget is significantly different from the baseline, the manual still applies — you just change the rate, not the method:
+**Adjust the programme to your commitment, not the other way around.** If your realistic budget is significantly different from the baseline, the manual still applies—you just change the rate, not the method:
 
-- **Less time available (say ~15 minutes a day, or 2 to 3 days a week).** Keep the session template (section 6) but shrink every block proportionally. Expect each stage of the chapter progression (section 5) to take roughly twice as long to feel solid. Do not cut the warm-up block — it is the most valuable part of a short session, not the least.
+- **Less time available (say ~15 minutes a day, or 2 to 3 days a week).** Keep the session template ([§6](#6-the-session-template)) but shrink every block proportionally. Expect each stage of the chapter progression ([§5](#5-the-chapter-progression)) to take roughly twice as long to feel solid. Do not cut the warm-up block—it is the most valuable part of a short session, not the least.
 - **More time available (say 60+ minutes most days).** Do not simply scale everything up. Long sessions past ~60 minutes produce diminishing returns and rising injury risk. Instead, use the extra time for a second short session later in the day, or add a Stage 5 application chapter alongside your current focus. Never let the active-chapters count exceed three, regardless of time budget.
-- **Highly irregular schedule.** Prioritize the minimum-useful session (section 6): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
+- **Highly irregular schedule.** Prioritize the minimum-useful session ([§6](#6-the-session-template)): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
 
-**Signs the programme is drifting toward unsustainable territory.** If any of these show up, adjust before they compound:
+**Signs the programme is drifting towards unsustainable territory.** If any of these show up, adjust before they compound:
 
 - You are dreading practice sessions rather than looking forward to them
 - You are practising to avoid "falling behind" rather than because you want to
-- You are skipping the warm-up to save time for the "real" work — the warm-up *is* the real work
+- You are skipping the warm-up to save time for the "real" work—the warm-up *is* the real work
 - You are pushing bpm targets to stay on some imagined schedule
-- You have gone more than two weeks without practice and are avoiding coming back because "there is too much to catch up on" — there is not; the working state in your tracking document is exactly where you left it
+- You have gone more than two weeks without practice and are avoiding coming back because "there is too much to catch up on"—there is not; the working state in your tracking document is exactly where you left it
 
-**Guilt is not a training tool.** The manual has no schedule for you to fall behind on. There is no such thing as "catching up". When you return after a break, you drop back one bpm increment (section 4), do the 1-minute clean pass at that reduced tempo and continue from there. That is not a penalty; it is the honest state of your body after time off.
+**Guilt is not a training tool.** The manual has no schedule for you to fall behind on. There is no such thing as "catching up". When you return after a break, you drop back one bpm increment ([§4](#4-the-tempo-target-and-clean-pass-rule)), do the 1-minute clean pass at that reduced tempo and continue from there. That is not a penalty; it is the honest state of your body after time off.
 
 **Adjust the rules themselves when needed.** Everything below this section is a default, not a commandment. If a specific rule fights against sustainability rather than supporting it, change the rule.
 
@@ -44,7 +46,7 @@ These are non-negotiable and apply to every session, regardless of duration or f
 - Warm-ups isolate the weak foot deliberately. The weak foot is the ceiling on everything; treat it as the priority, not the afterthought.
 - Tapping the exercise on the floor away from the kit counts as practice. Off-kit reps are how the pattern gets into the body without the volume overhead.
 - If a rhythm is not working with the feet, play it first with the hands. Once the ears own it, the feet learn it faster (R&L p. 3).
-- bpm is measured, not felt. A clean pass is defined, not vibed. See section 4.
+- bpm is measured, not felt. A clean pass is defined, not vibed. See [§4](#4-the-tempo-target-and-clean-pass-rule).
 
 ## 4. The tempo-target and clean-pass rule
 
@@ -57,14 +59,14 @@ A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, wi
 - even stroke volume between the two feet
 - no dropped, doubled or rushed notes
 - audible accents where they are written
-- the metronome still audible under the playing at the end of the minute
+- the metronome click still clearly audible over your playing throughout the minute. If by the end of the minute you can no longer hear the click—because you are hitting harder than the metronome, because you have drifted off it, or because you are rushing ahead of it—the pass does not count. Turn the metronome up before the next attempt if the volume is the actual problem
 
-Advancement rule: when the current bpm yields a clean pass across two consecutive sessions, raise the metronome by a small increment. Typical increments:
+Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day), raise the metronome by a small increment. Typical increments:
 
 - +4 bpm for warm-ups and feet-only exercises
 - +2 to +3 bpm for beats and fills played in context with hands
 
-Regression rule: if a clean pass fails after an increment, drop back one increment and rebuild from there. Regression is data, not failure — it is how you learn where the real ceiling is today.
+Regression rule: if a clean pass fails after an increment, drop back one increment and rebuild from there. Regression is data, not failure—it is how you learn where the real ceiling is today.
 
 **Provisional starting and target bpm by material type.** These numbers are guide values, not commitments. Revise them once you have two weeks of real data. Starting bpm is where you begin the first time you touch an exercise; target bpm is the provisional ceiling for this phase of learning.
 
@@ -73,31 +75,31 @@ Regression rule: if a clean pass fails after an increment, drop back one increme
 | R&L Ch. 1 warm-ups and R&L Ch. 15, 16, 18 feet-only work | 60 bpm | ~120 bpm |
 | 16th-note beats (R&L Ch. 2–5) | 50 bpm | ~110 bpm |
 | Triplet material (R&L Ch. 6, 7, 18, 19), 8th-note-triplet feel | 40 bpm | ~110 bpm |
-| 32nd-note material (R&L Ch. 8) | 40 bpm | no aspirational target — this chapter is a probe |
+| 32nd-note material (R&L Ch. 8) | 40 bpm | no aspirational target—this chapter is a probe (see [§5](#5-the-chapter-progression), Stage 4) |
 
 If the published starting bpm is too fast for a clean pass today, drop lower until you can play cleanly. That is your real starting bpm.
 
 Per-chapter working sheets pick these up as their defaults. A sheet may adjust the starting bpm for a specific exercise if the material is unusually demanding, but the material-type default is the norm.
 
-There is no lifetime "final" bpm. Targets exist per phase of learning. "Done for now" is not "done forever" — you revisit the same exercises with new targets as you progress through the stages in section 5.
+There is no lifetime "final" bpm. Targets exist per phase of learning. "Done for now" is not "done forever"—you revisit the same exercises with new targets as you progress through the stages in [§5](#5-the-chapter-progression).
 
 ## 5. The chapter progression
 
 The 23 chapters do not need to be worked in strict order. They are grouped into six stages, each with rules for what unlocks the next.
 
-**Stage 1 — Foundation (R&L Ch. 1).** Always active as warm-up. This chapter is never fully graduated out of; the exercises just get faster and stay in rotation for the life of the manual.
+**Stage 1—Foundation (R&L Ch. 1).** There is exactly one Stage 1 chapter—R&L Ch. 1, *Starters*. Always active as warm-up. This chapter is never fully graduated out of; the exercises just get faster and stay in rotation for the life of the manual.
 
-**Stage 2 — 16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths.
+**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths.
 
-**Stage 3 — Triplets (R&L Ch. 6, 7).** Unlocked once Stage 2 core beats hold ~90 bpm cleanly. Sequential within the stage — 8th-note triplets first, then 16th-note triplets.
+**Stage 3—Triplets (R&L Ch. 6, 7).** Unlocked once Stage 2 core beats hold ~90 bpm cleanly. Sequential within the stage—8th-note triplets first, then 16th-note triplets.
 
-**Stage 4 — Density extremes (R&L Ch. 8).** Treated as a probe, not a mastery target. Visit; do not camp. The point is exposure to 32nd-note feel, not a bpm number.
+**Stage 4—Density extremes (R&L Ch. 8).** Treated as a *probe*, not a *mastery target*. That means: work the chapter in short exposures spread across many sessions, and never let it become the focus of a whole training phase the way Stages 2 and 3 do. "Visit; do not camp" says the same thing—drop in on Ch. 8 for a session or two, feel the 32nd-note subdivision at whatever bpm you can play cleanly, log a verdict, and go back to your normal focus chapter. There is no bpm target for this chapter; there is no criterion for "done"; the point is exposure so that when 32nd-note figures show up in Stage 5+ material, they are not foreign.
 
-**Stage 5 — Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms, R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
+**Stage 5—Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms, R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
 
-**Stage 6 — Rondinelli additions (R&L Ch. 15–23).** Deferred until Stages 2 and 3 are solid. Within Stage 6, follow the book order: 15 (starters and doubles) → 16 (feet-only doubles) → 17 (binary) → 18 (feet-only triplets) → 19 (ternary) → 20 (skiplets) → 21 (turnarounds) → 22 (ladder) → 23 (hands-doubles, feet-singles).
+**Stage 6—Rondinelli additions (R&L Ch. 15–23).** Deferred until Stages 2 and 3 are solid. Within Stage 6, follow the book order: 15 (starters and doubles) → 16 (feet-only doubles) → 17 (binary) → 18 (feet-only triplets) → 19 (ternary) → 20 (skiplets) → 21 (turnarounds) → 22 (ladder) → 23 (hands-doubles, feet-singles).
 
-**The active-chapters rule.** At any given time, at least one Stage 1 warm-up chapter is active alongside 1 or 2 chapters from a later stage. Never more than three chapters active simultaneously. Attention diluted across the whole book is what makes an encyclopedia unusable — the training manual exists to prevent that.
+**The active-chapters rule.** At any given time, R&L Ch. 1 (the sole Stage 1 chapter) is active as your warm-up, alongside 0, 1 or 2 chapters from a later stage. Never more than three chapters active simultaneously. Attention diluted across the whole book is what makes an encyclopedia unusable—the training manual exists to prevent that.
 
 ## 6. The session template
 
@@ -108,7 +110,7 @@ The template has fixed proportions and elastic duration. It fits a 15-minute ses
 - **Application block (~20% of session).** Put the focus material into a beat or fill from the same chapter. If the focus is a warm-up pattern, pair it with the corresponding chapter's beats section.
 - **Cool-down and free play (~5%).** Slow, musical, no metronome. This block exists to remind you that the point of all of the above is drumming, not drills.
 
-**Worked example — the 30-minute baseline session:**
+**Worked example—the 30-minute baseline session:**
 
 | Block | Time | What you do |
 | --- | --- | --- |
@@ -119,21 +121,65 @@ The template has fixed proportions and elastic duration. It fits a 15-minute ses
 
 Other durations follow the same proportions. A 60-minute session doubles every block; a 15-minute session halves them and drops the application block if needed.
 
-Minimum useful session: 15 minutes. If you have less, do warm-up plus one focus rep only. Short sessions still count — the authors say so in R&L Ch. 1 and it is worth taking them at their word.
+Minimum useful session: 15 minutes. If your session runs shorter than that, do warm-up plus one focus rep only. Short sessions still count—the authors say so in R&L Ch. 1 and it is worth taking them at their word.
 
-## 7. Tracking
+## 7. Running a session
 
-Progress is tracked in a document you own and maintain yourself, kept outside this repository. Google Docs is the recommended format because it works on a phone during breaks, syncs across devices and supports inline comments where you want to leave yourself a note. A Word document or a plain text file is fine — the tool does not matter; the structure does. This project deliberately does not commit anyone's log to git.
+This section is the mechanical loop for a single session. It is deliberately concrete—you should be able to sit down at the kit and follow it without improvising. The chapter-specific sheets tell you *what* to play; this section tells you *what to do*.
 
-Use a single master document for the whole training journey, not one document per chapter. A single document is faster to search, easier to see trends in, and cheaper to open mid-session. The 23-document alternative fragments your history for no gain.
+### Setup—once per session (about 1 minute)
+
+1. Open your tracking document (see [§8](#8-tracking) for its structure; [§11](#11-starting-your-first-session) has a copy-and-pasteable starter template if you have not created it yet).
+2. Look at the header block at the top of your tracking document. It lists your current active chapters: R&L Ch. 1 (always active as warm-up) plus 0, 1 or 2 later-stage chapters per [§5](#5-the-chapter-progression). Those are what you work today.
+3. Pick the specific exercises you will work today: one warm-up exercise from R&L Ch. 1, one focus exercise from your active Stage 2+ chapter (if any), and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
+4. Decide the session duration and mentally scale the block minutes per [§6](#6-the-session-template).
+
+### Warm-up block
+
+1. Look up your current working bpm for the chosen Ch. 1 exercise in the per-chapter working state ([§8](#8-tracking)) of your tracking document. If you have never worked this exercise before, use the starting bpm from the chapter sheet.
+2. Set your metronome to that bpm.
+3. Set a timer for the warm-up block's minutes (~7–8 min in a 30-min session; scale proportionally otherwise).
+4. Play the exercise unbroken until the timer stops. Focus on evenness between the feet; do not push the bpm inside the block.
+5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Write one line in your session log: `1.<exercise>  <bpm> bpm  <verdict>  <one-word note>`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`. Pick whatever will remind you what happened when you read the log next week.
+
+### Focus block
+
+1. Look up your current working bpm for the focus exercise. If you have never worked it before, use the starting bpm from its chapter sheet.
+2. Set the metronome to that bpm; set a timer for the focus block's minutes (~15 min in a 30-min session).
+3. Play the exercise unbroken for at least the first minute—that is your clean-pass attempt at the current bpm ([§4](#4-the-tempo-target-and-clean-pass-rule)).
+4. If the current bpm was clean, raise the metronome by one increment (+2 to +4 bpm per [§4](#4-the-tempo-target-and-clean-pass-rule)) and play for another minute to *probe* the next step. If the current bpm was not clean, keep the current bpm and use the remaining time to reinforce it, not to escape it.
+5. Continue in that pattern (hold, probe, hold, probe) until the timer stops. You are not trying to advance every session; you are collecting data.
+6. When the timer stops, write the log line: `<chapter>.<exercise>  <bpm> bpm  <verdict>  <note>`. If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
+
+### Application block
+
+Same shape as the focus block, but the material is a beat or fill from the same chapter rather than a warm-up-style pattern. Look up bpm → set metronome → set timer → play → decide → log. The clean-pass rule still applies. The application block is shorter (~5–6 min in a 30-min session); do not skip it in favour of extending the focus block—putting the material into a beat or fill is where it becomes drumming rather than a drill.
+
+### Cool-down
+
+No metronome, no timer. Play something musical for a couple of minutes. Nothing to log. This block exists to remind you that the point of the previous 25 minutes is drumming, not drills.
+
+### First-ever session
+
+You have no historical bpm to look up. Use the starting bpm from the chapter sheet for every exercise, skip the probe step in the focus and application blocks, and use the whole block time to hold the starting bpm cleanly. On your second session you have data and the normal loop kicks in.
+
+### Short session
+
+For a 15-minute minimum-useful session ([§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down, and stop cleanly. A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
+
+## 8. Tracking
+
+Progress is tracked in a document you own and maintain yourself, kept outside this repository. Google Docs is the recommended format because it works on a phone during breaks, syncs across devices and supports inline comments where you want to leave yourself a note. A Word document or a plain text file is fine—the tool does not matter; the structure does. This project deliberately does not commit anyone's log to git.
+
+Use a single master document for the whole training journey. A single document is faster to search, easier to see trends in, and cheaper to open mid-session.
 
 The document has four sections, in this order:
 
-**1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (the one Stage 1 warm-up chapter plus the 1 or 2 later-stage chapters you are working right now, per section 5). Update the active chapters whenever they change.
+**1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
 
 **2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the session duration in minutes, and one line per exercise practised. Each exercise line has four fields: `chapter.exercise`, bpm, verdict (`pass` / `near` / `fail`) and a one-word note.
 
-A worked example — three entries covering two sessions:
+A worked example—three entries covering two sessions:
 
 ```
 2026-08-01  45 min
@@ -148,34 +194,86 @@ A worked example — three entries covering two sessions:
 
 If you have not practised an exercise in a given session, do not write a line for it. The log is a record of what happened, not a checklist of what should have happened.
 
-**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter — the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, target bpm, date of last clean pass. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
+**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, target bpm, date of last clean pass. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
 
 **4. Archive.** Retired chapters, moved here when they drop out of the active list. Preserves history without cluttering the working view. Structure matches the per-chapter working state above.
 
-This is a template shape, not a rigid schema. If you prefer a slightly different arrangement, that is fine as long as the four functions — identity, log, working state, archive — are all present.
+This is a template shape, not a rigid schema. If you prefer a slightly different arrangement, that is fine as long as the four functions—identity, log, working state, archive—are all present.
 
-## 8. Handling common failure modes
+## 9. Handling common failure modes
 
 Short prescriptive answers for the situations that make a beginner give up:
 
 - **Weak foot cannot keep up.** Drop to R&L Ch. 1 exercises 8–12 (single-stroke rolls between the feet, per R&L p. 6) at a bpm 20% below current working. Hold for the full minute. Come back to the main exercise the next session.
 - **Snare does not line up with the bass drum.** R&L Ch. 17 gives the fix directly: lighten the snare hit until the bass drum is audible under it. The bass drum leads the alignment; the snare adjusts to it, not the other way around.
 - **Speed plateau.** Stop chasing bpm for a full week. Work only on evenness at current tempo. Speed comes back once the fatigue is gone.
-- **Boredom on R&L Ch. 1.** R&L Ch. 1 is a permanent warm-up, not a level to escape. Rotate which exercises you use inside the chapter — do not drop the chapter itself.
+- **Boredom on R&L Ch. 1.** R&L Ch. 1 is a permanent warm-up, not a level to escape. Rotate which exercises you use inside the chapter—do not drop the chapter itself.
 - **Cannot hear the metronome.** Turn the metronome up, or use in-ear monitoring. If you cannot hear the click, you are not practising with a metronome; you are practising with a suggestion.
 
-## 9. What this document is not
+## 10. What this document is not
 
 - Not a fixed schedule. The session template scales, and there is no weekly plan.
 - Not a substitute for a teacher's ear. Video review helps, but a coach hearing you play catches things a log never will.
-- Not tempo advice for advanced players. The bpm ranges in section 4 are beginner-to-intermediate targets. Reassess the whole approach when you reach the end of Stage 3.
+- Not tempo advice for advanced players. The bpm ranges in [§4](#4-the-tempo-target-and-clean-pass-rule) are beginner-to-intermediate targets. Reassess the whole approach when you reach the end of Stage 3.
 - Not a replacement for the source book. This manual assumes you own R&L and are reading it alongside; nothing here reproduces the exercises.
 
-## 10. Next steps
+## 11. Starting your first session
 
-Two artifacts feed into per-chapter working sheets, which are the next thing to produce:
+You have read the method. Here is what to do right now.
 
-- The extraction script under `scripts/` reads the source PDF and writes a structural index to `data/` (chapter titles, page ranges, section labels). See `scripts/README.md` for how to run it against your own copy of the book. This provides the reliable structural landmarks the sheets will reference.
-- Per-chapter working sheets, one file per chapter, translate this general approach into a per-exercise list with starting bpm, target bpm and a reference to the source book's page and exercise number. These sheets live in the repository. They do not contain personal practice data — that stays in your own tracking document (section 7).
+1. **Set up your tracking document.** Create a new Google Doc (or Word document, or plain text file—see [§8](#8-tracking) for the format rationale) and copy the starter template below into it. Fill in the placeholders. Do not add anything else yet.
+2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
+3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry in your session log per the format in [§8](#8-tracking).
 
-This document establishes the *why* and *how*. The per-chapter sheets will be the *what*. Your tracking document is the *when*.
+That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when the Ch. 1 core exercises hold their target bpm cleanly ([§5](#5-the-chapter-progression)).
+
+### Starter template for your tracking document
+
+Copy everything between the two `═══` lines into your tracking document, then replace the `<placeholders>`. The parenthetical rubrics under each section are guidance; delete them once you have understood what goes there.
+
+```
+═══════════════════════════════════════════════════════════════════
+
+# Double Bass Drumming Training—tracking document
+
+**Name:** <your name, or leave blank>
+**Start date:** <YYYY-MM-DD, the date of your first session>
+
+**Active chapters:**
+- Stage 1 warm-up: R&L Ch. 1—Starters
+- Later-stage focus: (none yet—unlocks after Ch. 1 core exercises hold their target bpm cleanly, per approach.md §5)
+
+(Rubric: this header block is the single "what am I working on right now?" reference. Update the active chapters whenever they change. Keep it short—everything else lives in the sections below.)
+
+---
+
+## Session log
+
+(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  verdict  one-word-note`. Verdicts are `pass` / `near` / `fail`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`. Only log what you actually practised.)
+
+(No entries yet. Your first session will populate this.)
+
+---
+
+## Per-chapter working state
+
+(Rubric: one subsection per active chapter, showing your current bpm for each exercise you have started. This is what you look up at the start of each session to answer "what bpm do I set the metronome to?". Update the current bpm when an exercise passes two consecutive practice sessions at a given bpm; drop it back one increment on a fail.)
+
+### R&L Ch. 1—Starters
+
+| Ex. | Current bpm | Target bpm | Last clean pass |
+| --- | --- | --- | --- |
+| 1   | 60          | 120        | (none yet)      |
+
+(Add rows for exercises 10, 11, 12, 13 as you begin working them. See chapter-01.md for the full list, starting bpm and target bpm per exercise.)
+
+---
+
+## Archive
+
+(Rubric: chapters that have dropped out of your active list move here, preserving their per-chapter working state for reference. Empty for now—you will not touch this until Stage 2 is well underway and something ages out.)
+
+═══════════════════════════════════════════════════════════════════
+```
+
+That is a complete tracking document for a student on day one. Once it exists, open [chapter-01.md](chapter-01.md) and follow the "Your first session" walkthrough.

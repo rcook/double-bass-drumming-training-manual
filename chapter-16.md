@@ -1,23 +1,23 @@
-# R&L Ch. 16 — Feet Only
+# R&L Ch. 16—Feet Only
 
 - **Stage:** 6 (Rondinelli additions, second chapter)
 - **Book pages:** R&L pp. 74–75
 - **Total exercises:** 30
-- **Section labels present:** none — the chapter is a single numbered list
+- **Section labels present:** none—the chapter is a single numbered list
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in `approach.md` §6.
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Second chapter of Stage 6 (`approach.md` §5). R&L introduces this chapter as the natural next step after the Ch. 15 starters: it is designed to help you drop 32nd-note doubles into a 16th-note single-bass groove. The material is entirely feet — hands are not part of these exercises.
+Second chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progression)). R&L introduces this chapter as the natural next step after the Ch. 15 starters: it is designed to help you drop 32nd-note doubles into a 16th-note single-bass groove. The material is entirely feet—hands are not part of these exercises.
 
-Two specific R&L cues shape how you work this chapter. First, double strokes tend to sound lower in volume than single strokes; play them with power so the second stroke is not swallowed. Second, the printed footing is a suggestion. R&L says the rhythm matters more than which foot goes first — if the printed R feels wrong, try leading with L.
+Two specific R&L cues shape how you work this chapter. First, double strokes tend to sound lower in volume than single strokes; play them with power so the second stroke is not swallowed. Second, the printed footing is a suggestion. R&L says the rhythm matters more than which foot goes first—if the printed R feels wrong, try leading with L.
 
 R&L also warns that the exercises get harder as the chapter goes on. That is the reason the sheet picks earlier exercises as core and treats the later ones as reference.
 
-The bpm defaults come from the feet-only row of `approach.md` §4 (start 60 bpm, target ~120 bpm). When 32nd-note doubles appear (deeper into the chapter), expect the real starting bpm to be lower.
+The bpm defaults come from the feet-only row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 60 bpm, target ~120 bpm). When 32nd-note doubles appear (deeper into the chapter), expect the real starting bpm to be lower.
 
 ## Core (most sessions)
 
@@ -39,15 +39,15 @@ The bpm defaults come from the feet-only row of `approach.md` §4 (start 60 bpm,
 
 ## Reference (discretionary)
 
-Exercises 2, 4, 6, 8, 10, 12–14, 16–18, 20–30 are further feet-only patterns of increasing difficulty. R&L is explicit that the later exercises get harder — do not chase them until the earlier material is clean. Sample when the core list feels stale.
+Exercises 2, 4, 6, 8, 10, 12–14, 16–18, 20–30 are further feet-only patterns of increasing difficulty. R&L is explicit that the later exercises get harder—do not chase them until the earlier material is clean. Sample when the core list feels stale.
 
 ## Practice notes
 
 - Play the doubles with power. R&L warns that they naturally sound quieter than singles; if the second stroke drops in volume, it does not count as clean.
 - Try both footings on any exercise where the printed sticking feels unnatural. R&L is clear that the rhythm is what matters, not which foot leads.
 - Stay relaxed as the chapter progresses. The later exercises are physically harder, and tension makes doubles worse rather than better.
-- Practise with a metronome. R&L says so; `approach.md` §3 says so.
+- Practise with a metronome. R&L says so; [approach.md §3](approach.md#3-guiding-principles) says so.
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `16.` — for example `16.1  76 bpm  pass  power-doubles`. See `approach.md` §7.
+Log this chapter's work with the exercise number prefixed by `16.`—for example `16.1  76 bpm  pass  power-doubles`. See [approach.md §8](approach.md#8-tracking).

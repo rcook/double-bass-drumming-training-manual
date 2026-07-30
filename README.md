@@ -8,22 +8,24 @@ A training manual built around Bobby Rondinelli and Michael Lauren's *The Encycl
 
 ## Repository structure
 
-- [approach.md](approach.md) — the training method. Start here.
-- [scripts/](scripts/) — extraction tooling. See [scripts/README.md](scripts/README.md) for how to reproduce the data files from your own copy of the book.
-- [data/](data/) — extracted structural index of the source book (chapter titles, page ranges, section labels) plus cleaned per-chapter text. Gitignored; regenerate locally with the script above.
-- [source-material/](source-material/) — where you place your legally acquired copy of the PDF. Gitignored.
-- [LICENCE](LICENCE) — Creative Commons Attribution-ShareAlike 4.0 International
+- [approach.md](approach.md)—the training method. Start here.
+- [content-issues.md](content-issues.md)—running log of content discrepancies noticed while using the manual. File an entry here if the manual disagrees with the source book.
+- [scripts/](scripts/)—extraction tooling. See [scripts/README.md](scripts/README.md) for how to reproduce the data files from your own copy of the book.
+- [data/](data/)—extracted structural index of the source book (chapter titles, page ranges, section labels) plus cleaned per-chapter text. Gitignored; regenerate locally with the script above.
+- [source-material/](source-material/)—where you place your legally acquired copy of the PDF. Gitignored.
+- [DEVELOPMENT.md](DEVELOPMENT.md)—orientation for anyone editing the manual (extractor pipeline, sheet conventions, issue tracker). Not needed if you are just following the course.
+- [LICENCE](LICENCE)—Creative Commons Attribution-ShareAlike 4.0 International
 
-Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Your own practice log is not a repo file — see [approach.md](approach.md) §7.
+Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Your own practice log is not a repo file—see [approach.md](approach.md) §8.
 
 ## How to use
 
-Start with [approach.md](approach.md) — it establishes the method (the tempo-target and clean-pass rule, the stage-based chapter progression, the session template and the tracking format). Per-chapter working sheets and session logs slot in on top of that foundation as they are produced. This README deliberately does not restate the method; it points at [approach.md](approach.md) instead.
+Start with [approach.md](approach.md)—it establishes the method (the tempo-target and clean-pass rule, the stage-based chapter progression, the session template and the tracking format). Per-chapter working sheets and session logs slot in on top of that foundation as they are produced. This README deliberately does not restate the method; it points at [approach.md](approach.md) instead.
 
 ## Source book
 
-*The Encyclopedia of Double Bass Drumming (Revised Edition)* by Bobby Rondinelli and Michael Lauren is © 2000, 2022 Modern Drummer Media LLC. The PDF is not distributed via this repository — [source-material/](source-material/) is git-ignored. This manual assumes you have your own legally acquired copy of the book. Nothing here reproduces the source material; the manual adds original methodology around it.
+*The Encyclopedia of Double Bass Drumming (Revised Edition)* by Bobby Rondinelli and Michael Lauren is © 2000, 2022 Modern Drummer Media LLC. The PDF is not distributed via this repository—[source-material/](source-material/) is git-ignored. This manual assumes you have your own legally acquired copy of the book. Nothing here reproduces the source material; the manual adds original methodology around it.
 
 ## Licence
 
-The [LICENCE](LICENCE) file contains the Creative Commons Attribution-ShareAlike 4.0 International Public License. It covers only the original content of this repository — the methodology, the working sheets and the extraction tooling. The source book's copyright is unaffected.
+The [LICENCE](LICENCE) file contains the Creative Commons Attribution-ShareAlike 4.0 International Public License. It covers only the original content of this repository—the methodology, the working sheets and the extraction tooling. The source book's copyright is unaffected.

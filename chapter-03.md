@@ -1,21 +1,21 @@
-# R&L Ch. 3 — Three Consecutive 16th Notes
+# R&L Ch. 3—Three Consecutive 16th Notes
 
 - **Stage:** 2 (16th-note density ladder, second step)
 - **Book pages:** R&L pp. 12–15
-- **Total exercises:** ~30 — Warm-Ups 1–4 (each with multiple footing variants), Beats 7–18, Fills 19–32
+- **Total exercises:** ~30—Warm-Ups 1–4 (each with multiple footing variants), Beats 7–18, Fills 19–32
 - **Section labels present:** Warm-Ups, Beats, Fills
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in `approach.md` §6.
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Second step of the 16th-note density ladder (Stage 2 in `approach.md` §5). Where Ch. 2 taught two consecutive 16ths between the feet, this chapter drills three-note groupings — which is where footing choice starts to matter. R&L notes that the most common way to play three consecutive 16ths is RLR or LRL, and that the Warm-Ups deliberately walk through alternative footings (RLL, LRR, RRR-LLL and so on) so you become aware of the possibilities rather than defaulting to one.
+Second step of the 16th-note density ladder (Stage 2 in [approach.md §5](approach.md#5-the-chapter-progression)). Where Ch. 2 taught two consecutive 16ths between the feet, this chapter drills three-note groupings—which is where footing choice starts to matter. R&L notes that the most common way to play three consecutive 16ths is RLR or LRL, and that the Warm-Ups deliberately walk through alternative footings (RLL, LRR, RRR-LLL and so on) so you become aware of the possibilities rather than defaulting to one.
 
-That is the reason to spend real time on the Warm-Ups even when the Beats feel more useful. Each Warm-Up is written with several footing labels underneath (variants 1–6). Do not attempt every variant on every session — pick one variant, hold it for the 1-minute clean pass, and rotate variants across sessions.
+That is the reason to spend real time on the Warm-Ups even when the Beats feel more useful. Each Warm-Up is written with several footing labels underneath (variants 1–6). Do not attempt every variant on every session—pick one variant, hold it for the 1-minute clean pass, and rotate variants across sessions.
 
-The bpm defaults below come from the 16th-note beats row of `approach.md` §4 (start 50 bpm, target ~110 bpm).
+The bpm defaults below come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
 
 ## Core (most sessions)
 
@@ -39,7 +39,7 @@ The bpm defaults below come from the 16th-note beats row of `approach.md` §4 (s
 
 ## Reference (discretionary)
 
-Beats 15–18 and Fills 20–28 are secondary material — pick them when you want variety or when your ear points at one specifically. Fills 29–32 are four-bar phrases R&L includes to show different fill lengths; treat them as phrasing examples, not drills.
+Beats 15–18 and Fills 20–28 are secondary material—pick them when you want variety or when your ear points at one specifically. Fills 29–32 are four-bar phrases R&L includes to show different fill lengths; treat them as phrasing examples, not drills.
 
 ## Practice notes
 
@@ -50,4 +50,4 @@ Beats 15–18 and Fills 20–28 are secondary material — pick them when you wa
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `3.` — for example `3.7  64 bpm  pass  even`. See `approach.md` §7.
+Log this chapter's work with the exercise number prefixed by `3.`—for example `3.7  64 bpm  pass  even`. See [approach.md §8](approach.md#8-tracking).
