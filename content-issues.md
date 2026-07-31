@@ -16,13 +16,14 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
-### CI-001—Ex. 1.10 pattern description may not match source PDF
+### CI-001—Ex. 1.1 pattern description does not match source PDF
 
 - Filed: 2026-07-30
-- Location: [chapter-01.md](chapter-01.md)—Core table, exercise 10
-- Observed: the sheet describes Ex. 1.10 as "16th-note single-stroke roll between feet".
-- Concern: the sheet music in R&L p. 6 (per a first read-through by the user) does not appear to match that description.
-- Next: re-read the source PDF pp. 6–7 with the sheet music in hand; confirm the pattern actually notated for Ex. 10 (and Ex. 11 for consistency, since it is described here as an 8th-note-triplet single-stroke roll); update `chapter-01.md` if the description is wrong, or close this entry with a note if the description is right.
+- Location: [chapter-01.md](chapter-01.md)—Core table, exercise 1
+- Observed: the sheet describes Ex. 1.1 as "Quarter-note alternating between feet". The revised-edition notation (R&L p. 6) is a 2-bar pattern—bar 1 is four quarter notes on the beat; bar 2 is four 8th-rest + 8th-note pairs (notes on the offbeats). No R/L stickings are shown in the score.
+- Concern: the description drops bar 2 entirely, and "alternating between feet" is not supported by the score—it also contradicts the chapter's own framing, which places single-stroke rolls between the feet at Ex. 8–12, not Ex. 1. Ex. 1 reads more naturally as a weak-foot isolation study given the chapter's intro bullets.
+- Next: rewrite the Pattern cell for Ex. 1 in `chapter-01.md` so both bars are described and no sticking is asserted. Cross-check against the original-edition PDF before closing.
+- Update: 2026-07-31—original filing pointed at Ex. 1.10 based on a first-read impression. Visual read of PDF pp. 8–9 (revised edition) confirmed Ex. 10 (continuous 16ths) and Ex. 11 (8th-note triplets) match their `chapter-01.md` descriptions and are consistent with the intro bullet framing Ex. 8–12 as single-stroke rolls between the feet. The real defect is at Ex. 1; ticket re-scoped.
 
 ## Resolved
 
