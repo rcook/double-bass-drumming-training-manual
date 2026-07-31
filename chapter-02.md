@@ -48,7 +48,7 @@ Beats 13–20 and Fills 22–36 are reference material. R&L flags Beats 13–18 
 ## Practice notes
 
 - The Warm-Ups exist to make the two feet sound the same on the doubled 16ths. If the weak foot is dropping, do not raise the bpm—the ceiling is set by the weaker side.
-- Try the fills with different orchestrations. R&L suggests right hand on snare and left on high tom, or right on floor tom and left on high tom.
+- Try the fills with different orchestrations. R&L suggests strong hand on snare and weak hand on high tom, or strong hand on floor tom and weak hand on high tom.
 - Beats 19–20 and Fill 31–34 are examples of phrasing, not required drills. Use them once the shorter material is clean.
 - Do not chase Beats 13–18 early. They are marked harder for a reason; hold them until Beats 5–12 hold ~90 bpm.
 

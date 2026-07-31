@@ -16,15 +16,16 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
-### CI-001—Ex. 1.1 pattern description does not match source PDF
-
-- Filed: 2026-07-30
-- Location: [chapter-01.md](chapter-01.md)—Core table, exercise 1
-- Observed: the sheet describes Ex. 1.1 as "Quarter-note alternating between feet". The revised-edition notation (R&L p. 6) is a 2-bar pattern—bar 1 is four quarter notes on the beat; bar 2 is four 8th-rest + 8th-note pairs (notes on the offbeats). No R/L stickings are shown in the score.
-- Concern: the description drops bar 2 entirely, and "alternating between feet" is not supported by the score—it also contradicts the chapter's own framing, which places single-stroke rolls between the feet at Ex. 8–12, not Ex. 1. Ex. 1 reads more naturally as a weak-foot isolation study given the chapter's intro bullets.
-- Next: rewrite the Pattern cell for Ex. 1 in `chapter-01.md` so both bars are described and no sticking is asserted. Cross-check against the original-edition PDF before closing.
-- Update: 2026-07-31—original filing pointed at Ex. 1.10 based on a first-read impression. Visual read of PDF pp. 8–9 (revised edition) confirmed Ex. 10 (continuous 16ths) and Ex. 11 (8th-note triplets) match their `chapter-01.md` descriptions and are consistent with the intro bullet framing Ex. 8–12 as single-stroke rolls between the feet. The real defect is at Ex. 1; ticket re-scoped.
+(No open entries.)
 
 ## Resolved
 
-(No entries yet.)
+### CI-001—Ex. 1.1 pattern description does not match source PDF
+
+- Filed: 2026-07-30
+- Location: [chapter-01.md](chapter-01.md)—Core table, exercise 1 and walkthrough
+- Observed: the sheet described Ex. 1.1 as "Quarter-note alternating between feet". The notation on R&L p. 6 is a 2-bar pattern—bar 1 is four quarter notes; bar 2 is four 8th-rest + 8th-note pairs (notes on the offbeats). Foot assignment is encoded via staff position per the "Key" panel on the intro page (BD I = strong foot, BD II = weak foot; see [approach.md §3.1](approach.md#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)).
+- Concern: the description dropped bar 2 entirely, and the "alternating between feet" claim did not reflect what the score actually says.
+- Edition discrepancy: **the two editions differ on this exercise.** The Original Edition places bar 1 on BD I (strong foot) and bar 2 on BD II (weak foot)—a strong-foot / weak-foot alternation across bars, which fits the chapter's stated purpose of isolating and developing the weak foot. The Revised Edition places both bars on BD I (strong foot); this appears to be a printing error. The manual takes the Original Edition as authoritative for this specific exercise.
+- Resolved: 2026-07-31—updated Ex. 1's Pattern cell in `chapter-01.md` (Core table) and the walkthrough line to "Bar 1: quarter notes (strong foot). Bar 2: 8ths on the offbeats (weak foot).", following the Original Edition. Added an inline note under the Core table calling out the edition discrepancy. Introduced the strong-foot / weak-foot terminology across the manual and added [approach.md §3.1](approach.md#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii) to explain both the terminology and the general edition policy (Revised default, per-exercise overrides logged here).
+- Lessons: the original filing pointed at Ex. 1.10 based on a first-read impression, and my initial visual read of the Revised Edition PDF mistakenly claimed the two editions were identical for Ex. 1—both errors stemmed from reading rhythmic content (durations, groupings, tuplet markers) without reliably reading foot assignment (BD I vs BD II by staff position). Treat AI-assisted visual reads of R&L notation as reliable for rhythm and unreliable for foot assignment; verify stickings by eye.

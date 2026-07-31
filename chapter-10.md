@@ -23,7 +23,7 @@ The bpm defaults come from the 16th-note beats row of [approach.md §4](approach
 
 | Ex. | Section | Role | Start | Target |
 | --- | --- | --- | --- | --- |
-| 1 | Beats | Continuous 8ths between the feet, right-foot lead | 50 bpm | 110 bpm |
+| 1 | Beats | Continuous 8ths between the feet, strong-foot lead | 50 bpm | 110 bpm |
 | 4 | Beats | 8ths with a straightforward snare backbeat | 50 bpm | 110 bpm |
 | 7 | Beats | 8ths with a slightly busier hand pattern | 50 bpm | 110 bpm |
 
@@ -37,14 +37,14 @@ The bpm defaults come from the 16th-note beats row of [approach.md §4](approach
 
 ## Reference (discretionary)
 
-Beats 2, 3, 5, 6, 8, 9, 11, 12, 14–16, 18–21 are groove variants over the same continuous-8th-note foot pattern. Dip in when you want variety or when a specific beat catches your ear. R&L reminds you that these can be played right- or left-foot lead—try both when a beat feels stuck.
+Beats 2, 3, 5, 6, 8, 9, 11, 12, 14–16, 18–21 are groove variants over the same continuous-8th-note foot pattern. Dip in when you want variety or when a specific beat catches your ear. R&L reminds you that these can be played either strong-foot or weak-foot lead—try both when a beat feels stuck.
 
 ## Practice notes
 
 - R&L's specific advice is to work this chapter at slow tempos. That is the whole point of the chapter for a beginner; do not skip past it.
 - Continuous 8ths mean the weak foot never rests. If it starts dying, drop the bpm—the ceiling is set by the weaker side, not the stronger.
 - Pair these beats with fills from Chs. 2–7 in the application block; there is no need to invent new fills for this chapter.
-- Right- and left-foot lead should both feel available. Rotate lead across sessions.
+- Strong- and weak-foot lead should both feel available. Rotate lead across sessions.
 
 ## Log line format
 

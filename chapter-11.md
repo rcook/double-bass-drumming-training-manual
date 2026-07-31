@@ -11,7 +11,7 @@ Every session opens with warm-up on the current R&L Ch. 1 exercises before you w
 
 ## How to use this sheet
 
-Application chapter (Stage 5 in [approach.md §5](approach.md#5-the-chapter-progression)). R&L introduces power threes as a quick and effective way to develop a thick-sounding beat. The structural idea is simple: the feet stay constant on a straight-8th or shuffle pattern, and the left hand—on snare or a tom—plays *between* the strokes of the feet.
+Application chapter (Stage 5 in [approach.md §5](approach.md#5-the-chapter-progression)). R&L introduces power threes as a quick and effective way to develop a thick-sounding beat. The structural idea is simple: the feet stay constant on a straight-8th or shuffle pattern, and the weak hand—on snare or a tom—plays *between* the strokes of the feet.
 
 The chapter splits naturally into two halves. Beats 1–5 keep the feet in a straight-8th feel; Beats 6–10 keep them in a triplet or shuffle feel. Later beats extend the idea. R&L also encourages you to try the power-three concept with 16th notes in the feet once the straight-8th and shuffle versions are stable, and to experiment with different footings.
 
@@ -39,7 +39,7 @@ Beats 2, 4, 7, 9, 10, 12 are variants on the same idea. Sample them for variety.
 
 ## Practice notes
 
-- The hand placement is what makes this chapter work. The left hand sits *between* the strokes of the feet, not on top of them—if the hand is landing with the foot, you have lost the power-three effect.
+- The hand placement is what makes this chapter work. The weak hand sits *between* the strokes of the feet, not on top of them—if the hand is landing with the foot, you have lost the power-three effect.
 - Try the hand on snare and on toms; R&L is explicit that either works. Different orchestrations change the character but not the exercise.
 - Rotate footings across sessions. R&L asks you to experiment with what works for you—the printed footing is a starting point.
 - Do not push to 16th-note feet until the straight-8th and shuffle-feel versions are clean at your working bpm. Order matters.

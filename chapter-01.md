@@ -24,7 +24,7 @@ If this is your first session and R&L Ch. 1 is your only active chapter, do exac
 
 1. Open your tracking document ([approach.md §8](approach.md#8-tracking)). Write the date and set the active chapter to R&L Ch. 1.
 2. Sit at the kit (or a practice pad) with a metronome and a timer within reach.
-3. **Pick exercise 1**—quarter-note alternating between feet, from the Core table below.
+3. **Pick exercise 1**—bar 1 quarter notes (strong foot), bar 2 8ths on the offbeats (weak foot), from the Core table below. See [approach.md §3.1](approach.md#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii) for the strong/weak-foot terminology.
 4. **Set your metronome to 60 bpm** (the starting bpm from the sheet).
 5. **Set a timer for 10 minutes.**
 6. **Play exercise 1 unbroken** until the timer stops. Focus only on evenness between the feet—not on speed, not on the next exercise, not on the accents. The metronome click should stay clearly audible over your playing throughout the 10 minutes.
@@ -44,11 +44,13 @@ Once you are past your first session, the Core is your daily minimum for this ch
 
 | Ex. | Pattern | Start | Target | Per-exercise time |
 | --- | --- | --- | --- | --- |
-| 1 | Quarter-note alternating between feet | 60 bpm | 120 bpm | ~2 min |
+| 1 | Bar 1: quarter notes (strong foot). Bar 2: 8ths on the offbeats (weak foot). See notes below. | 60 bpm | 120 bpm | ~2 min |
 | 10 | 16th-note single-stroke roll between feet | 60 bpm | 120 bpm | ~3 min |
 | 11 | 8th-note-triplet single-stroke roll between feet | 60 bpm | 120 bpm | ~3 min |
 
 That is roughly an 8-minute warm-up block, which matches the ~7–8 min the session template ([approach.md §6](approach.md#6-the-session-template)) allocates in a 30-min session. If you have less warm-up time than that, shrink the per-exercise times proportionally—but still do all three. If you have more, spend the extra time on whichever of the three felt weakest.
+
+**Note on Ex. 1 (edition discrepancy).** The Revised Edition of R&L prints bar 2 of Ex. 1 on the same bass drum as bar 1—both on BD I (strong foot). This appears to be a printing error. The Original Edition places bar 2 on BD II (weak foot), which fits the chapter's stated purpose ("isolate and help develop your weak foot") and reads as a strong-foot / weak-foot alternation across the two bars. Play it as the Original Edition notates: bar 1 strong foot, bar 2 weak foot. See [content-issues.md](content-issues.md) (CI-001) for the record of this discrepancy, and [approach.md §3.1](approach.md#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii) for the general edition policy.
 
 ## Rotation (some sessions)
 

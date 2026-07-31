@@ -15,7 +15,7 @@ Third chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progressio
 
 R&L makes three specific coaching points that carry through the whole chapter. First, do not flam the snare with the bass drum—the snare should land exactly with the bass drum stroke, not before or after. Second, in the early going, lighten the snare hit so the bass drum is audible under it; that is the way to actually hear whether snare and bass are landing together. Third, get the weak foot to sound as loud as the strong foot; even volume matters more than bpm.
 
-R&L also notes that most beats are printed strong-foot lead but some right-handed players lead with the left—the printed footing is a default, not a rule.
+R&L also notes that most beats are printed strong-foot lead but some players lead with the opposite foot for a given pattern—the printed footing is a default, not a rule.
 
 The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
 

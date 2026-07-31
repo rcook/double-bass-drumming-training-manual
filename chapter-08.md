@@ -32,7 +32,7 @@ Suggested probing paths, in order of increasing demand:
 
 - Count the 16th-note subdivision out loud. R&L is explicit that counting is critical in this chapter—the notation is dense enough that feel alone will drift.
 - Practise both strong-foot and weak-foot lead. R&L notes that triplet patterns can turn the feet around, so the printed strong-foot lead is not the only footing that matters.
-- The fills can be re-orchestrated. R&L suggests splitting the hand 32nds between two drums—right hand on snare, left on high tom, or similar. Treat orchestration as part of the probe.
+- The fills can be re-orchestrated. R&L suggests splitting the hand 32nds between two drums—strong hand on snare, weak hand on high tom, or similar. Treat orchestration as part of the probe.
 - If the exercise is nowhere near clean, that is expected. Move on. There is no advancement rule to fail here because there is no target to fail against.
 
 ## Log line format

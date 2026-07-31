@@ -15,7 +15,7 @@ Final chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progressio
 
 R&L walks the concept through eight examples on the page. In order:
 
-- **Ex. 1**—the base setup: sustained double-stroke roll in the hands over sustained singles in the feet. Start with right hand and right foot together, then alternate stickings.
+- **Ex. 1**—the base setup: sustained double-stroke roll in the hands over sustained singles in the feet. Start with strong hand and strong foot together, then alternate stickings.
 - **Ex. 2**—five-stroke roll in the hands with a five-stroke ruff in the feet. R&L calls out that this teaches leading with either foot; accuracy comes before speed here.
 - **Ex. 3**—nine-stroke roll in the hands with a nine-stroke ruff in the feet. Increase speed only when it starts to lock in.
 - **Ex. 4**—open roll in the hands with singles in the feet. R&L specifically asks you to try this and the other exercises at multiple tempos.
@@ -38,7 +38,7 @@ The bpm defaults come from the 16th-note beats row of [approach.md §4](approach
 
 ## Practice notes
 
-- Start with the right hand and right foot together in Ex. 1, then alternate—R&L is specific about this.
+- Start with the strong hand and strong foot together in Ex. 1, then alternate—R&L is specific about this.
 - Accuracy over speed. R&L makes this explicit for Ex. 2 and it applies across the chapter.
 - Try each exercise at multiple tempos. R&L calls this out for Ex. 4 and asks you to apply it to the others.
 - Mentally hear the rhythm before you play it. R&L closes the chapter with this—the feet follow the ear, and if the ear is not carrying the rhythm the feet will not either.

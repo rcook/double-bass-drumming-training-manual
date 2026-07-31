@@ -48,6 +48,19 @@ These are non-negotiable and apply to every session, regardless of duration or f
 - If a rhythm is not working with the feet, play it first with the hands. Once the ears own it, the feet learn it faster (R&L p. 3).
 - bpm is measured, not felt. A clean pass is defined, not vibed. See [§4](#4-the-tempo-target-and-clean-pass-rule).
 
+### 3.1 Notation: strong foot / weak foot vs. R&L's BD I / BD II
+
+Throughout this manual, foot assignment is described as **strong foot** and **weak foot** rather than right foot and left foot. The reason is that "right" and "left" are not stable across players—a right-footed player leads with the right foot; a left-footed player leads with the left. Strong/weak sidesteps the handedness question and points at the thing the training actually cares about (which foot leads, which foot is being brought up to match).
+
+R&L's own notation uses **BD I** and **BD II** on the staff key (see the "Key" panel on the intro page of either edition). In practice:
+
+- **BD I** = the bass drum played by the **strong foot** (right foot for a right-footed player, left foot for a left-footed player).
+- **BD II** = the bass drum played by the **weak foot** (left foot for a right-footed player, right foot for a left-footed player).
+
+When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lead", read it as strong-foot lead unless you are left-footed, in which case invert. The same convention applies to the hands: **strong hand** and **weak hand** stand in for right/left where the manual describes hand orchestration (e.g. which hand plays snare vs. tom in a fill). When a specific limb is genuinely meant (for instance, the hi-hat pedal is played by the weak foot on a conventional setup regardless of handedness, so the hi-hat orchestration in R&L Ch. 20 is a weak-foot doubling), that will be called out explicitly rather than folded into the strong/weak scheme.
+
+**Edition policy.** This manual treats the Revised Edition of R&L as authoritative by default. Individual exercises where the Revised Edition and Original Edition disagree—and the Original Edition appears to be correct—are called out at the exercise level in the relevant chapter sheet, with the discrepancy logged in [content-issues.md](content-issues.md). Do not assume the two editions agree; where the sheet says nothing, they do.
+
 ## 4. The tempo-target and clean-pass rule
 
 This is the operational definition of "done for now".

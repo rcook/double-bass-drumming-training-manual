@@ -11,7 +11,7 @@ Every session opens with warm-up on the current R&L Ch. 1 exercises before you w
 
 ## How to use this sheet
 
-This chapter is a single-concept study, not a drill library. R&L introduces the *ladder*—a hand-foot combination of right hand, left foot, left hand, right foot—as a distinct alternative to quads (right hand, left hand, right foot, left foot). The pattern looks similar to quads on the page but is very different to play. The hands play singles, and the feet play singles *between* the hands.
+This chapter is a single-concept study, not a drill library. R&L introduces the *ladder*—a hand-foot combination of strong hand, weak foot, weak hand, strong foot—as a distinct alternative to quads (strong hand, weak hand, strong foot, weak foot). The pattern looks similar to quads on the page but is very different to play. The hands play singles, and the feet play singles *between* the hands.
 
 R&L walks through the concept over eight numbered examples on the page, in the order the concept builds:
 

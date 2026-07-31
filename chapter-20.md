@@ -15,7 +15,7 @@ Sixth chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progressio
 
 R&L is explicit about two things. First, try all possible footings in the warm-ups—the point is to discover which skiplets suit your style, and that only shows up once you have played several. Second, feel free to substitute your preferred skiplet footing when working the beats and fills; the printed footings are examples, not prescriptions.
 
-R&L also notes an orchestration option: skiplets can be played with the left foot doubling the hi-hat pedal together with the left bass drum pedal. That is a fun texture; it is not required.
+R&L also notes an orchestration option: skiplets can be played with the weak foot doubling the hi-hat pedal together with the BD II pedal (both played by the weak foot on a conventional setup). That is a fun texture; it is not required.
 
 The bpm defaults come from the triplet-material row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm).
 
@@ -46,7 +46,7 @@ Warm-Ups 2, 4, 6, 8 are footing pairs to their odd-numbered neighbours. Beats 2�
 
 - Skiplets are footing-driven, not rhythm-driven. R&L is explicit that you should try every possible footing in the warm-ups to find which ones suit your style; do not just default to the first printed footing.
 - Substitute skiplet footings freely in the beats and fills once the warm-ups are stable. The chapter rewards experimentation.
-- The left-foot-on-hi-hat orchestration is optional. Try it once the base skiplet feel is solid.
+- The weak-foot-on-hi-hat orchestration is optional. Try it once the base skiplet feel is solid.
 - Placement of the double side matters—the two-in-a-row footprint tends to rush against the single-foot side. Count the triplet subdivision aloud if it starts drifting.
 
 ## Log line format
