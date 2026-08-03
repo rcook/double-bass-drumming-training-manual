@@ -20,6 +20,15 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Resolved
 
+### CI-002—Ch. 1 Reference exercises (2–9) mislabelled as "accent-variation studies"
+
+- Filed: 2026-08-03
+- Location: [chapter-01.md](chapter-01.md)—intro paragraph ("How to use this sheet"), rotation guidance paragraph, and Reference section body
+- Observed: three places described exercises 2–9 as "accent-variation studies", and one of them additionally called them "quarter-note and 8th-note patterns". Visual inspection of the source PDF against a strong-foot / weak-foot / accent transcription (s = strong foot, w = weak foot, S = strong-foot accent, W = weak-foot accent) shows: Ex. 1.2 is 8ths, `ssssWWWWssssWWWW` (foot-grouping, no accents); Ex. 1.3 is 8ths, `ssssssssWWWWWWWW` (foot-grouping, no accents); Ex. 1.4 is 8ths, `SsssWwwwSsssWwww`; Ex. 1.5 is 8ths, `SsSsWwWwSsSsWwWw`; Ex. 1.6 is 8ths, `SssSssSsWwwWwwWw`; Ex. 1.7 is 8ths, `SssSsSsSWwwWwWwW`; Ex. 1.8 is 8ths, `SwsWsWsWsWsWsWsW`; Ex. 1.9 is 8ths, `SwsWSwsWSwsWSwsW`.
+- Concern: the description is wrong on two counts—2 and 3 carry no accents at all (they vary foot grouping only), and none of 2–9 contain quarter notes. Readers using the Reference block as a menu would look for accent content in 2 and 3 that isn't there.
+- Resolved: 2026-08-03—rewrote the three affected passages in `chapter-01.md`. The intro now splits 2–3 (foot-grouping, no accents) from 4–9 (accent variations on 8ths). The rotation-guidance line uses the same split. The Reference section body describes each sub-range in full and notes that 8–9 are single-stroke alternations between the feet (consistent with the book's own note on p. 6 that 8–12 are single-stroke rolls).
+- Lessons: the extractor (`scripts/extract_source_data.py`) explicitly strips music notation—any line containing a notehead (`œ`), rest (`‰`) or clef (`÷`) is dropped, and the docstring calls out that exercise numbering "is entangled with music notation and cannot be parsed reliably." That means per-exercise rhythmic and accent descriptions in this manual are human-inspected against the score, not derived from `data/chapters/*.txt`. Same class of unreliability as CI-001: treat AI-assisted visual reads of R&L notation as reliable for gross layout only, and verify rhythm, foot assignment and accents by eye.
+
 ### CI-001—Ex. 1.1 pattern description does not match source PDF
 
 - Filed: 2026-07-30

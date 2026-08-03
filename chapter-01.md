@@ -14,7 +14,7 @@
 
 This chapter is the permanent warm-up. It is never fully graduated out of—the exercises just get faster and stay in rotation for the life of the manual. See [approach.md §5](approach.md#5-the-chapter-progression), Stage 1.
 
-The 13 exercises are not a checklist. You do not work through all of them every session; you rotate. The **core** list below is where most of your time goes. The **rotation** list adds variety and density on days when you want a fuller warm-up. The **reference** exercises (2–9) are accent-variation studies—R&L includes them as raw material; treat them as discretionary. Play them when they look interesting, skip them when they do not.
+The 13 exercises are not a checklist. You do not work through all of them every session; you rotate. The **core** list below is where most of your time goes. The **rotation** list adds variety and density on days when you want a fuller warm-up. The **reference** exercises (2–9) are all 8th-note patterns: Ex. 2–3 vary how the 8ths are grouped between the feet (no accents), and Ex. 4–9 layer accents on 8ths in different placements. R&L includes them as raw material; treat them as discretionary. Play them when they look interesting, skip them when they do not.
 
 The book itself notes (R&L p. 6) that exercises 8–12 are single-stroke rolls between the feet, and calls single-stroke rolls "the foundation of double bass drumming". The curated subset below reflects that guidance.
 
@@ -36,7 +36,7 @@ That is a complete first session. You have not touched every exercise in this ch
 
 **On your second session**, look up the bpm and verdict from session one. If session one was a `pass`, raise the metronome by one increment (+4 bpm for Ch. 1 per [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)) and run the same loop. If it was `near`, hold 60 bpm and run the loop again—you need two consecutive `pass` sessions before you advance. If it was `fail`, drop to 56 bpm and rebuild from there. That is the mechanical loop for the rest of the manual, applied to this chapter.
 
-**Once you have a few sessions logged**, you have earned the right to rotate. Use the Core / Rotation / Reference tables below as your menu: keep exercises 1, 10 and 11 as your daily minimum, dip into 12 and 13 on longer days, and treat exercises 2–9 as discretionary accent-variation studies.
+**Once you have a few sessions logged**, you have earned the right to rotate. Use the Core / Rotation / Reference tables below as your menu: keep exercises 1, 10 and 11 as your daily minimum, dip into 12 and 13 on longer days, and treat exercises 2–9 as discretionary 8th-note studies (2–3 foot-grouping, 4–9 accent variations).
 
 ## Core (most sessions)
 
@@ -65,7 +65,7 @@ If a Rotation exercise is bumping the warm-up block past ~10 minutes and eating 
 
 ## Reference (discretionary)
 
-Exercises 2–9 are quarter-note and 8th-note patterns exploring accent placement between the feet. Useful for accent control; not required for the strength-and-accuracy path. Dip in when you want variety or when a specific accent pattern shows up in a beat you are working elsewhere. If you never play them, that is fine.
+Exercises 2–9 are all 8th-note patterns. Ex. 2–3 vary how the 8ths are grouped between the feet (four-and-four, then eight-and-eight) with no accents. Ex. 4–9 layer accents on 8ths in different placements—some over regular groupings between the feet, some over single-stroke alternation between the feet (Ex. 8–9, matching the book's own note that Ex. 8–12 are single-stroke rolls). Useful for foot-grouping and accent control; not required for the strength-and-accuracy path. Dip in when you want variety or when a specific pattern shows up in a beat you are working elsewhere. If you never play them, that is fine.
 
 ## Practice notes
 
