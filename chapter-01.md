@@ -34,7 +34,13 @@ If this is your first session and R&L Ch. 1 is your only active chapter, do exac
 
 That is a complete first session. You have not touched every exercise in this chapter and you should not try to. Ten minutes of exercise 1 at 60 bpm with a metronome and a verdict logged is more useful than half an hour of unfocused variety.
 
-**On your second session**, look up the bpm and verdict from session one. If session one was a `pass`, raise the metronome by one increment (+4 bpm for Ch. 1 per [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)) and run the same loop. If it was `near`, hold 60 bpm and run the loop again—you need two consecutive `pass` sessions before you advance. If it was `fail`, drop to 56 bpm and rebuild from there. That is the mechanical loop for the rest of the manual, applied to this chapter.
+**On your second session**, look up the bpm and verdict from session one. The advancement rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)) is *two consecutive `pass` sessions at the same bpm* before you raise the metronome—one pass is not enough. So:
+
+- If session one was a `pass`, hold 60 bpm and run the same loop. A second `pass` at 60 earns the raise: on session three you set the metronome to 64 bpm (+4 bpm for Ch. 1).
+- If session one was a `near`, hold 60 bpm and run the loop again. A `near` resets the two-pass count—you always need two `pass` sessions *in a row*, uninterrupted.
+- If session one was a `fail`, drop to 56 bpm and rebuild from there.
+
+Worked example over the first six sessions, assuming it goes well: session 1 `pass` at 60, session 2 `pass` at 60, session 3 raise to 64 and `pass`, session 4 `pass` at 64, session 5 raise to 68 and `pass`, session 6 `pass` at 68. Two passing sessions per bpm before every advancement. That is the mechanical loop for the rest of the manual, applied to this chapter.
 
 **Once you have a few sessions logged**, you have earned the right to rotate. Use the Core / Rotation / Reference tables below as your menu: keep exercises 1, 10 and 11 as your daily minimum, dip into 12 and 13 on longer days, and treat exercises 2–9 as discretionary 8th-note studies (2–3 foot-grouping, 4–9 accent variations).
 
