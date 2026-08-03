@@ -102,6 +102,17 @@ Exercises 2–9 are all 8th-note patterns. Ex. 2–3 vary how the 8ths are group
 - Do not neglect the accents where they are written. Even at slow tempos, an unaccented pass does not count as clean.
 - If the target bpm feels far away, that is expected. The number is a ceiling, not a schedule.
 
+## Moving on to Stage 2
+
+Stage 2 (R&L Ch. 2, doubled 16ths between the feet—see [approach.md §5](approach.md#5-the-chapter-progression)) unlocks when **Ex. 1, Ex. 10 and Ex. 11 all reach their unlock bpm of 90 bpm**—two consecutive `pass` sessions at 90 bpm on each of the three exercises, per the advancement rule in [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule). All three, not the fastest one. In practice Ex. 10 (16ths between the feet) is usually the slowest to reach 90 bpm, because it is the same doubled-16th coordination Ch. 2 is about to train against the hands—which is exactly why it gates the transition.
+
+Two things this rule is not:
+
+- **It is not "hit target bpm."** The 120 bpm target on Ex. 1, Ex. 10 and Ex. 11 stays in place as the ceiling for this chapter. Unlock bpm is a floor for opening Stage 2, not a ceiling for Ch. 1. Advancement on the Core exercises continues after Stage 2 opens; the warm-up block keeps working towards 120 in parallel with the Ch. 2 focus block ([approach.md §6](approach.md#6-the-session-template)).
+- **It is not a promotion out of Ch. 1.** Ch. 1 stays the permanent warm-up—see the note near the top of this sheet ("Session role"). What changes at Stage 2 unlock is that Ch. 2 joins your active list; Ch. 1 does not leave it.
+
+When Ex. 1, Ex. 10 and Ex. 11 all sit at 90 bpm or above, open [chapter-02.md](chapter-02.md) and add Ch. 2 to your active list per the tracking-document header format ([approach.md §8](approach.md#8-tracking)). Session shape changes from "Ch. 1 is the whole session" (see "Session role" near the top of this sheet) to the full three-block template ([approach.md §6](approach.md#6-the-session-template)): Ch. 1 warm-up, Ch. 2 focus, Ch. 2 application, cool-down.
+
 ## Log line format
 
 Log this chapter's work in your tracking document ([approach.md §8](approach.md#8-tracking)) with the exercise number prefixed by `1.`—for example `1.10  84 bpm  pass  even`. Log only what you actually practised; there is no obligation to touch every exercise in every session.

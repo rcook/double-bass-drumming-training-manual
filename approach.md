@@ -67,6 +67,8 @@ This is the operational definition of "done for now".
 
 Every exercise is worked at two numbers: a **starting bpm** (slow enough to play cleanly today) and a **target bpm** (a provisional ceiling for this phase of learning). Work happens between the two.
 
+Some exercises additionally have a third number: an **unlock bpm**, the threshold that opens the next stage of the manual. It is set below target bpm on purpose—the next stage should open when your feet are ready to work its material, not when you have exhausted the current stage. The exercise keeps advancing towards its target bpm after unlock; the unlock bpm is a gate, not a ceiling. Only exercises that gate a stage transition carry one; the per-chapter sheet lists which exercises those are and what their unlock bpm is (see [§5](#5-the-chapter-progression) for the stage-by-stage picture).
+
 A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, with:
 
 - even stroke volume between the two feet
@@ -102,7 +104,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 **Stage 1—Foundation (R&L Ch. 1).** There is exactly one Stage 1 chapter—R&L Ch. 1, *Starters*. Always active as warm-up. This chapter is never fully graduated out of; the exercises just get faster and stay in rotation for the life of the manual.
 
-**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths.
+**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths. **Unlocked when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all hold 90 bpm cleanly** (their unlock bpm—see [§4](#4-the-tempo-target-and-clean-pass-rule)—reached via two consecutive `pass` sessions at 90 bpm per exercise). This is a floor, not a ceiling: the Ch. 1 Core exercises keep advancing towards their 120 bpm target in the warm-up block after Stage 2 opens.
 
 **Stage 3—Triplets (R&L Ch. 6, 7).** Unlocked once Stage 2 core beats hold ~90 bpm cleanly. Sequential within the stage—8th-note triplets first, then 16th-note triplets.
 
@@ -207,7 +209,7 @@ A worked example—three entries covering two sessions:
 
 If you have not practised an exercise in a given session, do not write a line for it. The log is a record of what happened, not a checklist of what should have happened.
 
-**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, target bpm, date of last clean pass. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
+**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, date of last clean pass. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
 
 **4. Archive.** Retired chapters, moved here when they drop out of the active list. Preserves history without cluttering the working view. Structure matches the per-chapter working state above.
 
@@ -238,7 +240,7 @@ You have read the method. Here is what to do right now.
 2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
 3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry in your session log per the format in [§8](#8-tracking).
 
-That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when the Ch. 1 core exercises hold their target bpm cleanly ([§5](#5-the-chapter-progression)).
+That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when Ex. 1, Ex. 10 and Ex. 11 of Ch. 1 all reach their unlock bpm of 90 bpm (two consecutive `pass` sessions at 90 bpm per exercise); the Ch. 1 Core keeps advancing towards its 120 bpm target as your warm-up after Stage 2 opens. See [§5](#5-the-chapter-progression), Stage 2.
 
 ### Starter template for your tracking document
 
@@ -254,7 +256,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 **Active chapters:**
 - Stage 1 warm-up: R&L Ch. 1—Starters
-- Later-stage focus: (none yet—unlocks after Ch. 1 core exercises hold their target bpm cleanly, per approach.md §5)
+- Later-stage focus: (none yet—unlocks when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all reach their unlock bpm (90 bpm), per approach.md §5)
 
 (Rubric: this header block is the single "what am I working on right now?" reference. Update the active chapters whenever they change. Keep it short—everything else lives in the sections below.)
 
@@ -270,15 +272,17 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Per-chapter working state
 
-(Rubric: one subsection per active chapter, showing your current bpm for each exercise you have started. This is what you look up at the start of each session to answer "what bpm do I set the metronome to?". Update the current bpm when an exercise passes two consecutive practice sessions at a given bpm; drop it back one increment on a fail.)
+(Rubric: one subsection per active chapter, showing your current bpm for each exercise you have started. This is what you look up at the start of each session to answer "what bpm do I set the metronome to?". Update the current bpm when an exercise passes two consecutive practice sessions at a given bpm; drop it back one increment on a fail. The Unlock bpm column is filled only for exercises that gate the transition into the next stage (per the chapter sheet's "Moving on to…" section); it is blank for exercises that do not. When the current bpm reaches the unlock bpm on every gated exercise in the chapter, the next stage opens—see the chapter sheet for the transition procedure.)
 
 ### R&L Ch. 1—Starters
 
-| Ex. | Current bpm | Target bpm | Last clean pass |
-| --- | --- | --- | --- |
-| 1   | 60          | 120        | (none yet)      |
+| Ex. | Current bpm | Unlock bpm | Target bpm | Last clean pass |
+| --- | --- | --- | --- | --- |
+| 1   | 60          | 90         | 120        | (none yet)      |
+| 10  | 60          | 90         | 120        | (none yet)      |
+| 11  | 60          | 90         | 120        | (none yet)      |
 
-(Add rows for exercises 10, 11, 12, 13 as you begin working them. See chapter-01.md for the full list, starting bpm and target bpm per exercise.)
+(Add rows for exercises 12 and 13 if you start rotating them in. See chapter-01.md for their starting and target bpm.)
 
 ---
 
