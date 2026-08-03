@@ -1,5 +1,7 @@
 # R&L Ch. 4—Four Consecutive 16th Notes
 
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+
 - **Stage:** 2 (16th-note density ladder, third step)
 - **Book pages:** R&L pp. 16–18
 - **Total exercises:** ~33—Warm-Ups 1–8 (each with footing variants), Beats 9–22, Fills 23–33

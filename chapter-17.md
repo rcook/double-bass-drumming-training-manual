@@ -1,5 +1,7 @@
 # R&L Ch. 17—Binary Beats and Fills
 
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+
 - **Stage:** 6 (Rondinelli additions, third chapter)
 - **Book pages:** R&L pp. 76–83
 - **Total exercises:** ~104—Beats 1–65 (1-bar, 2-bar and 4-bar patterns), Fills 1–39

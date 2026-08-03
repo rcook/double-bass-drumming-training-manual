@@ -6,6 +6,10 @@
 
 A training manual built around Bobby Rondinelli and Michael Lauren's *The Encyclopedia of Double Bass Drumming (Revised Edition)*. The source book is a reference of exercises; this manual wraps a method around it, focused on strength and accuracy for a self-directed beginner.
 
+## Project status
+
+The methodology in [approach.md](approach.md) and the chapter-01 working sheet ([chapter-01.md](chapter-01.md)) are the current reference implementation. Chapters 2–23 exist as skeletons—they have the metadata block, a brief "How to use this sheet" section, and Core / Rotation / Reference tables—but they have not yet been rewritten to the shape chapter-01 now has (first-session walkthrough, worked advancement example, explicit two-consecutive-passes loop, per-exercise rationale). The methodology is being validated on chapter-01 first; once the shape is stable, it propagates to the other 22 sheets. Each skeleton chapter sheet carries a banner at the top marking it as such. See [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding items.
+
 ## Repository structure
 
 - [approach.md](approach.md)—the training method. Start here.

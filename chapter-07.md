@@ -1,5 +1,7 @@
 # R&L Ch. 7—16th-Note Triplets
 
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+
 - **Stage:** 3 (Triplets, second step)
 - **Book pages:** R&L pp. 31–35
 - **Total exercises:** ~60—Warm-Ups 1–8 (each with footing variants), Beats 9 onward

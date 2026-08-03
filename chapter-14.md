@@ -1,5 +1,7 @@
 # R&L Ch. 14—Fast Track Double Bass
 
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 70–71
 - **Total exercises:** ~22—Beats 1–11, Fills 1–11

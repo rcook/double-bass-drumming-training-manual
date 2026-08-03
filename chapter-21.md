@@ -1,5 +1,7 @@
 # R&L Ch. 21—Turn the Beat Around (Turnarounds)
 
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+
 - **Stage:** 6 (Rondinelli additions, seventh chapter)
 - **Book pages:** R&L pp. 96–98
 - **Total exercises:** ~26—10 Feet Only Warm-Ups, then 16 Beats
