@@ -56,6 +56,8 @@ Once you are past your first session, the Core is your daily minimum for this ch
 
 That is roughly an 8-minute warm-up block, which matches the ~7–8 min the session template ([approach.md §6](approach.md#6-the-session-template)) allocates in a 30-min session. If you have less warm-up time than that, shrink the per-exercise times proportionally—but still do all three. If you have more, spend the extra time on whichever of the three felt weakest.
 
+**Why these three?** Ex. 1 isolates the weak foot, which is the chapter's stated purpose. Ex. 10 (16ths between the feet) and Ex. 11 (8th-note triplets between the feet) are the two subdivisions you will meet everywhere in Stages 2 and 3—Stage 2 is entirely 16ths, Stage 3 opens with 8th-note triplets—so warming up on them daily builds the foot subdivision you are about to apply against the hands. Ex. 12 (sextuplets) and Ex. 13 (32nds) map onto later or discretionary chapters ([approach.md §5](approach.md#5-the-chapter-progression), Stages 3 and 4) and go in Rotation for that reason.
+
 **Note on Ex. 1 (edition discrepancy).** The Revised Edition of R&L prints bar 2 of Ex. 1 on the same bass drum as bar 1—both on BD I (strong foot). This appears to be a printing error. The Original Edition places bar 2 on BD II (weak foot), which fits the chapter's stated purpose ("isolate and help develop your weak foot") and reads as a strong-foot / weak-foot alternation across the two bars. Play it as the Original Edition notates: bar 1 strong foot, bar 2 weak foot. See [content-issues.md](content-issues.md) (CI-001) for the record of this discrepancy, and [approach.md §3.1](approach.md#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii) for the general edition policy.
 
 ## Rotation (some sessions)
