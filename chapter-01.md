@@ -42,7 +42,27 @@ That is a complete first session. You have not touched every exercise in this ch
 
 Worked example over the first six sessions, assuming it goes well: session 1 `pass` at 60, session 2 `pass` at 60, session 3 raise to 64 and `pass`, session 4 `pass` at 64, session 5 raise to 68 and `pass`, session 6 `pass` at 68. Two passing sessions per bpm before every advancement. That is the mechanical loop for the rest of the manual, applied to this chapter.
 
-**Once you have a few sessions logged**, you have earned the right to rotate. Use the Core / Rotation / Reference tables below as your menu: keep exercises 1, 10 and 11 as your daily minimum, dip into 12 and 13 on longer days, and treat exercises 2–9 as discretionary 8th-note studies (2–3 foot-grouping, 4–9 accent variations).
+**Once you have logged your first advancement on Ex. 1**—two consecutive `pass` sessions at the same bpm followed by a raise to the next increment, i.e. session three at the earliest—expand the warm-up from Ex. 1 alone to the full Core block. See "Your third session" below for the concrete walkthrough. From that session onwards, exercises 1, 10 and 11 are your daily minimum; dip into Rotation (12 and 13) on longer days; treat Reference (2–9) as discretionary 8th-note studies (2–3 foot-grouping, 4–9 accent variations).
+
+## Your third session—expanding to the Core block
+
+By session three, if sessions one and two both logged `pass` at 60 bpm on Ex. 1, you have earned two things at once: an advancement on Ex. 1 (to 64 bpm, +4 bpm per [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)), and the right to expand the warm-up from "just Ex. 1" to the full Core block below.
+
+Concretely:
+
+1. Open your tracking document. Look up (or, for first-time exercises, read from the Core table) the current bpm for each Core exercise:
+    - Ex. 1: 64 bpm (advanced from 60 after two passes at 60).
+    - Ex. 10: 60 bpm (first time on this exercise; use the starting bpm from the Core table).
+    - Ex. 11: 60 bpm (first time on this exercise; same).
+2. Set a metronome and a timer within reach.
+3. **Ex. 1 (~2 min).** Set the metronome to 64 bpm. Set a 2-minute timer. Play unbroken until the timer stops. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Log: `1.1  64 bpm  <verdict>  <note>`.
+4. **Ex. 10 (~3 min).** This is a 16th-note single-stroke roll between the feet, and your first time on it. Set the metronome to 60 bpm. Set a 3-minute timer. Because this is the first time on the exercise, hold 60 bpm for the full three minutes even if it feels easy—do not probe up. Log: `1.10  60 bpm  <verdict>  <note>`.
+5. **Ex. 11 (~3 min).** 8th-note-triplet single-stroke roll between the feet; first time here too. Metronome at 60 bpm, 3-minute timer, hold the starting bpm for the full time. Log: `1.11  60 bpm  <verdict>  <note>`.
+6. Stop.
+
+That is a complete third session. Total playing time is about 8 minutes—less than session one's 10 minutes on Ex. 1 alone, but spread across three exercises. If you have more session time available, spend the extra minutes on whichever of the three felt weakest (usually Ex. 10 or Ex. 11 for the first several sessions, since they are new). If you have less time, shrink each per-exercise time proportionally, but still play all three.
+
+From session four onwards, the shape of every session is the same as session three: for each Core exercise, look up bpm, set the metronome, set the timer for the per-exercise time in the Core table, play, log. The two-consecutive-passes advancement rule from [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) applies to each exercise independently—Ex. 1, Ex. 10 and Ex. 11 will typically be at different bpms over time, and each advances on its own two-pass count.
 
 ## Core (most sessions)
 
