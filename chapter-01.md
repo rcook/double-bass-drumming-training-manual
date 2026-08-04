@@ -68,11 +68,11 @@ From session four onwards, the shape of every session is the same as session thr
 
 Once you are past your first session, the Core is your daily minimum for this chapter. Do all three exercises, in the order below, in a single warm-up block. Concretely: for each row in the table, look up your current bpm in the tracking document (or use the starting bpm for the first time), set the metronome, set a timer for the per-exercise time given below, play unbroken until the timer stops, log a verdict per the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)), then move on to the next exercise.
 
-| Ex. | Pattern | Start | Target | Per-exercise time |
-| --- | --- | --- | --- | --- |
-| 1 | Bar 1: quarter notes (strong foot). Bar 2: 8ths on the offbeats (weak foot). See notes below. | 60 bpm | 120 bpm | ~2 min |
-| 10 | 16th-note single-stroke roll between feet | 60 bpm | 120 bpm | ~3 min |
-| 11 | 8th-note-triplet single-stroke roll between feet | 60 bpm | 120 bpm | ~3 min |
+| Ex. | Pattern | Start | Unlock | Target | Per-exercise time |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Bar 1: quarter notes (strong foot). Bar 2: 8ths on the offbeats (weak foot). See notes below. | 60 bpm | 90 bpm | 120 bpm | ~2 min |
+| 10 | 16th-note single-stroke roll between feet | 60 bpm | 90 bpm | 120 bpm | ~3 min |
+| 11 | 8th-note-triplet single-stroke roll between feet | 60 bpm | 90 bpm | 120 bpm | ~3 min |
 
 That is roughly an 8-minute warm-up block, which matches the ~7–8 min the session template ([approach.md §6](approach.md#6-the-session-template)) allocates in a 30-min session. If you have less warm-up time than that, shrink the per-exercise times proportionally—but still do all three. If you have more, spend the extra time on whichever of the three felt weakest.
 
