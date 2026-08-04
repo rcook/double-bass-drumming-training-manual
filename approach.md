@@ -69,6 +69,8 @@ Every exercise is worked at two numbers: a **starting bpm** (slow enough to play
 
 Some exercises additionally have a third number: an **unlock bpm**, the threshold that opens the next stage of the manual. It is set below target bpm on purpose—the next stage should open when your feet are ready to work its material, not when you have exhausted the current stage. The exercise keeps advancing towards its target bpm after unlock; the unlock bpm is a gate, not a ceiling. Only exercises that gate a stage transition carry one; the per-chapter sheet lists which exercises those are and what their unlock bpm is (see [§5](#5-the-chapter-progression) for the stage-by-stage picture).
 
+Unlock bpm is a floor, not a landing target: keep the normal bpm increment (see the advancement rule below) even when it overshoots. For example, on the R&L Ch. 1 Core exercises the ladder from 60 bpm at +4 bpm reaches 88, then 92—92 counts as clearing a 90 bpm unlock. Do not shrink the last increment to land exactly on the unlock number.
+
 A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, with:
 
 - even stroke volume between the two feet
