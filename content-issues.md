@@ -16,7 +16,13 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
-(No open entries.)
+### CI-003—Per-chapter log-line examples in chapters 2–23 missing per-exercise duration
+
+- Filed: 2026-08-10
+- Location: `chapter-02.md` through `chapter-23.md`, each chapter's "Log line format" (or equivalent trailing) section. Concretely: `chapter-02.md:59`, `chapter-03.md:55`, `chapter-06.md:55`, `chapter-09.md:57`, `chapter-10.md:53`, `chapter-11.md:51`, `chapter-12.md:51`, `chapter-13.md:43`, `chapter-14.md:53`, `chapter-15.md:52`, `chapter-16.md:55`, `chapter-17.md:57`, `chapter-18.md:51`, `chapter-19.md:55`, `chapter-20.md:56`, `chapter-21.md:53`, `chapter-22.md:56`, `chapter-23.md:51`.
+- Observed: `approach.md` §8 was updated on 2026-08-10 so each log line is `chapter.exercise  bpm  duration  verdict  note`—a five-field format that adds per-exercise duration. `chapter-01.md` was updated to match. The trailing "Log line format" example in every other chapter still shows the old four-field shape (e.g. `2.5  70 bpm  pass  even`).
+- Concern: not urgent—Ch. 1 is the reference implementation, and later chapters are not yet in use. Deliberately deferred per the Ch. 1-first validation policy (see the shelved-propagation notes in memory).
+- Next step: when propagating validated Ch. 1 conventions to chapters 2–23, update each footer example to the five-field form: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`. Chapters with sub-sections (12, 13, 14, 17, 19, 20, 21) keep their identifier convention; just insert the duration field before the verdict.
 
 ## Resolved
 

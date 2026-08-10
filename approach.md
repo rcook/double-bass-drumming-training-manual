@@ -157,7 +157,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 2. Set your metronome to that bpm.
 3. Set a timer for the warm-up block's minutes (~7–8 min in a 30-min session; scale proportionally otherwise).
 4. Play the exercise unbroken until the timer stops. Focus on evenness between the feet; do not push the bpm inside the block.
-5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Write one line in your session log: `1.<exercise>  <bpm> bpm  <verdict>  <one-word note>`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`. Pick whatever will remind you what happened when you read the log next week.
+5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Write one line in your session log: `1.<exercise>  <bpm> bpm  <duration> min  <verdict>  <one-word note>`, where `<duration>` is the per-exercise time you actually spent (see [§8](#8-tracking) for the full log format). Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`. Pick whatever will remind you what happened when you read the log next week.
 
 ### Focus block
 
@@ -166,7 +166,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 3. Play the exercise unbroken for at least the first minute—that is your clean-pass attempt at the current bpm ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 4. If the current bpm was clean, raise the metronome by one increment (+2 to +4 bpm per [§4](#4-the-tempo-target-and-clean-pass-rule)) and play for another minute to *probe* the next step. If the current bpm was not clean, keep the current bpm and use the remaining time to reinforce it, not to escape it.
 5. Continue in that pattern (hold, probe, hold, probe) until the timer stops. You are not trying to advance every session; you are collecting data.
-6. When the timer stops, write the log line: `<chapter>.<exercise>  <bpm> bpm  <verdict>  <note>`. If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
+6. When the timer stops, write the log line: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format). If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
 
 ### Application block
 
@@ -194,24 +194,24 @@ The document has four sections, in this order:
 
 **1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
 
-**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the session duration in minutes, and one line per exercise practised. Each exercise line has four fields: `chapter.exercise`, bpm, verdict (`pass` / `near` / `fail`) and a one-word note.
+**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the total session duration in minutes, and one line per exercise practised. Each exercise line has five fields: `chapter.exercise`, bpm, per-exercise duration (how long you actually spent on that exercise), verdict (`pass` / `near` / `fail`) and a one-word note. The per-exercise durations are useful data on their own—they surface whether you are actually giving each exercise its intended block time—and they act as a checksum against the total: if the per-exercise durations do not roughly sum to the total, one of the numbers is wrong.
 
 A worked example—three entries covering two sessions:
 
 ```
 2026-08-01  45 min
-  1.7   88 bpm   pass    even
-  1.11  76 bpm   near    weak-foot
-  2.5   70 bpm   fail    dragging
+  1.7   88 bpm  5 min   pass    even
+  1.11  76 bpm  4 min   near    weak-foot
+  2.5   70 bpm  15 min  fail    dragging
 
 2026-07-30  30 min
-  1.7   84 bpm   pass    steady
-  2.5   68 bpm   pass    clean
+  1.7   84 bpm  8 min   pass    steady
+  2.5   68 bpm  15 min  pass    clean
 ```
 
 If you have not practised an exercise in a given session, do not write a line for it. The log is a record of what happened, not a checklist of what should have happened.
 
-**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, date of last clean pass. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
+**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, last pass bpm, last pass date. The current bpm and the last pass bpm can differ: after two consecutive passes at a bpm, current bpm advances one increment while the last pass bpm still records the tempo you actually passed at. Update these values as bpm increments and regressions happen. When a chapter drops out of the active list, move its subsection to the archive.
 
 **4. Archive.** Retired chapters, moved here when they drop out of the active list. Preserves history without cluttering the working view. Structure matches the per-chapter working state above.
 
@@ -266,7 +266,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Session log
 
-(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  verdict  one-word-note`. Verdicts are `pass` / `near` / `fail`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`. Only log what you actually practised.)
+(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, total session duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  duration  verdict  one-word-note`, where `duration` is the per-exercise time you spent (e.g. `3 min`). Verdicts are `pass` / `near` / `fail`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`. Only log what you actually practised. The per-exercise durations should roughly sum to the total—if they do not, one of the numbers is wrong.)
 
 (No entries yet. Your first session will populate this.)
 
@@ -274,15 +274,15 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Per-chapter working state
 
-(Rubric: one subsection per active chapter, showing your current bpm for each exercise you have started. This is what you look up at the start of each session to answer "what bpm do I set the metronome to?". Update the current bpm when an exercise passes two consecutive practice sessions at a given bpm; drop it back one increment on a fail. The Unlock bpm column is filled only for exercises that gate the transition into the next stage (per the chapter sheet's "Moving on to…" section); it is blank for exercises that do not. When the current bpm reaches the unlock bpm on every gated exercise in the chapter, the next stage opens—see the chapter sheet for the transition procedure.)
+(Rubric: one subsection per active chapter, showing your current bpm for each exercise you have started. This is what you look up at the start of each session to answer "what bpm do I set the metronome to?". Update the current bpm when an exercise passes two consecutive practice sessions at a given bpm; drop it back one increment on a fail. The current bpm and the last pass bpm can differ—after two consecutive passes at a bpm, the current bpm advances one increment while the last pass bpm still records the tempo you actually passed at. The Unlock bpm column is filled only for exercises that gate the transition into the next stage (per the chapter sheet's "Moving on to…" section); it is blank for exercises that do not. When the current bpm reaches the unlock bpm on every gated exercise in the chapter, the next stage opens—see the chapter sheet for the transition procedure.)
 
 ### R&L Ch. 1—Starters
 
-| Ex. | Current bpm | Unlock bpm | Target bpm | Last clean pass |
-| --- | --- | --- | --- | --- |
-| 1   | 60          | 90         | 120        | (none yet)      |
-| 10  | 60          | 90         | 120        | (none yet)      |
-| 11  | 60          | 90         | 120        | (none yet)      |
+| Ex. | Current bpm | Unlock bpm | Target bpm | Last pass bpm | Last pass date |
+| --- | --- | --- | --- | --- | --- |
+| 1   | 60          | 90         | 120        | (none yet)    | (none yet)     |
+| 10  | 60          | 90         | 120        | (none yet)    | (none yet)     |
+| 11  | 60          | 90         | 120        | (none yet)    | (none yet)     |
 
 (Add rows for exercises 12 and 13 if you start rotating them in. See chapter-01.md for their starting and target bpm.)
 
