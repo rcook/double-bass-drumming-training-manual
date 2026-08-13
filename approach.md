@@ -24,6 +24,8 @@ Read this section before any other. It is the difference between a manual you fo
 - **More time available (say 60+ minutes most days).** Do not simply scale everything up. Long sessions past ~60 minutes produce diminishing returns and rising injury risk. Instead, use the extra time for a second short session later in the day, or add a Stage 5 application chapter alongside your current focus. Never let the active-chapters count exceed three, regardless of time budget.
 - **Highly irregular schedule.** Prioritize the minimum-useful session ([§6](#6-the-session-template)): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
 
+**Multiple sessions in one day are fine.** If you have the time and the appetite, a second (or third) session later in the day is welcome—log each as its own entry in the session log with the same date, and treat each independently for verdicts and bpm probes. The one thing that does *not* happen twice in a day is a tempo advancement: only sessions on different practice days chain towards the two-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)). The reason is that the second `pass` is meant to confirm the tempo held after time away from the kit—a same-day repeat measures roughly the same thing as the first attempt.
+
 **Signs the programme is drifting towards unsustainable territory.** If any of these show up, adjust before they compound:
 
 - You are dreading practice sessions rather than looking forward to them
@@ -78,7 +80,7 @@ A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, wi
 - audible accents where they are written
 - the metronome click still clearly audible over your playing throughout the minute. If by the end of the minute you can no longer hear the click—because you are hitting harder than the metronome, because you have drifted off it, or because you are rushing ahead of it—the pass does not count. Turn the metronome up before the next attempt if the volume is the actual problem
 
-Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day), raise the metronome by a small increment. Typical increments:
+Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day—the second pass is meant to confirm the tempo held after time away from the kit, and a same-day repeat measures roughly the same thing as the first attempt), raise the metronome by a small increment. Multiple sessions per day are welcome for other reasons ([§2](#2-a-sustainable-regimen)); they just do not shortcut the advancement rule. Typical increments:
 
 - +4 bpm for warm-ups and feet-only exercises
 - +2 to +3 bpm for beats and fills played in context with hands
@@ -157,7 +159,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 2. Set your metronome to that bpm.
 3. Set a timer for the warm-up block's minutes (~7–8 min in a 30-min session; scale proportionally otherwise).
 4. Play the exercise unbroken until the timer stops. Focus on evenness between the feet; do not push the bpm inside the block.
-5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Write one line in your session log: `1.<exercise>  <bpm> bpm  <duration> min  <verdict>  <one-word note>`, where `<duration>` is the per-exercise time you actually spent (see [§8](#8-tracking) for the full log format). Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`. Pick whatever will remind you what happened when you read the log next week.
+5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Write one line in your session log: `1.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`, where `<duration>` is the per-exercise time you actually spent (see [§8](#8-tracking) for the full log format). The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`—and may be followed by a short free-form comment when a single word is not enough. Example tag-only: `pass  even`. Example tag plus prose: `pass  even, click clear throughout`. Pick whatever will remind you what happened when you read the log next week.
 
 ### Focus block
 
@@ -166,7 +168,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 3. Play the exercise unbroken for at least the first minute—that is your clean-pass attempt at the current bpm ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 4. If the current bpm was clean, raise the metronome by one increment (+2 to +4 bpm per [§4](#4-the-tempo-target-and-clean-pass-rule)) and play for another minute to *probe* the next step. If the current bpm was not clean, keep the current bpm and use the remaining time to reinforce it, not to escape it.
 5. Continue in that pattern (hold, probe, hold, probe) until the timer stops. You are not trying to advance every session; you are collecting data.
-6. When the timer stops, write the log line: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format). If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
+6. When the timer stops, write the log line: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format, including the tag-plus-optional-prose convention for the note). If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
 
 ### Application block
 
@@ -194,14 +196,16 @@ The document has four sections, in this order:
 
 **1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
 
-**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the total session duration in minutes, and one line per exercise practised. Each exercise line has five fields: `chapter.exercise`, bpm, per-exercise duration (how long you actually spent on that exercise), verdict (`pass` / `near` / `fail`) and a one-word note. The per-exercise durations are useful data on their own—they surface whether you are actually giving each exercise its intended block time—and they act as a checksum against the total: if the per-exercise durations do not roughly sum to the total, one of the numbers is wrong.
+**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the total session duration in minutes, and one line per exercise practised. Each exercise line has five fields: `chapter.exercise`, bpm, per-exercise duration (how long you actually spent on that exercise), verdict (`pass` / `near` / `fail`) and a note. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`—and may be followed by a short free-form comment where a single word is not enough. Keep the trailing prose brief; the log is for pattern-spotting, not journalling. The per-exercise durations are useful data on their own—they surface whether you are actually giving each exercise its intended block time—and they act as a checksum against the total: if the per-exercise durations do not roughly sum to the total, one of the numbers is wrong.
+
+If you practise more than once on the same day (see [§2](#2-a-sustainable-regimen)), write each session as its own entry with the same date; add a short time or session marker in the entry header if you want to distinguish them at a glance. Only sessions on different practice days chain towards the two-pass advancement rule ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 
 A worked example—three entries covering two sessions:
 
 ```
 2026-08-01  45 min
   1.7   88 bpm  5 min   pass    even
-  1.11  76 bpm  4 min   near    weak-foot
+  1.11  76 bpm  4 min   near    weak-foot, dropped notes in the last 20 s
   2.5   70 bpm  15 min  fail    dragging
 
 2026-07-30  30 min
@@ -266,7 +270,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Session log
 
-(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, total session duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  duration  verdict  one-word-note`, where `duration` is the per-exercise time you spent (e.g. `3 min`). Verdicts are `pass` / `near` / `fail`. Typical notes: `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`. Only log what you actually practised. The per-exercise durations should roughly sum to the total—if they do not, one of the numbers is wrong.)
+(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, total session duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  duration  verdict  note`, where `duration` is the per-exercise time you spent (e.g. `3 min`). Verdicts are `pass` / `near` / `fail`. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`—and may be followed by a short free-form comment where a single word is not enough. Only log what you actually practised. Multiple sessions on the same day are fine—each gets its own entry with the same date. The per-exercise durations should roughly sum to the total—if they do not, one of the numbers is wrong.)
 
 (No entries yet. Your first session will populate this.)
 

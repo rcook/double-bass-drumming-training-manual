@@ -29,7 +29,7 @@ If this is your first session and R&L Ch. 1 is your only active chapter, do exac
 5. **Set a timer for 10 minutes.**
 6. **Play exercise 1 unbroken** until the timer stops. Focus only on evenness between the feet—not on speed, not on the next exercise, not on the accents. The metronome click should stay clearly audible over your playing throughout the 10 minutes.
 7. When the timer stops, decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)): `pass` if the exercise held cleanly (feet even, click still audible, no dropped notes) for at least one continuous minute at 60 bpm; `near` if it was mostly clean but drifted or dragged; `fail` if you never managed a clean minute.
-8. Write one line in your session log ([approach.md §8](approach.md#8-tracking)): `1.1  60 bpm  10 min  <verdict>  <one-word note>`. Example: `1.1  60 bpm  10 min  pass  even`.
+8. Write one line in your session log ([approach.md §8](approach.md#8-tracking)): `1.1  60 bpm  10 min  <verdict>  <note>`, where the note starts with a short tag and may be followed by short free-form prose when a single word is not enough. Tag-only example: `1.1  60 bpm  10 min  pass  even`. Tag plus prose example: `1.1  60 bpm  10 min  pass  even, click clear throughout`.
 9. Stop.
 
 That is a complete first session. You have not touched every exercise in this chapter and you should not try to. Ten minutes of exercise 1 at 60 bpm with a metronome and a verdict logged is more useful than half an hour of unfocused variety.
@@ -115,4 +115,4 @@ When Ex. 1, Ex. 10 and Ex. 11 all sit at 90 bpm or above, open [chapter-02.md](c
 
 ## Log line format
 
-Log this chapter's work in your tracking document ([approach.md §8](approach.md#8-tracking)) with the exercise number prefixed by `1.`—for example `1.10  84 bpm  3 min  pass  even`. Log only what you actually practised; there is no obligation to touch every exercise in every session.
+Log this chapter's work in your tracking document ([approach.md §8](approach.md#8-tracking)) with the exercise number prefixed by `1.`—for example `1.10  84 bpm  3 min  pass  even`, or with a short trailing comment: `1.10  84 bpm  3 min  pass  even, weak foot caught up by minute 2`. See [approach.md §8](approach.md#8-tracking) for the full tag-plus-optional-prose convention. Log only what you actually practised; there is no obligation to touch every exercise in every session.
