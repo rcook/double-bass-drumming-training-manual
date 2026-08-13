@@ -30,6 +30,8 @@ Start with [approach.md](approach.md)—it establishes the method (the tempo-tar
 
 *The Encyclopedia of Double Bass Drumming (Revised Edition)* by Bobby Rondinelli and Michael Lauren is © 2000, 2022 Modern Drummer Media LLC. The PDF is not distributed via this repository—[source-material/](source-material/) is git-ignored. This manual assumes you have your own legally acquired copy of the book. Nothing here reproduces the source material; the manual adds original methodology around it.
 
+The manual is written against the Revised Edition, but is fully compatible with the Original Edition for Stages 1–5 (R&L Ch. 1–14). Stage 6 (R&L Ch. 15–23) is Revised-only. See [approach.md §3.2](approach.md#32-original-edition-compatibility) for the enumerated differences.
+
 ## Licence
 
 The [LICENCE](LICENCE) file contains the Creative Commons Attribution-ShareAlike 4.0 International Public License. It covers only the original content of this repository—the methodology, the working sheets and the extraction tooling. The source book's copyright is unaffected.

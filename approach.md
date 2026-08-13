@@ -32,9 +32,17 @@ Read this section before any other. It is the difference between a manual you fo
 - You are practising to avoid "falling behind" rather than because you want to
 - You are skipping the warm-up to save time for the "real" work—the warm-up *is* the real work
 - You are pushing bpm targets to stay on some imagined schedule
-- You have gone more than two weeks without practice and are avoiding coming back because "there is too much to catch up on"—there is not; the working state in your tracking document is exactly where you left it
+- You have gone more than two weeks without practice and are avoiding coming back because "there is too much to catch up on"—there is not; the working state in your tracking document is exactly where you left it, and there is a concrete return protocol below
 
-**Guilt is not a training tool.** The manual has no schedule for you to fall behind on. There is no such thing as "catching up". When you return after a break, you drop back one bpm increment ([§4](#4-the-tempo-target-and-clean-pass-rule)), do the 1-minute clean pass at that reduced tempo and continue from there. That is not a penalty; it is the honest state of your body after time off.
+**Guilt is not a training tool.** The manual has no schedule for you to fall behind on. There is no such thing as "catching up"—the working state in your tracking document is exactly where you left it, and that is the state you resume from. How much you drop back on return depends on how long you were away:
+
+| Away for | Do this on return |
+| --- | --- |
+| Roughly a week or less | For every active exercise, drop the current bpm by one increment for that material type ([§4](#4-the-tempo-target-and-clean-pass-rule): −4 bpm for warm-ups and feet-only exercises, −2 to −3 bpm for beats and fills played in context with hands). Concretely, if Ex. 1 was at 68 bpm before the break, resume at 64 bpm; if a Ch. 2 beat was at 74 bpm, resume at 72. Do the 1-minute clean pass at that reduced tempo and continue. |
+| Roughly a month | Drop each active exercise back to the **last pass bpm** recorded in your per-chapter working state ([§8](#8-tracking))—the tempo you last actually cleared, not the current bpm you were probing towards. Hold that tempo for two consecutive practice sessions ([§4](#4-the-tempo-target-and-clean-pass-rule)) before probing up again. |
+| Roughly a year, or you no longer remember where you were | Reset the current bpm on every active exercise to its starting bpm from the chapter sheet, and run the chapter's "Your first session" walkthrough again (for R&L Ch. 1, see [chapter-01.md](chapter-01.md)). The last pass bpm column in your tracking document stays as a memory of where you got to before—it is not today's ceiling. |
+
+None of this is a penalty. It is the honest state of your body after time off. The rule is deliberately generous on the short end and pragmatic on the long end—body memory returns fast, but the ceiling does not, and pushing yesterday's ceiling on today's feet is how injury and discouragement enter the programme.
 
 **Adjust the rules themselves when needed.** Everything below this section is a default, not a commandment. If a specific rule fights against sustainability rather than supporting it, change the rule.
 
@@ -61,7 +69,24 @@ R&L's own notation uses **BD I** and **BD II** on the staff key (see the "Key" p
 
 When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lead", read it as strong-foot lead unless you are left-footed, in which case invert. The same convention applies to the hands: **strong hand** and **weak hand** stand in for right/left where the manual describes hand orchestration (e.g. which hand plays snare vs. tom in a fill). When a specific limb is genuinely meant (for instance, the hi-hat pedal is played by the weak foot on a conventional setup regardless of handedness, so the hi-hat orchestration in R&L Ch. 20 is a weak-foot doubling), that will be called out explicitly rather than folded into the strong/weak scheme.
 
-**Edition policy.** This manual treats the Revised Edition of R&L as authoritative by default. Individual exercises where the Revised Edition and Original Edition disagree—and the Original Edition appears to be correct—are called out at the exercise level in the relevant chapter sheet, with the discrepancy logged in [content-issues.md](content-issues.md). Do not assume the two editions agree; where the sheet says nothing, they do.
+### 3.2 Original Edition compatibility
+
+**This manual is fully compatible with the Original Edition of R&L for Stages 1–5.** Everything in §§1–4 and §§6–11—the tempo-target and clean-pass rule, the session template, the tracking format, the starter walkthrough in §11—applies unchanged regardless of which edition you own. The differences between the two editions are contained and enumerated below.
+
+**Edition policy.** The manual treats the Revised Edition of R&L as authoritative by default. Individual exercises where the two editions disagree—and the Original Edition appears to be correct—are called out at the exercise level in the relevant chapter sheet, with the discrepancy logged in [content-issues.md](content-issues.md). Do not assume the two editions agree; where the sheet says nothing, they do.
+
+**Confirmed differences between the two editions.**
+
+- **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8, and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
+- **Front matter is common to both**: Introduction, Acknowledgments, Key panel (with the BD I / BD II staff assignment referenced in [§3.1](#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)), Getting Started With Double Bass, Two Bass Drums Versus A Double Pedal, Applying Double Bass.
+- **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder, and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography, and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
+- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is R&L Ch. 1 Ex. 1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1 (edition discrepancy)" and CI-001 in [content-issues.md](content-issues.md). Expect more of these to surface as more exercises are worked; each will be logged in [content-issues.md](content-issues.md) and called out on the relevant chapter sheet.
+
+**Working from the Original Edition.**
+
+- Stages 1–5 (R&L Ch. 1–14) run unmodified. That is the first year-plus of the training programme.
+- Stage 6 (R&L Ch. 15–23) is not reachable from the Original Edition alone. When you unlock Stage 6, either acquire a copy of the Revised Edition, or treat the end of Stage 5 as the natural end of this manual's structured progression and continue on your own from there.
+- Where a chapter sheet flags a per-exercise edition discrepancy, follow the sheet's call-out. The sheets pick whichever edition's notation the training goal supports; that choice is documented, not defaulted.
 
 ## 4. The tempo-target and clean-pass rule
 
@@ -116,7 +141,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 **Stage 5—Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms, R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
 
-**Stage 6—Rondinelli additions (R&L Ch. 15–23).** Deferred until Stages 2 and 3 are solid. Within Stage 6, follow the book order: 15 (starters and doubles) → 16 (feet-only doubles) → 17 (binary) → 18 (feet-only triplets) → 19 (ternary) → 20 (skiplets) → 21 (turnarounds) → 22 (ladder) → 23 (hands-doubles, feet-singles).
+**Stage 6—Rondinelli additions (R&L Ch. 15–23).** Deferred until Stages 2 and 3 are solid. Within Stage 6, follow the book order: 15 (starters and doubles) → 16 (feet-only doubles) → 17 (binary) → 18 (feet-only triplets) → 19 (ternary) → 20 (skiplets) → 21 (turnarounds) → 22 (ladder) → 23 (hands-doubles, feet-singles). These chapters appear only in the Revised Edition of R&L; see [§3.2](#32-original-edition-compatibility) if you are working from the Original Edition.
 
 **The active-chapters rule.** At any given time, R&L Ch. 1 (the sole Stage 1 chapter) is active as your warm-up, alongside 0, 1 or 2 chapters from a later stage. Never more than three chapters active simultaneously. Attention diluted across the whole book is what makes an encyclopedia unusable—the training manual exists to prevent that.
 
