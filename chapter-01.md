@@ -98,7 +98,7 @@ Exercises 2–9 are all 8th-note patterns. Ex. 2–3 vary how the 8ths are group
 ## Practice notes
 
 - The book's guidance to hold each exercise for at least 1 minute (R&L p. 6) is the same standard as the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Do not shortcut it.
-- These exercises can be played on the kit or on a practice pad—tapping the pattern on the floor is legitimate practice.
+- These exercises can be played on the kit or on a practice pad—tapping the pattern on the floor is legitimate practice. See [approach.md §7 "Off-kit session"](approach.md#off-kit-session) for how off-kit reps sit against the clean-pass rule and how to log them if you want to.
 - Do not neglect the accents where they are written. Even at slow tempos, an unaccented pass does not count as clean.
 - If the target bpm feels far away, that is expected. The number is a ceiling, not a schedule.
 

@@ -54,7 +54,7 @@ These are non-negotiable and apply to every session, regardless of duration or f
 - Accuracy comes before speed. If a bpm number can only be hit with sloppy articulation, that bpm does not count.
 - Hold each exercise for at least 1 minute unbroken. Short bursts train the wrong nervous system response.
 - Warm-ups isolate the weak foot deliberately. The weak foot is the ceiling on everything; treat it as the priority, not the afterthought.
-- Tapping the exercise on the floor away from the kit counts as practice. Off-kit reps are how the pattern gets into the body without the volume overhead.
+- Tapping the exercise on the floor away from the kit counts as practice. Off-kit reps are how the pattern gets into the body without the volume overhead. The mechanics are not identical to the kit—see [§7 "Off-kit session"](#off-kit-session) for how to treat off-kit work relative to the clean-pass rule and the log.
 - If a rhythm is not working with the feet, play it first with the hands. Once the ears own it, the feet learn it faster (R&L p. 3).
 - bpm is measured, not felt. A clean pass is defined, not vibed. See [§4](#4-the-tempo-target-and-clean-pass-rule).
 
@@ -211,6 +211,17 @@ You have no historical bpm to look up. Use the starting bpm from the chapter she
 
 For a 15-minute minimum-useful session ([§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down, and stop cleanly. A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
 
+### Off-kit session
+
+You do not always have to be at the kit. Tapping the exercise on the floor, on your leg or on a practice pad is legitimate practice and is called out as such in [§3](#3-guiding-principles) and in [chapter-01.md](chapter-01.md). It is how the pattern gets into the body without the volume overhead, and it lets you keep practising on days you cannot get to the kit.
+
+Two things about off-kit work are worth knowing so you do not misread the results:
+
+- **The mechanics differ.** A bass drum pedal has a spring that returns your foot; the floor does not. Heel-down technique loads the calf and shin differently against a pedal than against a bare floor. Muscles you have adapted for kit playing are not the same muscles being asked to hold three unbroken minutes of floor-tapping. Cramping or fatigue off-kit at a bpm you clear on the kit is expected, especially in your first few off-kit sessions—it is a signal about the medium, not about your progress on the exercise.
+- **Treat it as pattern work, not as a clean-pass attempt.** The clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)) is calibrated against the kit—it is where your bpm ladder lives. An off-kit rep is a rep on the same *pattern*, but not the same exercise. Do not chain an off-kit session into the two-pass advancement rule.
+
+Logging an off-kit session is optional. If you want it to show up in your log—as a record of a rep, or so you can see over time how often you were away from the kit—use the normal log line format ([§8](#8-tracking)) and add the tag `off-kit` in the note field. Verdicts on off-kit sessions are informational; do not use them to advance the current bpm.
+
 ## 8. Tracking
 
 Progress is tracked in a document you own and maintain yourself, kept outside this repository. Google Docs is the recommended format because it works on a phone during breaks, syncs across devices and supports inline comments where you want to leave yourself a note. A Word document or a plain text file is fine—the tool does not matter; the structure does. This project deliberately does not commit anyone's log to git.
@@ -221,7 +232,7 @@ The document has four sections, in this order:
 
 **1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
 
-**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the total session duration in minutes, and one line per exercise practised. Each exercise line has five fields: `chapter.exercise`, bpm, per-exercise duration (how long you actually spent on that exercise), verdict (`pass` / `near` / `fail`) and a note. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`—and may be followed by a short free-form comment where a single word is not enough. Keep the trailing prose brief; the log is for pattern-spotting, not journalling. The per-exercise durations are useful data on their own—they surface whether you are actually giving each exercise its intended block time—and they act as a checksum against the total: if the per-exercise durations do not roughly sum to the total, one of the numbers is wrong.
+**2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. One entry per session, containing: the date in ISO 8601 (`YYYY-MM-DD`), the total session duration in minutes, and one line per exercise practised. Each exercise line has five fields: `chapter.exercise`, bpm, per-exercise duration (how long you actually spent on that exercise), verdict (`pass` / `near` / `fail`) and a note. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`, `off-kit` (see [§7 "Off-kit session"](#off-kit-session))—and may be followed by a short free-form comment where a single word is not enough. Keep the trailing prose brief; the log is for pattern-spotting, not journalling. The per-exercise durations are useful data on their own—they surface whether you are actually giving each exercise its intended block time—and they act as a checksum against the total: if the per-exercise durations do not roughly sum to the total, one of the numbers is wrong.
 
 If you practise more than once on the same day (see [§2](#2-a-sustainable-regimen)), write each session as its own entry with the same date; add a short time or session marker in the entry header if you want to distinguish them at a glance. Only sessions on different practice days chain towards the two-pass advancement rule ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 
@@ -295,7 +306,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Session log
 
-(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, total session duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  duration  verdict  note`, where `duration` is the per-exercise time you spent (e.g. `3 min`). Verdicts are `pass` / `near` / `fail`. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`—and may be followed by a short free-form comment where a single word is not enough. Only log what you actually practised. Multiple sessions on the same day are fine—each gets its own entry with the same date. The per-exercise durations should roughly sum to the total—if they do not, one of the numbers is wrong.)
+(Rubric: rolling record of what you actually practised, newest at the top. One entry per session. Each entry: date in ISO 8601, total session duration in minutes, and one line per exercise practised in the form `chapter.exercise  bpm  duration  verdict  note`, where `duration` is the per-exercise time you spent (e.g. `3 min`). Verdicts are `pass` / `near` / `fail`. The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `off-kit`—and may be followed by a short free-form comment where a single word is not enough. Only log what you actually practised. Multiple sessions on the same day are fine—each gets its own entry with the same date. The per-exercise durations should roughly sum to the total—if they do not, one of the numbers is wrong.)
 
 (No entries yet. Your first session will populate this.)
 
