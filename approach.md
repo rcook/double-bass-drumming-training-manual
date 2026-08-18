@@ -220,7 +220,7 @@ Two things about off-kit work are worth knowing so you do not misread the result
 - **The mechanics differ.** A bass drum pedal has a spring that returns your foot; the floor does not. Heel-down technique loads the calf and shin differently against a pedal than against a bare floor. Muscles you have adapted for kit playing are not the same muscles being asked to hold three unbroken minutes of floor-tapping. Cramping or fatigue off-kit at a bpm you clear on the kit is expected, especially in your first few off-kit sessions—it is a signal about the medium, not about your progress on the exercise.
 - **Treat it as pattern work, not as a clean-pass attempt.** The clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)) is calibrated against the kit—it is where your bpm ladder lives. An off-kit rep is a rep on the same *pattern*, but not the same exercise. Do not chain an off-kit session into the two-pass advancement rule.
 
-Logging an off-kit session is optional. If you want it to show up in your log—as a record of a rep, or so you can see over time how often you were away from the kit—use the normal log line format ([§8](#8-tracking)) and add the tag `off-kit` in the note field. Verdicts on off-kit sessions are informational; do not use them to advance the current bpm.
+Logging an off-kit session is optional. If you want it to show up in your log—as a record of a rep, or so you can see over time how often you were away from the kit—use the normal log line format ([§8](#8-tracking)) and add the tag `off-kit` in the note field. Verdicts on off-kit sessions are informational; do not use them to advance or regress the current bpm.
 
 ## 8. Tracking
 
