@@ -91,6 +91,10 @@ Once the Core is stable (say, two weeks of consistent `pass` verdicts on exercis
 
 If a Rotation exercise is bumping the warm-up block past ~10 minutes and eating into your focus block, drop it for that session. The Core comes first.
 
+**Cadence.** Once you are using Rotation at all, aim for each of Ex. 12 and Ex. 13 to get worked once a week or so when time allows—about two Rotation sessions per practice week at the ~5-days-per-week baseline. That is a target, not a rule: skip Rotation entirely on short days, and a missed week is not a debt. The advancement rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)) still applies—two consecutive `pass` sessions at the same bpm earn the +4 bpm raise—but the two sessions accrue across weeks rather than back-to-back days. Per approach.md §4 that is if anything a stronger confirmation than a same-week repeat, since the tempo has to hold after real time away from the exercise.
+
+**After Stage 2 unlocks.** Rotation's natural cadence drops once Stage 2 opens and Ch. 1 becomes the ~7–8 min warm-up block of a full three-block session ([approach.md §6](approach.md#6-the-session-template)) rather than the whole session. There is rarely room for a fourth exercise inside a short warm-up. It is fine for Rotation to appear less often—or not at all—once later chapters occupy the focus and application blocks; the pre-Stage-2 window, when Ch. 1 is the whole session, is where most of your Rotation exposure will naturally happen.
+
 ## Reference (discretionary)
 
 Exercises 2–9 are all 8th-note patterns. Ex. 2–3 vary how the 8ths are grouped between the feet (four-and-four, then eight-and-eight) with no accents. Ex. 4–9 layer accents on 8ths in different placements—some over regular groupings between the feet, some over single-stroke alternation between the feet (Ex. 8–9, matching the book's own note that Ex. 8–12 are single-stroke rolls). Useful for foot-grouping and accent control; not required for the strength-and-accuracy path. Dip in when you want variety or when a specific pattern shows up in a beat you are working elsewhere. If you never play them, that is fine.
