@@ -16,6 +16,30 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
+### CI-006—Unlock bpm scheme undefined for stage transitions beyond Stage 1 → 2
+
+- Filed: 2026-08-20
+- Location: [approach.md §5](approach.md#5-the-chapter-progression). Downstream: `chapter-02.md` through `chapter-13.md`, each of which will need a "Moving on to…" section citing the scheme.
+- Observed: only Stage 1 → Stage 2 has a concrete unlock bpm (90 bpm on Ch. 1 Ex. 1, 10 and 11, validated through Richard's practice log 2026-07-30 → 2026-08-20). Every other transition in §5 is either vague ("once Stage 2 core beats hold ~90 bpm cleanly") or ungated. Within-stage sequences (Ch. 2 → 3 → 4 → 5, Ch. 6 → 7) are described as "strict sequence" but with no bpm numbers.
+- Concern: chapter-02.md will need an unlock bpm in its "Moving on to…" section when Stage 2 unlocks (realistically ~1–2 weeks from filing). Without a scheme in place, that decision gets made in isolation rather than as part of a coherent stage-graph design.
+- Next step: three-part plan agreed on 2026-08-20. **A.** Agree the scheme — an approach.md §5 principle-level rewrite of *how* to pick unlocks, not the specific numbers. **B.** Commit numbers for near-term transitions: Stage 2 internal (Ch. 2 → 3 → 4 → 5) and Stage 2 → Stage 3. **C.** Defer Stage 3 internal (Ch. 6 → 7) and everything at Stage 4/5/6 until those chapters get their skeleton work. Strawman scheme (reactions pending): (1) gate exercises are whatever prepares the next chapter's material; (2) between-stage transitions gate on 2–3 exercises, within-stage on one; (3) unlock bpm ≈ material-type target minus a comfortable margin — Stage 1 → 2 used a 25% margin (90 vs 120) — landed on a ladder step, with per-transition rationale rather than a strict formula; (4) Stage 4 (probe) and Stage 6 (deferred) carry no unlock bpm — keep the soft-gating language.
+
+### CI-005—Chapter-sheet template for propagating Ch. 1 shape to Stage 2+ chapters
+
+- Filed: 2026-08-20
+- Location: template candidate location [DEVELOPMENT.md](DEVELOPMENT.md) or a new `chapter-template.md`. Downstream target: `chapter-02.md` through `chapter-23.md`.
+- Observed: [chapter-01.md](chapter-01.md) is the reference implementation for a working chapter sheet, now validated through ~3 weeks of real Core-block practice. Every other chapter file has only the "Skeleton sheet" banner. Propagation was deliberately shelved on 2026-08-03 pending real-session validation; that validation has now happened.
+- Concern: filling in chapter-02.md in ~1–2 weeks (when Stage 2 unlocks) will require a template. Doing that as a one-off risks 22 more chapters copy-pasting bugs from Ch. 2. Better to design the template once and apply consistently.
+- Next step: draft the template covering (a) which Ch. 1 sections generalise unchanged, (b) how sections adapt for a Stage 2+ chapter — different session role (Ch. 1 is the whole session before Stage 2 unlocks; Ch. 2+ occupies focus and application blocks per [approach.md §6](approach.md#6-the-session-template)), (c) which per-chapter decisions must be made when instantiating: unlock bpm (see CI-006), target bpm from [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) material-type table, "Moving on to…" criterion, adaptations of "Your first session" for a chapter that is not first. Depends on CI-006 being resolved first (the template will reference the unlock-bpm scheme).
+
+### CI-004—chapter-01.md log-entry references retain compact-line phrasing after §8 tabular rewrite
+
+- Filed: 2026-08-20
+- Location: [chapter-01.md](chapter-01.md) — "Your first session" step 8 (`Write one line in your session log`), "Your third session" steps 3–5 (`Log: 1.1  64 bpm  2 min  …`), "Log line format" section header near the bottom, and the trailing prose line in that section.
+- Observed: 2026-08-20 (commit `da6049f`) rewrote approach.md §8 to lead with a tabular presentation of the session log and demoted the compact-line form to a plain-text-file alternative. approach.md §7 was updated in the same commit to neutral "Add a log entry" phrasing. chapter-01.md was not touched and still uses "Write one line" wording and compact-line examples throughout, so it now diverges from approach.md §7.
+- Concern: minor — the compact-line form is still valid per new §8, so ch1's examples are not wrong. But a reader following ch1's "Your first session" walkthrough with a Google Docs table open will find "Write one line" jarring, and the "Log line format" section header reads as line-based when the primary shape is tabular.
+- Next step: rewrite the four references to neutral "Add a log entry" phrasing (matching approach.md §7), and rename "Log line format" to "Log entry format". Compact-line examples can stay — they are one valid representation of the entry fields.
+
 ### CI-003—Per-chapter log-line examples in chapters 2–23 missing per-exercise duration
 
 - Filed: 2026-08-10
