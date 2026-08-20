@@ -104,7 +104,7 @@ Exercises 2–9 are all 8th-note patterns. Ex. 2–3 vary how the 8ths are group
 
 ## Moving on to Stage 2
 
-Stage 2 (R&L Ch. 2, doubled 16ths between the feet—see [approach.md §5](approach.md#5-the-chapter-progression)) unlocks when **Ex. 1, Ex. 10 and Ex. 11 all reach their unlock bpm of 90 bpm**—two consecutive `pass` sessions at 90 bpm on each of the three exercises, per the advancement rule in [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule). All three, not the fastest one. In practice Ex. 10 (16ths between the feet) is usually the slowest to reach 90 bpm, because it is the same doubled-16th coordination Ch. 2 is about to train against the hands—which is exactly why it gates the transition.
+Stage 2 (R&L Ch. 2, doubled 16ths between the feet—see [approach.md §5](approach.md#5-the-chapter-progression)) unlocks when **Ex. 1, Ex. 10 and Ex. 11 all reach their unlock bpm of 90 bpm**—two consecutive `pass` sessions at 90 bpm on each of the three exercises, per the advancement rule in [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule). The +4 bpm ladder from 60 lands on 60, 64, 68, 72, 76, 80, 84, 88, 92—it skips 90 entirely; per approach.md §4, 92 counts as clearing the 90 bpm unlock, and you should not shrink the last increment to land on 90 exactly. All three, not the fastest one. In practice Ex. 10 (16ths between the feet) is usually the slowest to reach 90 bpm, because it is the same doubled-16th coordination Ch. 2 is about to train against the hands—which is exactly why it gates the transition.
 
 Two things this rule is not:
 
