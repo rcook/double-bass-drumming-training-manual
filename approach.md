@@ -295,7 +295,7 @@ You have read the method. Here is what to do right now.
 
 1. **Set up your tracking document.** Create a new Google Doc (or Word document, or plain text file—see [§8](#8-tracking) for the format rationale) and copy the starter template below into it. Fill in the placeholders. Do not add anything else yet.
 2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
-3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry in your session log per the format in [§8](#8-tracking).
+3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry per exercise in your session log per the format in [§8](#8-tracking).
 
 That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when Ex. 1, Ex. 10 and Ex. 11 of Ch. 1 all reach their unlock bpm of 90 bpm (two consecutive `pass` sessions at 90 bpm per exercise); the Ch. 1 Core keeps advancing towards its 120 bpm target as your warm-up after Stage 2 opens. See [§5](#5-the-chapter-progression), Stage 2.
 
