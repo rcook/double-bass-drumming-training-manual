@@ -16,14 +16,6 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
-### CI-006—Unlock bpm scheme undefined for stage transitions beyond Stage 1 → 2
-
-- Filed: 2026-08-20
-- Location: [approach.md §5](approach.md#5-the-chapter-progression). Downstream: `chapter-02.md` through `chapter-13.md`, each of which will need a "Moving on to…" section citing the scheme.
-- Observed: only Stage 1 → Stage 2 has a concrete unlock bpm (90 bpm on Ch. 1 Ex. 1, 10 and 11, validated through Richard's practice log 2026-07-30 → 2026-08-20). Every other transition in §5 is either vague ("once Stage 2 core beats hold ~90 bpm cleanly") or ungated. Within-stage sequences (Ch. 2 → 3 → 4 → 5, Ch. 6 → 7) are described as "strict sequence" but with no bpm numbers.
-- Concern: chapter-02.md will need an unlock bpm in its "Moving on to…" section when Stage 2 unlocks (realistically ~1–2 weeks from filing). Without a scheme in place, that decision gets made in isolation rather than as part of a coherent stage-graph design.
-- Next step: three-part plan agreed on 2026-08-20. **A.** Agree the scheme — an approach.md §5 principle-level rewrite of *how* to pick unlocks, not the specific numbers. **B.** Commit numbers for near-term transitions: Stage 2 internal (Ch. 2 → 3 → 4 → 5) and Stage 2 → Stage 3. **C.** Defer Stage 3 internal (Ch. 6 → 7) and everything at Stage 4/5/6 until those chapters get their skeleton work. Strawman scheme (reactions pending): (1) gate exercises are whatever prepares the next chapter's material; (2) between-stage transitions gate on 2–3 exercises, within-stage on one; (3) unlock bpm ≈ material-type target minus a comfortable margin — Stage 1 → 2 used a 25% margin (90 vs 120) — landed on a ladder step, with per-transition rationale rather than a strict formula; (4) Stage 4 (probe) and Stage 6 (deferred) carry no unlock bpm — keep the soft-gating language.
-
 ### CI-005—Chapter-sheet template for propagating Ch. 1 shape to Stage 2+ chapters
 
 - Filed: 2026-08-20
@@ -49,6 +41,15 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 - Next step: when propagating validated Ch. 1 conventions to chapters 2–23, update each footer example to the five-field form: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`. Chapters with sub-sections (12, 13, 14, 17, 19, 20, 21) keep their identifier convention; just insert the duration field before the verdict.
 
 ## Resolved
+
+### CI-006—Unlock bpm scheme undefined for stage transitions beyond Stage 1 → 2
+
+- Filed: 2026-08-20
+- Location: [approach.md §5](approach.md#5-the-chapter-progression). Downstream: `chapter-02.md` through `chapter-13.md`, each of which will need a "Moving on to…" section citing the scheme.
+- Observed: only Stage 1 → Stage 2 has a concrete unlock bpm (90 bpm on Ch. 1 Ex. 1, 10 and 11, validated through Richard's practice log 2026-07-30 → 2026-08-20). Every other transition in §5 is either vague ("once Stage 2 core beats hold ~90 bpm cleanly") or ungated. Within-stage sequences (Ch. 2 → 3 → 4 → 5, Ch. 6 → 7) are described as "strict sequence" but with no bpm numbers.
+- Concern: chapter-02.md will need an unlock bpm in its "Moving on to…" section when Stage 2 unlocks (realistically ~1–2 weeks from filing). Without a scheme in place, that decision gets made in isolation rather than as part of a coherent stage-graph design.
+- Resolved: 2026-08-21—rewrote [approach.md §5](approach.md#5-the-chapter-progression) around the four-rule scheme (gate exercises prep the next chapter's material; between-stage gates on 2–3 exercises, within-stage on 1; unlock bpm ≈ material-type target − 25%, rounded to a ladder step, per-transition rationale allowed; Stages 4/5/6 carry no unlock bpm). Numbers committed for the near-term transitions in a "Concrete unlock criteria (staging table)" alongside the scheme: Ch. 2 → 3 gates on Ch. 2 Ex. 10 at 82 bpm; Ch. 3 → 4 on Ch. 3 Ex. 12 at 82 bpm; Ch. 4 → 5 on Ch. 4 Ex. 12 at 82 bpm; Stage 2 → 3 on Ch. 1 Ex. 11 at 100 bpm plus Ch. 5 Ex. 13 at 88 bpm (both with tighter-than-25% margins per the between-stage override clause). Stage 3 internal (Ch. 6 → 7) and every transition at Stage 4, 5 or 6 remain deferred until those chapter sheets get their skeleton fill—captured in the closing sentence of the scheme block and in CI-005.
+- Lessons: the staging table lives in §5 as a bridge until CI-005 (chapter-sheet template) lands and each row can migrate to its chapter sheet's "Moving on to…" section. Keeping numbers centralized while the target sheets are skeletons avoids the split-brain problem of half-filled chapter sheets.
 
 ### CI-002—Ch. 1 Reference exercises (2–9) mislabelled as "accent-variation studies"
 

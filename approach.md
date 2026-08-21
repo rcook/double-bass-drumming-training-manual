@@ -131,11 +131,30 @@ There is no lifetime "final" bpm. Targets exist per phase of learning. "Done for
 
 The 23 chapters do not need to be worked in strict order. They are grouped into six stages, each with rules for what unlocks the next.
 
+**Stage-transition unlocks.** Each stage transition is gated by an unlock bpm on one or more exercises—the concrete criterion for opening the next stage, per [§4](#4-the-tempo-target-and-clean-pass-rule). The scheme:
+
+1. **Gate exercises are whatever prepares the next chapter's material.** For Stage 1 → 2, the gates are R&L Ch. 1 Ex. 1 (weak-foot isolation), Ex. 10 (16th-note single-stroke roll—preps Ch. 2's doubled 16ths) and Ex. 11 (8th-note-triplet single-stroke roll—preps Stage 3 triplets).
+2. **Between-stage transitions gate on 2–3 exercises; within-stage on one.** Between-stage jumps are qualitative (new subdivision, new orchestration); multiple checkpoints reduce the risk of opening a stage the feet are not ready for. Within-stage jumps (e.g. Ch. 2 → 3 inside the 16th-note density ladder) are quantitative and one gate is enough.
+3. **Unlock bpm ≈ material-type target − 25%, rounded to a ladder step.** Stage 1 → 2 landed on 90 bpm against the 120 bpm target for Ch. 1 warm-ups. Per-transition rationale can override: a jump into a qualitatively different subdivision may warrant a tighter margin, and any transition may land the number on a nearby ladder step for practical reasons.
+4. **Stages 4 (probe), 5 (interleaved) and 6 (deferred) carry no unlock bpm.** Stage 4 is exposure only. Stage 5 chapters are picked up interleaved with Stage 2 and Stage 3 work rather than gated. Stage 6 is deferred until Stages 2 and 3 are solid; that is itself the gate.
+
+**Concrete unlock criteria (staging table).** Each row will migrate to its chapter sheet's "Moving on to…" section once that sheet is filled in; for now the manual carries them here so the numbers are visible while the chapter sheets are still skeletons.
+
+| Transition | Type | Gate exercise(s) | Unlock bpm | Rationale |
+| --- | --- | --- | --- | --- |
+| Stage 1 → 2 | Between-stage | R&L Ch. 1 Ex. 1, Ex. 10 and Ex. 11 | 90 (each) | 25% below the 120 bpm warm-up target; the scheme's baseline example. Concrete text in [chapter-01.md](chapter-01.md) "Moving on to Stage 2". |
+| Ch. 2 → 3 | Within-stage | R&L Ch. 2 Ex. 10 (Beats, doubled 16ths sustained across the bar) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 10 is the deepest sustained-doubled-16th exercise in Ch. 2, so it also preps 3-consecutive-16ths in Ch. 3. |
+| Ch. 3 → 4 | Within-stage | R&L Ch. 3 Ex. 12 (Beats, groove-context reinforcement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 12 represents chapter maturity in context and preps 4-consecutive-16ths in Ch. 4. |
+| Ch. 4 → 5 | Within-stage | R&L Ch. 4 Ex. 12 (Beats, sustained four-16th runs in a different placement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 12 preps 5-to-16-consecutive-16ths in Ch. 5. |
+| Stage 2 → 3 | Between-stage | R&L Ch. 1 Ex. 11 at 100 bpm; R&L Ch. 5 Ex. 13 (Beats, built on longer 16th runs) at 88 bpm | 100 and 88 | Two gates. Ex. 11 is the direct triplet prep (17% below its 120 bpm target—tighter than default because between-stage and directly on the incoming material type). Ch. 5 Ex. 13 checks Stage 2 maturity in context (20% below its 110 bpm target—tighter than default because between-stage). Concrete text will land in `chapter-05.md` "Moving on to Stage 3" when that sheet is filled in. |
+
+Stage 3 internal (Ch. 6 → 7) and every transition at Stage 4, 5 or 6 is deferred until those chapter sheets get their skeleton fill.
+
 **Stage 1—Foundation (R&L Ch. 1).** There is exactly one Stage 1 chapter—R&L Ch. 1, *Starters*. Always active as warm-up. This chapter is never fully graduated out of; the exercises just get faster and stay in rotation for the life of the manual.
 
-**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths. **Unlocked when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all hold 90 bpm cleanly** (their unlock bpm—see [§4](#4-the-tempo-target-and-clean-pass-rule)—reached via two consecutive `pass` sessions at 90 bpm per exercise). This is a floor, not a ceiling: the Ch. 1 Core exercises keep advancing towards their 120 bpm target in the warm-up block after Stage 2 opens.
+**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths. **Unlocked when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all hold 90 bpm cleanly** (their unlock bpm—see [§4](#4-the-tempo-target-and-clean-pass-rule)—reached via two consecutive `pass` sessions at 90 bpm per exercise). This is a floor, not a ceiling: the Ch. 1 Core exercises keep advancing towards their 120 bpm target in the warm-up block after Stage 2 opens. Within-stage transitions (Ch. 2 → 3, 3 → 4, 4 → 5) each gate on one exercise per the scheme above; the concrete numbers are in the staging table.
 
-**Stage 3—Triplets (R&L Ch. 6, 7).** Unlocked once Stage 2 core beats hold ~90 bpm cleanly. Sequential within the stage—8th-note triplets first, then 16th-note triplets.
+**Stage 3—Triplets (R&L Ch. 6, 7).** Between-stage unlock per the scheme above; the concrete gate exercises and unlock bpm are in the staging table. Sequential within the stage—8th-note triplets first, then 16th-note triplets; the Ch. 6 → 7 within-stage transition is deferred until those chapter sheets are filled in.
 
 **Stage 4—Density extremes (R&L Ch. 8).** Treated as a *probe*, not a *mastery target*. That means: work the chapter in short exposures spread across many sessions, and never let it become the focus of a whole training phase the way Stages 2 and 3 do. "Visit; do not camp" says the same thing—drop in on Ch. 8 for a session or two, feel the 32nd-note subdivision at whatever bpm you can play cleanly, log a verdict and go back to your normal focus chapter. There is no bpm target for this chapter; there is no criterion for "done"; the point is exposure so that when 32nd-note figures show up in Stage 5+ material, they are not foreign.
 
