@@ -77,9 +77,9 @@ When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lea
 
 **Confirmed differences between the two editions.**
 
-- **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8, and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
+- **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8 and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
 - **Front matter is common to both**: Introduction, Acknowledgments, Key panel (with the BD I / BD II staff assignment referenced in [§3.1](#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)), Getting Started With Double Bass, Two Bass Drums Versus A Double Pedal, Applying Double Bass.
-- **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder, and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography, and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
+- **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
 - **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is R&L Ch. 1 Ex. 1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1 (edition discrepancy)" and CI-001 in [content-issues.md](content-issues.md). Expect more of these to surface as more exercises are worked; each will be logged in [content-issues.md](content-issues.md) and called out on the relevant chapter sheet.
 
 **Working from the Original Edition.**
@@ -103,7 +103,7 @@ A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, wi
 - even stroke volume between the two feet
 - no dropped, doubled or rushed notes
 - audible accents where they are written
-- the metronome click still clearly audible over your playing throughout the minute. If by the end of the minute you can no longer hear the click—because you are hitting harder than the metronome, because you have drifted off it, or because you are rushing ahead of it—the pass does not count. Turn the metronome up before the next attempt if the volume is the actual problem
+- the metronome click still clearly audible over your playing throughout the minute. If by the end of the minute you can no longer hear the click—because you are hitting harder than the metronome, because you have drifted off it or because you are rushing ahead of it—the pass does not count. Turn the metronome up before the next attempt if the volume is the actual problem
 
 Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day—the second pass is meant to confirm the tempo held after time away from the kit, and a same-day repeat measures roughly the same thing as the first attempt), raise the metronome by a small increment. Multiple sessions per day are welcome for other reasons ([§2](#2-a-sustainable-regimen)); they just do not shortcut the advancement rule. Typical increments:
 
@@ -137,7 +137,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 **Stage 3—Triplets (R&L Ch. 6, 7).** Unlocked once Stage 2 core beats hold ~90 bpm cleanly. Sequential within the stage—8th-note triplets first, then 16th-note triplets.
 
-**Stage 4—Density extremes (R&L Ch. 8).** Treated as a *probe*, not a *mastery target*. That means: work the chapter in short exposures spread across many sessions, and never let it become the focus of a whole training phase the way Stages 2 and 3 do. "Visit; do not camp" says the same thing—drop in on Ch. 8 for a session or two, feel the 32nd-note subdivision at whatever bpm you can play cleanly, log a verdict, and go back to your normal focus chapter. There is no bpm target for this chapter; there is no criterion for "done"; the point is exposure so that when 32nd-note figures show up in Stage 5+ material, they are not foreign.
+**Stage 4—Density extremes (R&L Ch. 8).** Treated as a *probe*, not a *mastery target*. That means: work the chapter in short exposures spread across many sessions, and never let it become the focus of a whole training phase the way Stages 2 and 3 do. "Visit; do not camp" says the same thing—drop in on Ch. 8 for a session or two, feel the 32nd-note subdivision at whatever bpm you can play cleanly, log a verdict and go back to your normal focus chapter. There is no bpm target for this chapter; there is no criterion for "done"; the point is exposure so that when 32nd-note figures show up in Stage 5+ material, they are not foreign.
 
 **Stage 5—Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms, R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
 
@@ -175,7 +175,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 
 1. Open your tracking document (see [§8](#8-tracking) for its structure; [§11](#11-starting-your-first-session) has a copy-and-pasteable starter template if you have not created it yet).
 2. Look at the header block at the top of your tracking document. It lists your current active chapters: R&L Ch. 1 (always active as warm-up) plus 0, 1 or 2 later-stage chapters per [§5](#5-the-chapter-progression). Those are what you work today.
-3. Pick the specific exercises you will work today: one warm-up exercise from R&L Ch. 1, one focus exercise from your active Stage 2+ chapter (if any), and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
+3. Pick the specific exercises you will work today: one warm-up exercise from R&L Ch. 1, one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
 4. Decide the session duration and mentally scale the block minutes per [§6](#6-the-session-template).
 
 ### Warm-up block
@@ -205,11 +205,11 @@ No metronome, no timer. Play something musical for a couple of minutes. Nothing 
 
 ### First-ever session
 
-You have no historical bpm to look up. Use the starting bpm from the chapter sheet for every exercise, skip the probe step in the focus and application blocks, and use the whole block time to hold the starting bpm cleanly. On your second session you have data and the normal loop kicks in.
+You have no historical bpm to look up. Use the starting bpm from the chapter sheet for every exercise, skip the probe step in the focus and application blocks and use the whole block time to hold the starting bpm cleanly. On your second session you have data and the normal loop kicks in.
 
 ### Short session
 
-For a Stage 2+ minimum-useful session (~15 min; see [§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down, and stop cleanly. In Stage 1, when Ch. 1 is your only active chapter and there is no focus block yet, the minimum-useful session is the Ch. 1 Core warm-up itself (~8 min; see [chapter-01.md](chapter-01.md)). A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
+For a Stage 2+ minimum-useful session (~15 min; see [§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down and stop cleanly. In Stage 1, when Ch. 1 is your only active chapter and there is no focus block yet, the minimum-useful session is the Ch. 1 Core warm-up itself (~8 min; see [chapter-01.md](chapter-01.md)). A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
 
 ### Off-kit session
 
@@ -226,11 +226,11 @@ Logging an off-kit session is optional. If you want it to show up in your log—
 
 Progress is tracked in a document you own and maintain yourself, kept outside this repository. Google Docs is the recommended format because it works on a phone during breaks, syncs across devices and supports inline comments where you want to leave yourself a note. A Word document or a plain text file is fine—the tool does not matter; the structure does. This project deliberately does not commit anyone's log to git.
 
-Use a single master document for the whole training journey. A single document is faster to search, easier to see trends in, and cheaper to open mid-session.
+Use a single master document for the whole training journey. A single document is faster to search, easier to see trends in and cheaper to open mid-session.
 
 The document has four sections, in this order:
 
-**1. Header block.** Kept short. Contains your name if you want it, your start date, and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
+**1. Header block.** Kept short. Contains your name if you want it, your start date and your current active chapters (R&L Ch. 1 plus the 0, 1 or 2 later-stage chapters you are working right now, per [§5](#5-the-chapter-progression)). Update the active chapters whenever they change.
 
 **2. Session log.** The rolling record of what you practised. Newest entries at the top so the current state is always visible without scrolling. The recommended shape is a single table with one row per exercise-session. A table sorts and filters cleanly (all rows for one exercise in one view, all rows for one date grouped by the date column) and works equally well in Google Docs, Sheets, plain text and Markdown.
 
@@ -293,7 +293,7 @@ Short prescriptive answers for the situations that make a beginner give up:
 
 You have read the method. Here is what to do right now.
 
-1. **Set up your tracking document.** Create a new Google Doc (or Word document, or plain text file—see [§8](#8-tracking) for the format rationale) and copy the starter template below into it. Fill in the placeholders. Do not add anything else yet.
+1. **Set up your tracking document.** Create a new Google Doc (or Word document or plain text file—see [§8](#8-tracking) for the format rationale) and copy the starter template below into it. Fill in the placeholders. Do not add anything else yet.
 2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
 3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry per exercise in your session log per the format in [§8](#8-tracking).
 
