@@ -139,7 +139,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 **Stage 4—Density extremes (R&L Ch. 8).** Treated as a *probe*, not a *mastery target*. That means: work the chapter in short exposures spread across many sessions, and never let it become the focus of a whole training phase the way Stages 2 and 3 do. "Visit; do not camp" says the same thing—drop in on Ch. 8 for a session or two, feel the 32nd-note subdivision at whatever bpm you can play cleanly, log a verdict and go back to your normal focus chapter. There is no bpm target for this chapter; there is no criterion for "done"; the point is exposure so that when 32nd-note figures show up in Stage 5+ material, they are not foreign.
 
-**Stage 5—Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms, R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
+**Stage 5—Applications (R&L Ch. 9 blues, R&L Ch. 10 8th notes, R&L Ch. 11–13 power threes and linear cross rhythms and R&L Ch. 14 fast track).** Picked up interleaved with Stage 2 and Stage 3 work to keep the practice musical rather than drills-only.
 
 **Stage 6—Rondinelli additions (R&L Ch. 15–23).** Deferred until Stages 2 and 3 are solid. Within Stage 6, follow the book order: 15 (starters and doubles) → 16 (feet-only doubles) → 17 (binary) → 18 (feet-only triplets) → 19 (ternary) → 20 (skiplets) → 21 (turnarounds) → 22 (ladder) → 23 (hands-doubles, feet-singles). These chapters appear only in the Revised Edition of R&L; see [§3.2](#32-original-edition-compatibility) if you are working from the Original Edition.
 
@@ -193,7 +193,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 3. Play the exercise unbroken for at least the first minute—that is your clean-pass attempt at the current bpm ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 4. If the current bpm was clean, raise the metronome by one increment (+2 to +4 bpm per [§4](#4-the-tempo-target-and-clean-pass-rule)) and play for another minute to *probe* the next step. If the current bpm was not clean, keep the current bpm and use the remaining time to reinforce it, not to escape it.
 5. Continue in that pattern (hold, probe, hold, probe) until the timer stops. You are not trying to advance every session; you are collecting data.
-6. When the timer stops, add a log entry: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format, including the tag-plus-optional-prose convention for the note and the tabular shape most students will use). If the current bpm has now passed two consecutive practice sessions, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
+6. When the timer stops, add a log entry: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format, including the tag-plus-optional-prose convention for the note and the tabular shape most students will use). If two consecutive practice sessions have now passed at the current bpm, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
 
 ### Application block
 
