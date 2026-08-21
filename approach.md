@@ -22,7 +22,7 @@ Read this section before any other. It is the difference between a manual you fo
 
 - **Less time available (say ~15 minutes a day, or 2 to 3 days a week).** Keep the session template ([§6](#6-the-session-template)) but shrink every block proportionally. Expect each stage of the chapter progression ([§5](#5-the-chapter-progression)) to take roughly twice as long to feel solid. Do not cut the warm-up block—it is the most valuable part of a short session, not the least.
 - **More time available (say 60+ minutes most days).** Do not simply scale everything up. Long sessions past ~60 minutes produce diminishing returns and rising injury risk. Instead, use the extra time for a second short session later in the day, or add a Stage 5 application chapter alongside your current focus. Never let the active-chapters count exceed three, regardless of time budget.
-- **Highly irregular schedule.** Prioritize the minimum-useful session ([§6](#6-the-session-template)): 15 minutes of warm-up plus one focus rep. On weeks where you get more, take it as a bonus, not an obligation.
+- **Highly irregular schedule.** Prioritize the minimum-useful session ([§6](#6-the-session-template))—the Ch. 1 Core alone (~8 min) in Stage 1, or warm-up plus one focus rep (~15 min) from Stage 2 onwards. On weeks where you get more, take it as a bonus, not an obligation.
 
 **Multiple sessions in one day are fine.** If you have the time and the appetite, a second (or third) session later in the day is welcome—log each as its own entry in the session log with the same date, and treat each independently for verdicts and bpm probes. The one thing that does *not* happen twice in a day is a tempo advancement: only sessions on different practice days chain towards the two-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)). The reason is that the second `pass` is meant to confirm the tempo held after time away from the kit—a same-day repeat measures roughly the same thing as the first attempt.
 
@@ -165,7 +165,7 @@ The template has fixed proportions and elastic duration. It fits a 15-minute ses
 
 Other durations follow the same proportions. A 60-minute session doubles every block; a 15-minute session halves them and drops the application block if needed.
 
-Minimum useful session: 15 minutes. If your session runs shorter than that, do warm-up plus one focus rep only. Short sessions still count—the authors say so in R&L Ch. 1 and it is worth taking them at their word.
+Minimum useful session depends on where you are in the progression ([§5](#5-the-chapter-progression)). In Stage 1, when R&L Ch. 1 is your only active chapter and there is no focus block yet, it is just the Ch. 1 Core warm-up—about 8 minutes (see [chapter-01.md](chapter-01.md)). From Stage 2 onwards, when a focus block joins, the minimum useful session is about 15 minutes: warm-up plus one focus rep, dropping the application and cool-down blocks if the time is not there. Short sessions still count—the authors say so in R&L Ch. 1 and it is worth taking them at their word.
 
 ## 7. Running a session
 
@@ -209,7 +209,7 @@ You have no historical bpm to look up. Use the starting bpm from the chapter she
 
 ### Short session
 
-For a 15-minute minimum-useful session ([§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down, and stop cleanly. A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
+For a Stage 2+ minimum-useful session (~15 min; see [§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down, and stop cleanly. In Stage 1, when Ch. 1 is your only active chapter and there is no focus block yet, the minimum-useful session is the Ch. 1 Core warm-up itself (~8 min; see [chapter-01.md](chapter-01.md)). A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
 
 ### Off-kit session
 
