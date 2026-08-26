@@ -105,7 +105,7 @@ A **clean pass** is the exercise played unbroken for 1 minute at a given bpm, wi
 - audible accents where they are written
 - the metronome click still clearly audible over your playing throughout the minute. If by the end of the minute you can no longer hear the click—because you are hitting harder than the metronome, because you have drifted off it or because you are rushing ahead of it—the pass does not count. Turn the metronome up before the next attempt if the volume is the actual problem
 
-Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day—the second pass is meant to confirm the tempo held after time away from the kit, and a same-day repeat measures roughly the same thing as the first attempt), raise the metronome by a small increment. Multiple sessions per day are welcome for other reasons ([§2](#2-a-sustainable-regimen)); they just do not shortcut the advancement rule. Typical increments:
+Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions, raise the metronome by a small increment. The two sessions are the ones in which you actually work this exercise, not calendar practice days—intervening sessions where you skip it do not break the streak. Same-day repeats do not count: the second pass is meant to confirm the tempo held after time away from the kit. Multi-session days are still welcome for other reasons ([§2](#2-a-sustainable-regimen)). Typical increments:
 
 - +4 bpm for warm-ups and feet-only exercises
 - +2 to +3 bpm for beats and fills played in context with hands
