@@ -56,7 +56,7 @@ Concretely:
     - Ex. 11: 60 bpm (first time on this exercise; same).
 2. Set a metronome and a timer within reach.
 3. **Ex. 1 (~2 min).** Set the metronome to 64 bpm. Set a 2-minute timer. Play unbroken until the timer stops. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Add a log entry: `1.1  64 bpm  2 min  <verdict>  <note>`.
-4. **Ex. 10 (~3 min).** This is a 16th-note single-stroke roll between the feet, and your first time on it. Set the metronome to 60 bpm. Set a 3-minute timer. Because this is the first time on the exercise, hold 60 bpm for the full three minutes even if it feels easy—do not probe up. Add a log entry: `1.10  60 bpm  3 min  <verdict>  <note>`.
+4. **Ex. 10 (~3 min).** This is a 16th-note single-stroke roll between the feet, and your first time on it. Set the metronome to 60 bpm. Set a 3-minute timer. Because this is the first time on the exercise, hold 60 bpm for the full three minutes even if it feels easy—Ch. 1 exercises advance between sessions on the two-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)), not within them. Add a log entry: `1.10  60 bpm  3 min  <verdict>  <note>`.
 5. **Ex. 11 (~3 min).** 8th-note-triplet single-stroke roll between the feet; first time here too. Metronome at 60 bpm, 3-minute timer, hold the starting bpm for the full time. Add a log entry: `1.11  60 bpm  3 min  <verdict>  <note>`.
 6. Stop.
 
