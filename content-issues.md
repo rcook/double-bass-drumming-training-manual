@@ -16,6 +16,14 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
+### CI-007—"Two consecutive practice sessions" is ambiguous for Rotation exercises
+
+- Filed: 2026-08-26
+- Location: [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) — advancement rule (currently the paragraph beginning "Advancement rule: when the current bpm yields a clean pass in two consecutive practice sessions…").
+- Observed: the rule reads "two consecutive practice sessions (i.e. two sessions in a row on the days you actually practise, not two sessions on the same day…)". This is unambiguous for Core exercises worked every session, but for Rotation exercises (Ch. 1 Ex. 12 and Ex. 13, and analogous rotation exercises in later chapters) that only get played every third or fourth session by design, "two consecutive practice sessions" has two readings: (a) two consecutive calendar practice sessions—in which case a Rotation exercise can never advance, because it structurally skips sessions; or (b) two consecutive sessions in which the exercise was actually played—in which case intervening sessions where the exercise was not played do not break the streak. [chapter-02.md line 54](chapter-02.md) states reading (b) directly for a worked Ch. 2 example ("The two passes accrue across sessions on the days you actually work Ex. 1, not back-to-back days on the calendar"), so the intended interpretation is clear, but [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) itself does not spell it out.
+- Concern: a reader working straight from `approach.md` could reasonably read (a) and conclude the Rotation slot is a dead-end ladder. The advancement rule is a core operational rule; a rotation-specific clarification should not live only in a chapter sheet. Also, reading (b) has a second-order question the chapter-02 wording does not fully answer: does an off-kit or `near` session at the exercise count towards the "sessions in which the exercise was played" chain? Off-kit is already handled by [§7 off-kit session](approach.md#off-kit-session) (does not chain); `near` is now covered by the newly-adopted `near` rule in §4 (resets the streak to zero without regression—filed 2026-08-26 alongside this entry). So the residual question is really just the (a)/(b) reading itself.
+- Next step: patch approach.md §4's parenthetical—options range from a light-touch swap ("two sessions in a row on the days you actually practise" → "two sessions in a row in which you actually work this exercise") to a longer clarification with a Rotation-specific example. Pick the wording that stays terse in the paragraph while cross-referencing chapter-02.md's worked example.
+
 ### CI-005—Chapter-sheet template for propagating Ch. 1 shape to Stage 2+ chapters
 
 - Filed: 2026-08-20

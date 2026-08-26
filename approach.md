@@ -112,6 +112,8 @@ Advancement rule: when the current bpm yields a clean pass in two consecutive pr
 
 Regression rule: if a clean pass fails after an increment, drop back one increment and rebuild from there. Regression is data, not failure—it is how you learn where the real ceiling is today.
 
+`near` rule: a `near` at the current bpm neither advances nor regresses, but it resets the two-pass streak to zero. If you had one `pass` on the board at the current bpm and log a `near` on your next session, the streak restarts: the next `pass` counts as your first, not your second. `near` exists to record sessions where something specific was off—accent shape, tempo drift, a couple of dropped notes—but not badly enough to honestly call the session a `fail` and drop back an increment. `off-kit` verdicts sit outside the streak entirely and do neither of these things (see [§7 off-kit session](#off-kit-session)).
+
 **Provisional starting and target bpm by material type.** These numbers are guide values, not commitments. Revise them once you have two weeks of real data. Starting bpm is where you begin the first time you touch an exercise; target bpm is the provisional ceiling for this phase of learning.
 
 | Material | Start | Target |
@@ -212,7 +214,7 @@ This section is the mechanical loop for a single session. It is deliberately con
 3. Play the exercise unbroken for at least the first minute—that is your clean-pass attempt at the current bpm ([§4](#4-the-tempo-target-and-clean-pass-rule)).
 4. If the current bpm was clean, raise the metronome by one increment (+2 to +4 bpm per [§4](#4-the-tempo-target-and-clean-pass-rule)) and play for another minute to *probe* the next step. If the current bpm was not clean, keep the current bpm and use the remaining time to reinforce it, not to escape it.
 5. Continue in that pattern (hold, probe, hold, probe) until the timer stops. You are not trying to advance every session; you are collecting data.
-6. When the timer stops, add a log entry: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format, including the tag-plus-optional-prose convention for the note and the tabular shape most students will use). If two consecutive practice sessions have now passed at the current bpm, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
+6. When the timer stops, add a log entry: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>` (see [§8](#8-tracking) for the full log format, including the tag-plus-optional-prose convention for the note and the tabular shape most students will use). The bpm in the log entry is the highest bpm at which you achieved a clean `pass` during the session—a failed or `near` probe above that does not produce its own log entry. If you did not pass at any bpm (i.e. the current bpm's verdict was `near` or `fail`), log the current bpm with that verdict. One log entry per exercise per session. If two consecutive practice sessions have now passed at the current bpm, update the per-chapter working state to the new (higher) bpm—that is what "done for now" means ([§4](#4-the-tempo-target-and-clean-pass-rule)). If the probe failed, do not update anything; you tried and learned.
 
 ### Application block
 
