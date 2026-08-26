@@ -24,14 +24,6 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 - Concern: filling in chapter-02.md in ~1–2 weeks (when Stage 2 unlocks) will require a template. Doing that as a one-off risks 22 more chapters copy-pasting bugs from Ch. 2. Better to design the template once and apply consistently.
 - Next step: draft the template covering (a) which Ch. 1 sections generalise unchanged, (b) how sections adapt for a Stage 2+ chapter — different session role (Ch. 1 is the whole session before Stage 2 unlocks; Ch. 2+ occupies focus and application blocks per [approach.md §6](approach.md#6-the-session-template)), (c) which per-chapter decisions must be made when instantiating: unlock bpm (see CI-006), target bpm from [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) material-type table, "Moving on to…" criterion, adaptations of "Your first session" for a chapter that is not first. Depends on CI-006 being resolved first (the template will reference the unlock-bpm scheme).
 
-### CI-004—chapter-01.md log-entry references retain compact-line phrasing after §8 tabular rewrite
-
-- Filed: 2026-08-20
-- Location: [chapter-01.md](chapter-01.md) — "Your first session" step 8 (`Write one line in your session log`), "Your third session" steps 3–5 (`Log: 1.1  64 bpm  2 min  …`), "Log line format" section header near the bottom, and the trailing prose line in that section.
-- Observed: 2026-08-20 (commit `da6049f`) rewrote approach.md §8 to lead with a tabular presentation of the session log and demoted the compact-line form to a plain-text-file alternative. approach.md §7 was updated in the same commit to neutral "Add a log entry" phrasing. chapter-01.md was not touched and still uses "Write one line" wording and compact-line examples throughout, so it now diverges from approach.md §7.
-- Concern: minor — the compact-line form is still valid per new §8, so ch1's examples are not wrong. But a reader following ch1's "Your first session" walkthrough with a Google Docs table open will find "Write one line" jarring, and the "Log line format" section header reads as line-based when the primary shape is tabular.
-- Next step: rewrite the four references to neutral "Add a log entry" phrasing (matching approach.md §7), and rename "Log line format" to "Log entry format". Compact-line examples can stay — they are one valid representation of the entry fields.
-
 ### CI-003—Per-chapter log-line examples in chapters 2–23 missing per-exercise duration
 
 - Filed: 2026-08-10
@@ -41,6 +33,14 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 - Next step: when propagating validated Ch. 1 conventions to chapters 2–23, update each footer example to the five-field form: `<chapter>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`. Chapters with sub-sections (12, 13, 14, 17, 19, 20, 21) keep their identifier convention; just insert the duration field before the verdict.
 
 ## Resolved
+
+### CI-004—chapter-01.md log-entry references retain compact-line phrasing after §8 tabular rewrite
+
+- Filed: 2026-08-20
+- Location: [chapter-01.md](chapter-01.md) — "Your first session" step 8 (`Write one line in your session log`), "Your third session" steps 3–5 (`Log: 1.1  64 bpm  2 min  …`), "Log line format" section header near the bottom, and the trailing prose line in that section.
+- Observed: 2026-08-20 (commit `da6049f`) rewrote approach.md §8 to lead with a tabular presentation of the session log and demoted the compact-line form to a plain-text-file alternative. approach.md §7 was updated in the same commit to neutral "Add a log entry" phrasing. chapter-01.md was not touched and still used "Write one line" wording and compact-line examples throughout, so it diverged from approach.md §7.
+- Concern: minor — the compact-line form is still valid per new §8, so ch1's examples were not wrong. But a reader following ch1's "Your first session" walkthrough with a Google Docs table open would find "Write one line" jarring, and the "Log line format" section header read as line-based when the primary shape is tabular.
+- Resolved: 2026-08-26—rewrote the four references in [chapter-01.md](chapter-01.md) to neutral "Add a log entry" phrasing matching approach.md §7: step 8 of "Your first session" ("Write one line in your session log" → "Add a log entry to your session log"); the three "Log:" prefixes in "Your third session" steps 3–5 → "Add a log entry:"; the section header "## Log line format" → "## Log entry format"; and the trailing prose "Log this chapter's work in your tracking document…" reworked to "Log entries for this chapter use…" with a cross-reference to approach.md §8 for both entry shapes (tabular and compact-line). Compact-line examples in the trailing prose kept as-is per CI-004's own next-step guidance.
 
 ### CI-007—"Two consecutive practice sessions" is ambiguous for Rotation exercises
 

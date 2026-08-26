@@ -29,7 +29,7 @@ If this is your first session and R&L Ch. 1 is your only active chapter, do exac
 5. **Set a timer for 10 minutes.**
 6. **Play exercise 1 unbroken** until the timer stops. Focus only on evenness between the feet—not on speed, not on the next exercise, not on the accents. The metronome click should stay clearly audible over your playing throughout the 10 minutes.
 7. When the timer stops, decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)): `pass` if the exercise held cleanly (feet even, click still audible, no dropped notes) for at least one continuous minute at 60 bpm; `near` if it was mostly clean but drifted or dragged; `fail` if you never managed a clean minute.
-8. Write one line in your session log ([approach.md §8](approach.md#8-tracking)): `1.1  60 bpm  10 min  <verdict>  <note>`, where the note starts with a short tag and may be followed by short free-form prose when a single word is not enough. Tag-only example: `1.1  60 bpm  10 min  pass  even`. Tag plus prose example: `1.1  60 bpm  10 min  pass  even, click clear throughout`.
+8. Add a log entry to your session log ([approach.md §8](approach.md#8-tracking)): `1.1  60 bpm  10 min  <verdict>  <note>`, where the note starts with a short tag and may be followed by short free-form prose when a single word is not enough. Tag-only example: `1.1  60 bpm  10 min  pass  even`. Tag plus prose example: `1.1  60 bpm  10 min  pass  even, click clear throughout`.
 9. Stop.
 
 That is a complete first session. You have not touched every exercise in this chapter and you should not try to. Ten minutes of exercise 1 at 60 bpm with a metronome and a verdict logged is more useful than half an hour of unfocused variety.
@@ -55,9 +55,9 @@ Concretely:
     - Ex. 10: 60 bpm (first time on this exercise; use the starting bpm from the Core table).
     - Ex. 11: 60 bpm (first time on this exercise; same).
 2. Set a metronome and a timer within reach.
-3. **Ex. 1 (~2 min).** Set the metronome to 64 bpm. Set a 2-minute timer. Play unbroken until the timer stops. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Log: `1.1  64 bpm  2 min  <verdict>  <note>`.
-4. **Ex. 10 (~3 min).** This is a 16th-note single-stroke roll between the feet, and your first time on it. Set the metronome to 60 bpm. Set a 3-minute timer. Because this is the first time on the exercise, hold 60 bpm for the full three minutes even if it feels easy—do not probe up. Log: `1.10  60 bpm  3 min  <verdict>  <note>`.
-5. **Ex. 11 (~3 min).** 8th-note-triplet single-stroke roll between the feet; first time here too. Metronome at 60 bpm, 3-minute timer, hold the starting bpm for the full time. Log: `1.11  60 bpm  3 min  <verdict>  <note>`.
+3. **Ex. 1 (~2 min).** Set the metronome to 64 bpm. Set a 2-minute timer. Play unbroken until the timer stops. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Add a log entry: `1.1  64 bpm  2 min  <verdict>  <note>`.
+4. **Ex. 10 (~3 min).** This is a 16th-note single-stroke roll between the feet, and your first time on it. Set the metronome to 60 bpm. Set a 3-minute timer. Because this is the first time on the exercise, hold 60 bpm for the full three minutes even if it feels easy—do not probe up. Add a log entry: `1.10  60 bpm  3 min  <verdict>  <note>`.
+5. **Ex. 11 (~3 min).** 8th-note-triplet single-stroke roll between the feet; first time here too. Metronome at 60 bpm, 3-minute timer, hold the starting bpm for the full time. Add a log entry: `1.11  60 bpm  3 min  <verdict>  <note>`.
 6. Stop.
 
 That is a complete third session. Total playing time is about 8 minutes—less than session one's 10 minutes on Ex. 1 alone, but spread across three exercises. If you have more session time available, spend the extra minutes on whichever of the three felt weakest (usually Ex. 10 or Ex. 11 for the first several sessions, since they are new). If you have less time, shrink each per-exercise time proportionally, but still play all three.
@@ -117,6 +117,6 @@ Two things this rule is not:
 
 When Ex. 1, Ex. 10 and Ex. 11 all sit at 90 bpm or above, open [chapter-02.md](chapter-02.md) and add Ch. 2 to your active list per the tracking-document header format ([approach.md §8](approach.md#8-tracking)). Session shape changes from "Ch. 1 is the whole session" (see "Session role" near the top of this sheet) to the full three-block template ([approach.md §6](approach.md#6-the-session-template)): Ch. 1 warm-up, Ch. 2 focus, Ch. 2 application, cool-down.
 
-## Log line format
+## Log entry format
 
-Log this chapter's work in your tracking document ([approach.md §8](approach.md#8-tracking)) with the exercise number prefixed by `1.`—for example `1.10  84 bpm  3 min  pass  even`, or with a short trailing comment: `1.10  84 bpm  3 min  pass  even, weak foot caught up by minute 2`. See [approach.md §8](approach.md#8-tracking) for the full tag-plus-optional-prose convention. Log only what you actually practised; there is no obligation to touch every exercise in every session.
+Log entries for this chapter use the exercise number prefixed by `1.`—for example `1.10  84 bpm  3 min  pass  even`, or with a short trailing comment: `1.10  84 bpm  3 min  pass  even, weak foot caught up by minute 2`. See [approach.md §8](approach.md#8-tracking) for the full tag-plus-optional-prose convention and both entry shapes (tabular and compact-line). Log only what you actually practised; there is no obligation to touch every exercise in every session.
