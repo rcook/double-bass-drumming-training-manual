@@ -301,6 +301,7 @@ Short prescriptive answers for the situations that make a beginner give up:
 - **Snare does not line up with the bass drum.** R&L Ch. 17 gives the fix directly: lighten the snare hit until the bass drum is audible under it. The bass drum leads the alignment; the snare adjusts to it, not the other way around.
 - **Speed plateau.** Stop chasing bpm for a full week. Work only on evenness at current tempo. Speed comes back once the fatigue is gone.
 - **Boredom on R&L Ch. 1.** R&L Ch. 1 is a permanent warm-up, not a level to escape. Rotate which exercises you use inside the chapter—do not drop the chapter itself.
+- **Boredom because a new chapter's starting bpm feels trivial.** Expected on the first session of a Stage 2+ chapter: the starting bpm from the chapter sheet is calibrated for a true beginner, and by the time you unlock the chapter you have a coordination floor well above it. Do not hold the trivial bpm for the full block. Apply the focus-block loop from [§7](#focus-block)—hold, probe, hold, probe—and climb the ladder until the pattern stops being clean. The block is for climbing, not idling.
 - **Cannot hear the metronome.** Turn the metronome up, or use in-ear monitoring. If you cannot hear the click, you are not practising with a metronome; you are practising with a suggestion.
 
 ## 10. What this document is not
