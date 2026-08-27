@@ -28,7 +28,7 @@ This concrete walkthrough is what the session runbook in [approach.md §7](appro
 1. Open your tracking document ([approach.md §8](approach.md#8-tracking)). Update the header block: your active chapters now include R&L Ch. 2 alongside R&L Ch. 1. Add a per-chapter working-state subsection for Ch. 2 (see [approach.md §8](approach.md#8-tracking))—empty for now; you will populate rows as you touch each exercise.
 2. Sit at the kit with a metronome and a timer within reach. Decide the session duration and mentally scale the block minutes per [approach.md §6](approach.md#6-the-session-template).
 3. **Warm-up block (~7–8 min in a 30-min session).** Run the Ch. 1 Core as before—Ex. 1.1 at your current bpm (~2 min), Ex. 1.10 at your current bpm (~3 min), Ex. 1.11 at your current bpm (~3 min). These exercises keep advancing towards their 120 bpm target inside the warm-up block; log each one as you would have on a Stage 1 session ([approach.md §7 warm-up block](approach.md#warm-up-block)).
-4. **Focus block (~15 min).** **Pick Ex. 1**—the first Ch. 2 Warm-Up, doubled 16ths with weak-foot lead, from the Core table below. Set the metronome to 50 bpm (the starting bpm from the sheet). Set a 15-minute timer. Play unbroken until the timer stops. Focus on making the two feet sound identical on the doubled 16ths—not on speed, not on pushing bpm. Because this is the first time on the exercise, hold 50 bpm for the full block even if it feels easy; do not probe up. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Add a log entry: `2.1  50 bpm  15 min  <verdict>  <note>`.
+4. **Focus block (~15 min).** **Pick Ex. 1**—the first Ch. 2 Warm-Up, doubled 16ths on beat + e (strong-foot lead), from the Core table below. Set the metronome to 50 bpm (the starting bpm from the sheet). Set a 15-minute timer. Play unbroken until the timer stops. Focus on making the two feet sound identical on the doubled 16ths—not on speed, not on pushing bpm. Because this is the first time on the exercise, hold 50 bpm for the full block even if it feels easy; do not probe up. Decide the verdict against the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)). Add a log entry: `2.1  50 bpm  15 min  <verdict>  <note>`.
 5. **Application block (~5–6 min).** **Pick Ex. 5**—the first Ch. 2 Beat, doubled 16ths inside a groove—from the Core table. Set the metronome to 50 bpm. Set a 5-minute timer. Play unbroken until the timer stops. Same first-time rule: hold 50 bpm for the full block. Log: `2.5  50 bpm  5 min  <verdict>  <note>`.
 6. **Cool-down (~2 min).** No metronome, no timer. Play something musical. Nothing to log.
 7. Stop.
@@ -61,13 +61,13 @@ Your focus and application pool for this chapter. Pick one exercise for the focu
 
 | Ex. | Section | Role | Start | Unlock | Target | Increment |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Warm-Ups | Doubled 16ths, weak-foot lead | 50 bpm |  | 110 bpm | +4 bpm |
-| 3 | Warm-Ups | Doubled 16ths, alternating pattern | 50 bpm |  | 110 bpm | +4 bpm |
-| 5 | Beats | First beat with doubled 16ths in context | 50 bpm |  | 110 bpm | +2 bpm |
-| 7 | Beats | Doubled 16ths on a different placement | 50 bpm |  | 110 bpm | +2 bpm |
-| 10 | Beats | Doubled 16ths sustained across the bar | 50 bpm | 82 bpm | 110 bpm | +2 bpm |
+| 1 | Warm-Ups | Doubled 16ths on beat + e, strong-foot lead | 50 bpm |  | 110 bpm | +4 bpm |
+| 3 | Warm-Ups | Doubled 16ths on & + a, strong-foot lead | 50 bpm |  | 110 bpm | +4 bpm |
+| 5 | Beats | Rock beat, doubled 16ths on 3 + 3e, strong-foot lead | 50 bpm |  | 110 bpm | +2 bpm |
+| 7 | Beats | Rock beat, doubled 16ths on 3& + 3a, strong-foot lead | 50 bpm |  | 110 bpm | +2 bpm |
+| 10 | Beats | Rock beat, doubled 16ths on 2& + 2a and 4& + 4a, strong-foot lead | 50 bpm | 82 bpm | 110 bpm | +2 bpm |
 
-**Why these five?** R&L Ch. 2 has 36 exercises but most are variations on the doubled-16th idea. Ex. 1 and Ex. 3 are the two Warm-Ups that isolate the doubled-16th foot pattern before hands enter—Ex. 1 leads with the weak foot, Ex. 3 uses an alternating pattern that stresses even-hand crossover between the feet. Ex. 5, Ex. 7 and Ex. 10 are three Beats that place doubled 16ths in different rhythmic slots in a groove: Ex. 5 for the entry pattern, Ex. 7 for an alternate placement and Ex. 10 for doubled 16ths sustained across the bar. Ex. 10 is the deepest sustained-doubled-16th exercise in the chapter, so it also preps three-consecutive-16ths in Ch. 3—which is why it gates the transition to Ch. 3 (see "Moving on to Ch. 3" below).
+**Why these five?** R&L Ch. 2 has 36 exercises but most are variations on the doubled-16th idea. All five Core exercises use a strong-foot lead on the doubled 16ths; they differ on **where in the beat the two 16ths land** (front vs back) and, for the Beats, **how many times per bar** the doubled 16ths appear. Ex. 1 and Ex. 3 are the two Warm-Ups that isolate the doubled-16th foot pattern before hands enter—Ex. 1 places the two 16ths on beat + e (front of beat), Ex. 3 on & + a (back of beat), each repeated on every beat of the bar. Ex. 5, Ex. 7 and Ex. 10 are three Beats that carry the same front-vs-back placement axis inside a standard rock groove (hi-hat 8ths, snare on 2 and 4): Ex. 5 puts the doubled 16ths on beat 3 + 3e (front, once per bar), Ex. 7 on 3& + 3a (back, once per bar) and Ex. 10 on 2& + 2a and 4& + 4a (back, twice per bar). Ex. 10 carries the highest doubled-16th density per bar of any Ch. 2 Core exercise, which is why it gates the transition to Ch. 3 (see "Moving on to Ch. 3" below).
 
 ## Rotation (some sessions)
 
@@ -100,7 +100,7 @@ Beats 13–20 and Fills 22–36 are reference material. R&L flags Beats 13–18 
 
 Ch. 3 (three consecutive 16ths between the feet—see [approach.md §5](approach.md#5-the-chapter-progression)) unlocks when **Ex. 10 reaches its unlock bpm of 82 bpm**—two consecutive `pass` sessions at 82 bpm on Ex. 10, per the advancement rule in [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule). Ex. 10 is a Beat and advances at +2 bpm; the +2 ladder from 50 lands on 50, 52, 54, …, 80, 82—so 82 is on the ladder and no rounding is needed.
 
-Only one gate exercise, not three. Within-stage transitions inside the 16th-note density ladder (Ch. 2 → 3 → 4 → 5) are quantitative—denser runs of the same subdivision—rather than qualitative, so one checkpoint is enough per [approach.md §5](approach.md#5-the-chapter-progression) (unlock scheme, rule 2). Ex. 10 is the gate because it is the deepest sustained-doubled-16th exercise in the chapter, so it also preps three-consecutive-16ths in Ch. 3.
+Only one gate exercise, not three. Within-stage transitions inside the 16th-note density ladder (Ch. 2 → 3 → 4 → 5) are quantitative—denser runs of the same subdivision—rather than qualitative, so one checkpoint is enough per [approach.md §5](approach.md#5-the-chapter-progression) (unlock scheme, rule 2). Ex. 10 is the gate because it has the highest doubled-16th density per bar of any Ch. 2 Core exercise—doubled 16ths on both 2& + 2a and 4& + 4a, i.e. twice per bar versus once per bar in Ex. 5 and Ex. 7.
 
 Two things this rule is not:
 

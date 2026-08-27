@@ -34,6 +34,20 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Resolved
 
+### CI-008—Ch. 2 Core exercise descriptions misread from source PDF
+
+- Filed: 2026-08-27
+- Location: [chapter-02.md](chapter-02.md) — Core table rows for Ex. 1, Ex. 3, Ex. 5, Ex. 7 and Ex. 10; "Your first Ch. 2 session" step 4; the "Why these five?" paragraph; and the "Moving on to Ch. 3" gate rationale.
+- Observed: chapter-02.md was fleshed out on 2026-08-24 (commit `a828030`) without the visual-inspection-against-score pass Ch. 1 was given (see [CI-001](#ci-001-ex-11-pattern-description-does-not-match-source-pdf) and [CI-002](#ci-002-ch-1-reference-exercises-2-9-mislabelled-as-accent-variation-studies)). During the first Ch. 2 session on 2026-08-27, Richard flagged that Ex. 1 is not "weak-foot lead" as stated in the Core table. Working through the score against Richard's transcription of the bass-drum patterns, five of the five Core row descriptions were wrong or misleading:
+  - **Ex. 1** ("Doubled 16ths, weak-foot lead") — actually two consecutive 16ths on **beat + e** of every beat, **strong-foot lead**.
+  - **Ex. 3** ("Doubled 16ths, alternating pattern") — actually two consecutive 16ths on **& + a** of every beat, **strong-foot lead**. Ex. 1 vs Ex. 3 is a front-of-beat vs back-of-beat placement axis, not an alternating pattern.
+  - **Ex. 5** ("First beat with doubled 16ths in context") — vague but not wrong. Actual pattern: rock beat (hi-hat 8ths, snare on 2 and 4) with doubled 16ths on **3 + 3e**, strong-foot lead.
+  - **Ex. 7** ("Doubled 16ths on a different placement") — vague but not wrong. Actual pattern: rock beat with doubled 16ths on **3& + 3a**, strong-foot lead (Ex. 5 : Ex. 7 mirrors Ex. 1 : Ex. 3 on the front-vs-back placement axis).
+  - **Ex. 10** ("Doubled 16ths sustained across the bar") — wrong on "sustained". Actual pattern: rock beat with doubled 16ths on **2& + 2a and 4& + 4a**, strong-foot lead. Two doubled-16th events per bar, not sustained.
+- Concern: the "Why these five?" prose and the "Moving on to Ch. 3" rationale both leaned on the incorrect "sustained doubled 16ths" framing for Ex. 10 and on the incorrect lead-foot / placement framing for Ex. 1 and Ex. 3. The Ch. 3 unlock gate itself (Ex. 10 at 82 bpm, per CI-006's staging table) is unaffected — Ex. 10 is still the hardest Ch. 2 Core exercise on density grounds — but the rationale for *why* Ex. 10 gates needed rebuilding around density-per-bar, not sustain.
+- Resolved: 2026-08-27 — rewrote the five Core table Role cells with corrected placement / lead-foot descriptions, updated the first-session walkthrough Ex. 1 gloss, rewrote the "Why these five?" paragraph around the placement axis (front vs back) and the density-per-bar axis (Ex. 10 = highest-density, not sustained), and rewrote the "Moving on to Ch. 3" gate rationale around density instead of sustain. Ch. 3 unlock bpm (82) and the choice of Ex. 10 as the gate are unchanged.
+- Lessons: same class as CI-001 and CI-002 — AI-assisted visual reads of R&L notation are unreliable for foot assignment (CI-001), exercise character (CI-002) and rhythmic placement / density-per-bar (this filing). The `a828030` fill of chapter-02.md was drafted without a bar-by-bar transcription pass; the errors surfaced within one real-practice session on the very first exercise the walkthrough names. Future chapter-sheet fills (Ch. 3 onward, per CI-005) should include Richard's own transcription of each cited exercise before Role cells or "Why these N?" prose is drafted.
+
 ### CI-004—chapter-01.md log-entry references retain compact-line phrasing after §8 tabular rewrite
 
 - Filed: 2026-08-20
