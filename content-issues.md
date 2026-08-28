@@ -34,6 +34,24 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Resolved
 
+### CI-011—Ch. 2 Ex. 10 Core Role cell omits the single kicks on 1& and 3&
+
+- Filed: 2026-08-28
+- Location: [chapter-02.md](chapter-02.md) — Core table row for Ex. 10 and the "Why these five?" paragraph. Downstream: [approach.md §5](approach.md#5-the-chapter-progression) staging table's Ch. 2 → 3 row (carried CI-008's earlier "sustained" wording that CI-008 already retired from chapter-02.md).
+- Observed: The Ex. 10 Role cell and "Why these five?" prose committed under CI-008 (2026-08-27) named the two doubled-16th events (2& + 2a and 4& + 4a) but did not mention the single strong-foot kicks on 1& and 3& also present in the pattern. Reviewed against the printed R&L p. 9 on 2026-08-28 during a pass over the Core Beat placements; the 1& and 3& kicks are in the score.
+- Concern: A student reading the Core table row would reasonably assume Ex. 10's kick pattern consists of only the two doubled-16th events (four kicks per bar); the actual pattern is six (two doubled + two single). Not load-bearing for the density-per-bar rationale that gates Ch. 3 — Ex. 10 still has the highest doubled-16th density in the Ch. 2 Core — but the Role cell should describe the exercise the student actually plays.
+- Resolved: 2026-08-28 — updated the Ex. 10 Role cell in the Core table to include "plus single strong-foot kicks on 1& and 3&", and updated the Ex. 10 sentence in "Why these five?" to note the single kicks between the doubled-16th events. Also updated the [approach.md §5](approach.md#5-the-chapter-progression) staging table's Ch. 2 → 3 row to drop the "sustained" wording left over from CI-008 in favour of CI-008's density-per-bar framing. Ch. 3 unlock bpm (82) and gate choice (Ex. 10) unchanged.
+- Lessons: CI-008 fixed the "sustained" framing in chapter-02.md but did not touch the [approach.md §5](approach.md#5-the-chapter-progression) staging table, which carried the same phrasing (authored earlier under CI-006 and not migrated). Cross-file consistency check pattern: when a CI resolves a description-of-an-exercise bug in a chapter sheet, also grep [approach.md §5](approach.md#5-the-chapter-progression)'s staging table for the same phrasing.
+
+### CI-010—Ch. 2 Ex. 7 Core Role cell omits the surrounding kicks on 1, 1& and 3
+
+- Filed: 2026-08-28
+- Location: [chapter-02.md](chapter-02.md) — Core table row for Ex. 7 and the "Why these five?" paragraph.
+- Observed: The Ex. 7 Role cell committed under CI-008 (2026-08-27) named the doubled-16th event on 3& + 3a and its strong-foot lead, but did not mention the strong-foot kicks on beats 1, 1& and 3 that are also part of Ex. 7's pattern. Reviewed against the printed R&L p. 9 on 2026-08-28 during the same pass that surfaced CI-011.
+- Concern: A student reading the Role cell would reasonably assume Ex. 7's kick pattern consists of only the doubled-16th event (two kicks per bar). The actual pattern is five kicks per bar (three single + one doubled). Same shape as CI-011 caught for Ex. 10; the two omissions together obscured the density ladder Ex. 5 → Ex. 7 → Ex. 10 traces (3 → 5 → 6 kicks per bar). CI-008's "front-vs-back placement" framing turned out to be true of the doubled-16th event but not of the whole exercise: Ex. 5 : Ex. 7 is a mirror on doubled-16th placement, not on total kicks per bar.
+- Resolved: 2026-08-28 — updated the Ex. 7 Role cell in the Core table to "Rock beat, doubled 16ths on 3& + 3a plus single strong-foot kicks on 1, 1& and 3, strong-foot lead", and rewrote the "Why these five?" paragraph to name the density ladder (Ex. 5 = 3 kicks, Ex. 7 = 5 kicks, Ex. 10 = 6 kicks) alongside the front-to-back placement axis on the doubled-16th event. Ex. 10 sits at both extremes — highest density, latest doubled-16th placement.
+- Lessons: The "identifying feature only" Role-cell convention (Ex. 5, Ex. 7 and Ex. 10 each named only the doubled 16ths) reads cleanly but under-describes what the student actually plays. Argues for a Role-cell convention on Beats that lists every kick per bar — the identifying feature *plus* the anchor kicks — so cross-exercise structure like a density ladder is visible from the Core table without the reader reconstructing it from the score. Direct input to the CI-005 chapter-sheet template.
+
 ### CI-009—Ch. 2 first-session carve-out to "hold starting bpm, do not probe up" produces dead idle time
 
 - Filed: 2026-08-27
