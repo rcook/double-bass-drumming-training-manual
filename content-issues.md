@@ -16,6 +16,15 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
+### CI-013—§4 and §8 disagree on whether `near` triggers regression
+
+- Filed: 2026-08-30
+- Location: [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) `near` rule; [approach.md §8](approach.md#8-tracking) per-chapter working-state `Regression:` bullet; [approach.md §7 focus-block step 7](approach.md#focus-block).
+- Observed: §4 explicitly says a `near` "neither advances nor regresses, but it resets the two-pass streak to zero." §8's `Regression:` bullet says "if the session's starting bpm was `near` or `fail`, apply the [§4] regression rule (drop `current bpm` by one increment)." §7 focus-block step 7 uses the same "`near` or `fail`" phrasing. But §4's regression rule was authored for `fail` — §4 itself specifies that regression is triggered by "a clean pass fails after an increment", and its `near` rule is a separate paragraph that explicitly excludes `near` from regression. §8 and §7 lump `near` in with `fail` in a way §4 does not support.
+- Concern: A student consulting §8 or §7 will drop back an increment after a `near`; a student consulting §4 will hold at the current bpm and reset the streak. Different outcomes on identical data. Surfaced 2026-08-30 on Ex. 1.10: `near` at 100 bpm on 2026-08-29, tracking followed §4 (held at 100 bpm with streak reset). Under §8's reading, current bpm should have dropped to 96.
+- Concern 2: Beyond consistency, `near` is designed as a distinct verdict recording "something specific was off but not badly enough to call `fail`". Regressing on `near` collapses it into `fail` semantically and pressures the student to over-report marginal sessions as `pass`.
+- Next step: keep §4's semantics as the deliberate rule. Update §8's `Regression:` bullet and §7 focus-block step 7 to trigger regression on `fail` only, not `near`. Cross-check chapter-sheet walkthroughs (chapter-01.md, chapter-02.md) for the same phrasing.
+
 ### CI-005—Chapter-sheet template for propagating Ch. 1 shape to Stage 2+ chapters
 
 - Filed: 2026-08-20
