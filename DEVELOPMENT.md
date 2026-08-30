@@ -5,7 +5,6 @@ Orientation for editing this repository. Not for students following the manual�
 ## What this repo contains
 
 - [approach.md](approach.md) and `chapter-NN.md`—the student-facing manual. Treat these as the primary product.
-- [content-issues.md](content-issues.md)—running log of content discrepancies noticed while using the manual. Content only; tooling issues do not go here.
 
 ## Editing the manual
 
@@ -15,7 +14,7 @@ Orientation for editing this repository. Not for students following the manual�
 
 ## Style and linking conventions
 
-Enforced across every markdown file in the repo (`approach.md`, `chapter-NN.md`, `README.md`, `content-issues.md`, this file):
+Enforced across every markdown file in the repo (`approach.md`, `chapter-NN.md`, `README.md`, this file):
 
 - **"towards", not "toward".** UK/Commonwealth spelling. Applies uniformly.
 - **Em-dashes (U+2014) are unspaced.** Write `word—word`, not `word — word`. This applies inside headings too. Inside fenced code blocks, leave text alone.
@@ -33,9 +32,11 @@ Parking lot for changes we know we want but are not doing yet. Delete an item wh
 - **Propagate the chapter-01 "Your first session" shape to Ch. 2–23** once the shape is validated on Ch. 1. Depends on the two items above.
 - **Explicit Core / Rotation processes on Ch. 2–23.** The clarification landed in `chapter-01.md`—every other chapter sheet needs the same treatment. Rolls into the propagation item above.
 
-## Filing content issues
+## Filing issues
 
-Discrepancies between the manual and the source PDF, and editorial gaps noticed while using the manual, go in [content-issues.md](content-issues.md). The file's own header explains the entry format. Extractor bugs and tooling issues do not belong there—file those against the appropriate script or open an issue against the repo.
+Report content discrepancies, editorial gaps, tooling bugs, or anything else at the GitHub issue tracker: [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues). That is the officially sanctioned channel for all defects and feature requests, whether they concern the manual content, the chapter sheets, or any tooling shipped alongside the manual.
+
+When filing, point at the specific location (file + section, or file + table row), state what you observed and why it seems wrong, and suggest a next step if you have one. "Investigate" is a fine next step.
 
 ## Licence
 

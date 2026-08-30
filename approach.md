@@ -6,7 +6,7 @@ This manual is a training system built around Bobby Rondinelli and Michael Laure
 
 Two headline goals shape everything that follows: **strength** (evenness and endurance between the feet, weak foot brought up to match the strong foot) and **accuracy** (clean articulation and rhythmic placement, especially where the feet meet the hands). Speed is a downstream effect, not a target.
 
-Notice something in the manual that looks wrong or does not match the source book? See [content-issues.md](content-issues.md).
+Notice something in the manual that looks wrong or does not match the source book? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
 
 ## 2. A sustainable regimen
 
@@ -73,14 +73,14 @@ When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lea
 
 **This manual is fully compatible with the Original Edition of R&L for Stages 1–5.** Everything in §§1–4 and §§6–11—the tempo-target and clean-pass rule, the session template, the tracking format, the starter walkthrough in §11—applies unchanged regardless of which edition you own. The differences between the two editions are contained and enumerated below.
 
-**Edition policy.** The manual treats the Revised Edition of R&L as authoritative by default. Individual exercises where the two editions disagree—and the Original Edition appears to be correct—are called out at the exercise level in the relevant chapter sheet, with the discrepancy logged in [content-issues.md](content-issues.md). Do not assume the two editions agree; where the sheet says nothing, they do.
+**Edition policy.** The manual treats the Revised Edition of R&L as authoritative by default. Individual exercises where the two editions disagree—and the Original Edition appears to be correct—are called out at the exercise level in the relevant chapter sheet. Do not assume the two editions agree; where the sheet says nothing, they do.
 
 **Confirmed differences between the two editions.**
 
 - **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8 and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
 - **Front matter is common to both**: Introduction, Acknowledgments, Key panel (with the BD I / BD II staff assignment referenced in [§3.1](#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)), Getting Started With Double Bass, Two Bass Drums Versus A Double Pedal, Applying Double Bass.
 - **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
-- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is R&L Ch. 1 Ex. 1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1 (edition discrepancy)" and CI-001 in [content-issues.md](content-issues.md). Expect more of these to surface as more exercises are worked; each will be logged in [content-issues.md](content-issues.md) and called out on the relevant chapter sheet.
+- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is R&L Ch. 1 Ex. 1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1 (edition discrepancy)". Expect more of these to surface as more exercises are worked; each will be called out on the relevant chapter sheet.
 
 **Working from the Original Edition.**
 

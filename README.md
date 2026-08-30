@@ -13,9 +13,10 @@ The methodology in [approach.md](approach.md) and the chapter-01 working sheet (
 ## Repository structure
 
 - [approach.md](approach.md)—the training method. Start here.
-- [content-issues.md](content-issues.md)—running log of content discrepancies noticed while using the manual. File an entry here if the manual disagrees with the source book.
 - [DEVELOPMENT.md](DEVELOPMENT.md)—orientation for anyone editing the manual (sheet conventions, style, issue tracker). Not needed if you are just following the course.
 - [LICENCE](LICENCE)—Creative Commons Attribution-ShareAlike 4.0 International
+
+Notice something in the manual that looks wrong, disagrees with the source book, or has a gap? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
 
 Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Your own practice log is not a repo file—see [approach.md](approach.md) §8.
 
