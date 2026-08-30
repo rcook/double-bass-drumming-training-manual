@@ -16,6 +16,24 @@ When resolved, move the entry to the **Resolved** section and add a one-line res
 
 ## Open
 
+### CI-014—Ch. 1 warm-up guidance during Ch. 2 sessions is spread across three files with a subtle contradiction
+
+- Filed: 2026-08-30
+- Location: [approach.md §7 step 3](approach.md#7-running-a-session) (line 199) and [§7 Warm-up block](approach.md#warm-up-block) (line 202); [chapter-01.md](chapter-01.md) "After Stage 2 unlocks" (~line 98); [chapter-02.md](chapter-02.md) "Your first Ch. 2 session" step 3 (~line 30).
+- Observed: A reader currently in a Ch. 2 session and asking "what should the Ch. 1 warm-up look like today?" has to consult three separate files, each of which answers a different sub-question and none of which is authoritative on its own.
+  - `approach.md §7 step 3` (setup): "Pick the specific exercises you will work today: **one** warm-up exercise from R&L Ch. 1, one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter." Singular.
+  - `approach.md §7 Warm-up block`: still singular — "Look up your current working bpm for **the chosen** Ch. 1 exercise" (one exercise, one bpm, one verdict, one log line).
+  - `chapter-02.md` step 3 (Stage 2+ concrete walkthrough): "Run the Ch. 1 Core **as before**—Ex. 1.1 at your current bpm (~2 min), Ex. 1.10 at your current bpm (~3 min), Ex. 1.11 at your current bpm (~3 min)." Three exercises, three sub-blocks, three log entries.
+  - `chapter-01.md` "After Stage 2 unlocks": explains that Rotation (Ex. 1.9, 1.12, 1.13) drops in cadence "or not at all" once Ch. 2 is active, but doesn't say what the Core-only block should look like.
+- Concern 1 (contradiction): `approach.md §7` reads literally as "one Ch. 1 warm-up exercise per session"; `chapter-02.md` step 3 has the student running all three Core exercises. A first-time Ch. 2 reader could reasonably take §7 at face value and pick just one of Ex. 1.1 / 1.10 / 1.11 today — under-covering the Core. Charitably §7 means "one warm-up **block** containing 1–3 Core exercises", but that reading isn't in the text; it has to be reverse-engineered from chapter-02.md.
+- Concern 2 (findability): the canonical description of a Ch. 2-session warm-up block lives in `chapter-02.md`'s "Your first Ch. 2 session" walkthrough — a first-session prose narrative, not a reference section. Every subsequent Ch. 2 session repeats this same shape but nothing in the manual points at it as canonical. When Ch. 3 lands, this whole pattern will need to be re-derived (or re-copied — see CI-005 template).
+- Concern 3 (Rotation gap): the only place that says what to do with Ch. 1 Rotation exercises during Ch. 2 is `chapter-01.md` line ~98. `approach.md §7` and `chapter-02.md` don't mention Rotation at all. A student who only reads `approach.md` and `chapter-02.md` (i.e. what they land on when they open the manual mid-Ch. 2) will find no answer to "should I still work Ex. 1.9 / 1.12 / 1.13 during Ch. 2 sessions?"
+- Next step: tighten the wording across all three files.
+  - `approach.md §7 step 3` and `§7 Warm-up block`: replace singular "one warm-up exercise" with "the Ch. 1 warm-up block (1–3 Core exercises depending on time; see chapter-01.md and chapter-02.md for the concrete shape)". Or make the block description generic ("look up current bpm for **each** Core exercise") and let the chapter sheets specify which exercises.
+  - `chapter-02.md` step 3: keep the concrete Ex. 1.1 / 1.10 / 1.11 recipe but frame it as "the standard Ch. 1 Core warm-up block per approach.md §7 Warm-up block", so a reader knows this is not Ch. 2-specific but the ongoing shape from Stage 2 onwards.
+  - `chapter-01.md`: keep the "After Stage 2 unlocks" section as the canonical statement on Rotation cadence during Ch. 2+; make sure `approach.md §7` cross-references it explicitly so a reader looking up the warm-up block finds the Rotation guidance without opening chapter-01.md separately.
+  - Fold into the CI-005 chapter-sheet template: Stage 2+ chapter sheets should not duplicate the warm-up walkthrough; they should point at `approach.md §7` and only add chapter-specific overrides.
+
 ### CI-013—§4 and §8 disagree on whether `near` triggers regression
 
 - Filed: 2026-08-30
