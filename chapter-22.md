@@ -1,6 +1,6 @@
 # R&L Ch. 22—The Ladder
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 6 (Rondinelli additions, eighth chapter)
 - **Book pages:** R&L pp. 99–100
@@ -53,4 +53,4 @@ Ex. 1 is a quads reference and does not need its own working bpm—play it once 
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `22.`—for example `22.3  50 bpm  pass  triplet-feel`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `22.`—for example `22.3  50 bpm  15 min  pass  triplet-feel`. See [approach.md §8](approach.md#8-tracking).

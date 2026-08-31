@@ -1,6 +1,6 @@
 # R&L Ch. 13—Linear Cross-Rhythm Combinations
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L p. 69
@@ -40,4 +40,4 @@ Pick one and hold it for the 1-minute clean pass. Rotate combinations across ses
 
 ## Log line format
 
-Log this chapter's work with the combination in place of an exercise number—for example `13.5-5-3-3  50 bpm  pass  clean` or `13.7-7-7-3-tri  40 bpm  near  drifting`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the combination in place of an exercise number—for example `13.5-5-3-3  50 bpm  15 min  pass  clean` or `13.7-7-7-3-tri  40 bpm  15 min  near  drifting`. See [approach.md §8](approach.md#8-tracking).

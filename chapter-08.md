@@ -1,6 +1,6 @@
 # R&L Ch. 8—32nd-Notes and 32nd-Note Triplets
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 4 (Density extremes—probe only)
 - **Book pages:** R&L pp. 36–44
@@ -39,4 +39,4 @@ Suggested probing paths, in order of increasing demand:
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `8.`—for example `8.1  40 bpm  probe  weak-foot-dying`. `probe` is a legitimate verdict here in addition to `pass` / `near` / `fail`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `8.`—for example `8.1  40 bpm  15 min  probe  weak-foot-dying`. `probe` is a legitimate verdict here in addition to `pass` / `near` / `fail`. See [approach.md §8](approach.md#8-tracking).

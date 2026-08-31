@@ -18,7 +18,7 @@ The methodology in [approach.md](approach.md) and the chapter-01 working sheet (
 
 Notice something in the manual that looks wrong, disagrees with the source book, or has a gap? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
 
-Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Your own practice log is not a repo file—see [approach.md](approach.md) §8.
+Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Ch. 1 and Ch. 2 are the fully-written reference implementations; Ch. 3–23 are skeletons awaiting fill (see [chapter-template.md](chapter-template.md) for the shape they will take). Your own practice log is not a repo file—see [approach.md](approach.md) §8.
 
 ## How to use
 

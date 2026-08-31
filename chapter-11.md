@@ -1,6 +1,6 @@
 # R&L Ch. 11—Power Threes
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 52–53
@@ -48,4 +48,4 @@ Beats 2, 4, 7, 9, 10, 12 are variants on the same idea. Sample them for variety.
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `11.`—for example `11.1  76 bpm  pass  hand-placement`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `11.`—for example `11.1  76 bpm  5 min  pass  hand-placement`. See [approach.md §8](approach.md#8-tracking).

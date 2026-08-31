@@ -1,6 +1,6 @@
 # R&L Ch. 12—Linear Cross Rhythms
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. The methodology is being validated on chapter-01 first; the shape will propagate here later. See [README.md](README.md#project-status) and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later".
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 54–68
@@ -48,4 +48,4 @@ Work them in book order, but do not treat the list as a checklist. One sub-secti
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `12.` and the sub-section named—for example `12.3/16-warm-ups.1  60 bpm  pass  odd-feel`. The sub-section is what disambiguates the exercise numbers, since numbering restarts at 1 in each sub-section. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `12.` and the sub-section named—for example `12.3/16-warm-ups.1  60 bpm  15 min  pass  odd-feel`. The sub-section is what disambiguates the exercise numbers, since numbering restarts at 1 in each sub-section. See [approach.md §8](approach.md#8-tracking).
