@@ -23,6 +23,16 @@ Enforced across every markdown file in the repo (`approach.md`, `chapter-NN.md`,
 - **Cross-references to other chapter sheets** should also be markdown links: `[chapter-05.md](chapter-05.md)`, not bare `chapter-05.md`.
 - **Section headers inside a document** use `## N. Title` for top-level sections (so anchors get the numeric prefix) and `### Subtitle` for sub-sections. Do not put full stops at the ends of headings.
 
+## Commit-message conventions
+
+Commit messages in this repository (the public `_public` submodule) must not reference private-repo issue-tracker identifiers—**do not cite `TODOnnn`, `CI-nnn` or `ISS-nnn` in commit subjects or bodies.** Those IDs live in the private repo's `ISSUES.md` and carry no meaning for external readers of the public manual.
+
+Describe the change on its own terms: what content changed, what the rationale was, and the observable effect on the manual. If a change was driven by a private-repo issue, put the substance of the issue in the commit body rather than the ID.
+
+References to the public GitHub issue tracker at `https://github.com/rcook/double-bass-drumming-training-manual/issues` are fine—those numeric IDs (e.g. `#42`) are meaningful to external readers.
+
+Existing commit messages that reference `TODOnnn` / `CI-nnn` / `ISS-nnn` remain as historical artefacts and should not be rewritten.
+
 ## Things to do later
 
 Parking lot for changes we know we want but are not doing yet. Delete an item when it lands.
