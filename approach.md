@@ -88,6 +88,14 @@ When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lea
 - Stage 6 (R&L Ch. 15–23) is not reachable from the Original Edition alone. When you unlock Stage 6, either acquire a copy of the Revised Edition, or treat the end of Stage 5 as the natural end of this manual's structured progression and continue on your own from there.
 - Where a chapter sheet flags a per-exercise edition discrepancy, follow the sheet's call-out. The sheets pick whichever edition's notation the training goal supports; that choice is documented, not defaulted.
 
+### 3.3 Kit setup
+
+Notation in the manual assumes a particular kit configuration; the conventions below are the ones worth calling out explicitly. Chapter sheets in later stages may add their own kit-setup notes when a chapter demands a specific rig; those live on the chapter sheet, not here.
+
+**Hi-hat under double-bass work.** From Stage 2 onwards (R&L Ch. 2+), both feet are committed to bass drum pedals—the left foot plays BD II inside the doubled-16th patterns Ch. 2 introduces, and the same is true through the rest of the 16th-note density ladder (Ch. 2–5) and the triplet material (Ch. 6, 7). R&L notates hi-hat as `x` (closed) throughout the Ch. 2 Beats, but with the left foot on BD II you cannot pedal the hi-hat closed. The standard drummer's answer in double-bass rock and metal contexts (R&L's genre) is a **dry-closed clutch**: tighten the hi-hat clutch so the top and bottom cymbals sit touching but not clamped hard, with no foot pressure required. This produces a chick that reads as closed and matches the `x` notation, leaving both feet free for bass-drum work.
+
+BD II ↔ hi-hat pedal foot-switching is a real technique and appears in advanced double-bass repertoire, but the R&L Ch. 2 Beats do not ask for it—do not over-scope your practice by trying to alternate the left foot between BD II and the hi-hat pedal. The clutch setting does the work.
+
 ## 4. The tempo-target and clean-pass rule
 
 This is the operational definition of "done for now".
@@ -198,16 +206,19 @@ This section is the mechanical loop for a single session. It is deliberately con
 
 1. Open your tracking document (see [§8](#8-tracking) for its structure; [§11](#11-starting-your-first-session) has a copy-and-pasteable starter template if you have not created it yet).
 2. Look at the header block at the top of your tracking document. It lists your current active chapters: R&L Ch. 1 (always active as warm-up) plus 0, 1 or 2 later-stage chapters per [§5](#5-the-chapter-progression). Those are what you work today.
-3. Pick the specific exercises you will work today: one warm-up exercise from R&L Ch. 1, one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
+3. Pick the specific exercises you will work today: your Ch. 1 warm-up (see the Warm-up block below and [chapter-01.md](chapter-01.md) for which exercises constitute the block at your current stage — a single exercise early in Stage 1, expanding to the Core after your first advancement, and staying at the Core once Stage 2 opens), one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
 4. Decide the session duration and mentally scale the block minutes per [§6](#6-the-session-template).
 
 ### Warm-up block
 
-1. Look up your current working bpm for the chosen Ch. 1 exercise in the per-chapter working state ([§8](#8-tracking)) of your tracking document. If you have never worked this exercise before, use the starting bpm from the chapter sheet.
+The warm-up block is your Ch. 1 practice — the whole session in Stage 1, and the opening ~7–8 min of the three-block template from Stage 2 onwards. Which Ch. 1 exercises constitute the block, and their per-exercise durations, are set by [chapter-01.md](chapter-01.md) (Core list, Rotation list, per-exercise minutes; see "After Stage 2 unlocks" in that sheet for how Rotation cadence drops once Ch. 2 becomes active). The block may contain a single exercise (early Stage 1) or all three Core exercises (Stage 2+), sometimes plus one Rotation exercise on longer days. The steps below apply per exercise inside the block; run them in order for each Ch. 1 exercise the sheet names.
+
+1. Look up your current working bpm for this exercise in the per-chapter working state ([§8](#8-tracking)) of your tracking document. If you have never worked it before, use the starting bpm from the chapter sheet.
 2. Set your metronome to that bpm.
-3. Set a timer for the warm-up block's minutes (~7–8 min in a 30-min session; scale proportionally otherwise).
+3. Set a timer for this exercise's slice of the warm-up block (per-exercise durations are on [chapter-01.md](chapter-01.md); the block totals ~7–8 min in a 30-min session, scaled proportionally otherwise).
 4. Play the exercise unbroken until the timer stops. Focus on evenness between the feet; do not push the bpm inside the block.
 5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Add a log entry: `1.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`, where `<duration>` is the per-exercise time you actually spent (see [§8](#8-tracking) for the full log format, including the tabular shape most students will use). The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`—and may be followed by a short free-form comment when a single word is not enough. Example tag-only: `pass  even`. Example tag plus prose: `pass  even, click clear throughout`. Pick whatever will remind you what happened when you read the log next week.
+6. Move to the next exercise in the block. Repeat until the block's total time is up.
 
 ### Focus block
 
