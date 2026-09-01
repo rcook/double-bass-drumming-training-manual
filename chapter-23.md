@@ -17,11 +17,11 @@ Final chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progressio
 
 R&L walks the concept through eight examples on the page. In order:
 
-- **Ex. 1**—the base setup: sustained double-stroke roll in the hands over sustained singles in the feet. Start with strong hand and strong foot together, then alternate stickings.
-- **Ex. 2**—five-stroke roll in the hands with a five-stroke ruff in the feet. R&L calls out that this teaches leading with either foot; accuracy comes before speed here.
-- **Ex. 3**—nine-stroke roll in the hands with a nine-stroke ruff in the feet. Increase speed only when it starts to lock in.
-- **Ex. 4**—open roll in the hands with singles in the feet. R&L specifically asks you to try this and the other exercises at multiple tempos.
-- **Ex. 5–8**—grooves that incorporate fives or nines in the feet, with double-stroke rolls on top. R&L's point: doubles on top are a good way to even out odd-grouping foot patterns.
+- **Ex. 23.1**—the base setup: sustained double-stroke roll in the hands over sustained singles in the feet. Start with strong hand and strong foot together, then alternate stickings.
+- **Ex. 23.2**—five-stroke roll in the hands with a five-stroke ruff in the feet. R&L calls out that this teaches leading with either foot; accuracy comes before speed here.
+- **Ex. 23.3**—nine-stroke roll in the hands with a nine-stroke ruff in the feet. Increase speed only when it starts to lock in.
+- **Ex. 23.4**—open roll in the hands with singles in the feet. R&L specifically asks you to try this and the other exercises at multiple tempos.
+- **Ex. 23.5–23.8**—grooves that incorporate fives or nines in the feet, with double-stroke rolls on top. R&L's point: doubles on top are a good way to even out odd-grouping foot patterns.
 
 The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because the hands are playing doubles at 16th-note rates over singles in the feet, real starting bpm will often be lower—drop until the doubles in the hands stay even.
 
@@ -29,20 +29,20 @@ The bpm defaults come from the 16th-note beats row of [approach.md §4](approach
 
 | Ex. | Role | Start | Target |
 | --- | --- | --- | --- |
-| 1 | Sustained doubles hands / singles feet (base setup) | 50 bpm | 110 bpm |
-| 2 | Five-stroke roll hands / five-stroke ruff feet | 50 bpm | 110 bpm |
-| 3 | Nine-stroke roll hands / nine-stroke ruff feet | 50 bpm | 110 bpm |
-| 4 | Open roll hands / singles feet | 50 bpm | 110 bpm |
-| 5 | Doubles hands over five-note foot pattern | 40 bpm | 100 bpm |
-| 6 | Doubles hands over longer five-note foot pattern | 40 bpm | 100 bpm |
-| 7 | Doubles hands over nine-note foot pattern | 40 bpm | 100 bpm |
-| 8 | Doubles hands over extended nine-note foot pattern | 40 bpm | 100 bpm |
+| 23.1 | Sustained doubles hands / singles feet (base setup) | 50 bpm | 110 bpm |
+| 23.2 | Five-stroke roll hands / five-stroke ruff feet | 50 bpm | 110 bpm |
+| 23.3 | Nine-stroke roll hands / nine-stroke ruff feet | 50 bpm | 110 bpm |
+| 23.4 | Open roll hands / singles feet | 50 bpm | 110 bpm |
+| 23.5 | Doubles hands over five-note foot pattern | 40 bpm | 100 bpm |
+| 23.6 | Doubles hands over longer five-note foot pattern | 40 bpm | 100 bpm |
+| 23.7 | Doubles hands over nine-note foot pattern | 40 bpm | 100 bpm |
+| 23.8 | Doubles hands over extended nine-note foot pattern | 40 bpm | 100 bpm |
 
 ## Practice notes
 
-- Start with the strong hand and strong foot together in Ex. 1, then alternate—R&L is specific about this.
-- Accuracy over speed. R&L makes this explicit for Ex. 2 and it applies across the chapter.
-- Try each exercise at multiple tempos. R&L calls this out for Ex. 4 and asks you to apply it to the others.
+- Start with the strong hand and strong foot together in Ex. 23.1, then alternate—R&L is specific about this.
+- Accuracy over speed. R&L makes this explicit for Ex. 23.2 and it applies across the chapter.
+- Try each exercise at multiple tempos. R&L calls this out for Ex. 23.4 and asks you to apply it to the others.
 - Mentally hear the rhythm before you play it. R&L closes the chapter with this—the feet follow the ear, and if the ear is not carrying the rhythm the feet will not either.
 - The concept works with duple *and* triplet-based rolls. Once the printed examples are stable, transplant the idea onto rolls from other chapters—that is the point of the chapter.
 

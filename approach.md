@@ -38,7 +38,7 @@ Read this section before any other. It is the difference between a manual you fo
 
 | Away for | Do this on return |
 | --- | --- |
-| Roughly a week or less | For every active exercise, drop the current bpm by one increment for that material type ([§4](#4-the-tempo-target-and-clean-pass-rule): −4 bpm for warm-ups and feet-only exercises, −2 to −3 bpm for beats and fills played in context with hands). Concretely, if Ex. 1 was at 68 bpm before the break, resume at 64 bpm; if a Ch. 2 beat was at 74 bpm, resume at 72. Do the 1-minute clean pass at that reduced tempo and continue. |
+| Roughly a week or less | For every active exercise, drop the current bpm by one increment for that material type ([§4](#4-the-tempo-target-and-clean-pass-rule): −4 bpm for warm-ups and feet-only exercises, −2 to −3 bpm for beats and fills played in context with hands). Concretely, if Ex. 1.1 was at 68 bpm before the break, resume at 64 bpm; if a Ch. 2 beat was at 74 bpm, resume at 72. Do the 1-minute clean pass at that reduced tempo and continue. |
 | Roughly a month | Drop each active exercise back to the **last pass bpm** recorded in your per-chapter working state ([§8](#8-tracking))—the tempo you last actually cleared, not the current bpm you were probing towards. Hold that tempo for two consecutive practice sessions ([§4](#4-the-tempo-target-and-clean-pass-rule)) before probing up again. |
 | Roughly a year, or you no longer remember where you were | Reset the current bpm on every active exercise to its starting bpm from the chapter sheet, and run the chapter's "Your first session" walkthrough again (for R&L Ch. 1, see [chapter-01.md](chapter-01.md)). The last pass bpm column in your tracking document stays as a memory of where you got to before—it is not today's ceiling. |
 
@@ -80,7 +80,7 @@ When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lea
 - **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8 and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
 - **Front matter is common to both**: Introduction, Acknowledgments, Key panel (with the BD I / BD II staff assignment referenced in [§3.1](#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)), Getting Started With Double Bass, Two Bass Drums Versus A Double Pedal, Applying Double Bass.
 - **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
-- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is R&L Ch. 1 Ex. 1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1 (edition discrepancy)". Expect more of these to surface as more exercises are worked; each will be called out on the relevant chapter sheet.
+- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is Ex. 1.1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1.1 (edition discrepancy)". Expect more of these to surface as more exercises are worked; each will be called out on the relevant chapter sheet.
 
 **Working from the Original Edition.**
 
@@ -145,7 +145,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 **Stage-transition unlocks.** Each stage transition is gated by an unlock bpm on one or more exercises—the concrete criterion for opening the next stage, per [§4](#4-the-tempo-target-and-clean-pass-rule). The scheme:
 
-1. **Gate exercises are whatever prepares the next chapter's material.** For Stage 1 → 2, the gates are R&L Ch. 1 Ex. 1 (weak-foot isolation), Ex. 10 (16th-note single-stroke roll—preps Ch. 2's doubled 16ths) and Ex. 11 (8th-note-triplet single-stroke roll—preps Stage 3 triplets).
+1. **Gate exercises are whatever prepares the next chapter's material.** For Stage 1 → 2, the gates are Ex. 1.1 (weak-foot isolation), Ex. 1.10 (16th-note single-stroke roll—preps Ch. 2's doubled 16ths) and Ex. 1.11 (8th-note-triplet single-stroke roll—preps Stage 3 triplets).
 2. **Between-stage transitions gate on 2–3 exercises; within-stage on one.** Between-stage jumps are qualitative (new subdivision, new orchestration); multiple checkpoints reduce the risk of opening a stage the feet are not ready for. Within-stage jumps (e.g. Ch. 2 → 3 inside the 16th-note density ladder) are quantitative and one gate is enough.
 3. **Unlock bpm ≈ material-type target − 25%, rounded to a ladder step.** Stage 1 → 2 landed on 90 bpm against the 120 bpm target for Ch. 1 warm-ups. Per-transition rationale can override: a jump into a qualitatively different subdivision may warrant a tighter margin, and any transition may land the number on a nearby ladder step for practical reasons.
 4. **Stages 4 (probe), 5 (interleaved) and 6 (deferred) carry no unlock bpm.** Stage 4 is exposure only. Stage 5 chapters are picked up interleaved with Stage 2 and Stage 3 work rather than gated. Stage 6 is deferred until Stages 2 and 3 are solid; that is itself the gate.
@@ -154,17 +154,17 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 | Transition | Type | Gate exercise(s) | Unlock bpm | Rationale |
 | --- | --- | --- | --- | --- |
-| Stage 1 → 2 | Between-stage | R&L Ch. 1 Ex. 1, Ex. 10 and Ex. 11 | 90 (each) | 25% below the 120 bpm warm-up target; the scheme's baseline example. Concrete text in [chapter-01.md](chapter-01.md) "Moving on to Stage 2". |
-| Ch. 2 → 3 | Within-stage | R&L Ch. 2 Ex. 10 (Beats, highest doubled-16th density per bar — 2& + 2a and 4& + 4a) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 10 has the highest doubled-16th density per bar of any Ch. 2 Core exercise (two events per bar vs. one for Ex. 5 and Ex. 7), so it also preps 3-consecutive-16ths in Ch. 3. |
-| Ch. 3 → 4 | Within-stage | R&L Ch. 3 Ex. 12 (Beats, groove-context reinforcement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 12 represents chapter maturity in context and preps 4-consecutive-16ths in Ch. 4. |
-| Ch. 4 → 5 | Within-stage | R&L Ch. 4 Ex. 12 (Beats, sustained four-16th runs in a different placement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 12 preps 5-to-16-consecutive-16ths in Ch. 5. |
-| Stage 2 → 3 | Between-stage | R&L Ch. 1 Ex. 11 at 100 bpm; R&L Ch. 5 Ex. 13 (Beats, built on longer 16th runs) at 88 bpm | 100 and 88 | Two gates. Ex. 11 is the direct triplet prep (17% below its 120 bpm target—tighter than default because between-stage and directly on the incoming material type). Ch. 5 Ex. 13 checks Stage 2 maturity in context (20% below its 110 bpm target—tighter than default because between-stage). Concrete text will land in `chapter-05.md` "Moving on to Stage 3" when that sheet is filled in. |
+| Stage 1 → 2 | Between-stage | Ex. 1.1, Ex. 1.10 and Ex. 1.11 | 90 (each) | 25% below the 120 bpm warm-up target; the scheme's baseline example. Concrete text in [chapter-01.md](chapter-01.md) "Moving on to Stage 2". |
+| Ch. 2 → 3 | Within-stage | Ex. 2.10 (Beats, highest doubled-16th density per bar — 2& + 2a and 4& + 4a) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 2.10 has the highest doubled-16th density per bar of any Ch. 2 Core exercise (two events per bar vs. one for Ex. 2.5 and Ex. 2.7), so it also preps 3-consecutive-16ths in Ch. 3. |
+| Ch. 3 → 4 | Within-stage | Ex. 3.12 (Beats, groove-context reinforcement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 3.12 represents chapter maturity in context and preps 4-consecutive-16ths in Ch. 4. |
+| Ch. 4 → 5 | Within-stage | Ex. 4.12 (Beats, sustained four-16th runs in a different placement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 4.12 preps 5-to-16-consecutive-16ths in Ch. 5. |
+| Stage 2 → 3 | Between-stage | Ex. 1.11 at 100 bpm; Ex. 5.13 (Beats, built on longer 16th runs) at 88 bpm | 100 and 88 | Two gates. Ex. 1.11 is the direct triplet prep (17% below its 120 bpm target—tighter than default because between-stage and directly on the incoming material type). Ex. 5.13 checks Stage 2 maturity in context (20% below its 110 bpm target—tighter than default because between-stage). Concrete text will land in `chapter-05.md` "Moving on to Stage 3" when that sheet is filled in. |
 
 Stage 3 internal (Ch. 6 → 7) and every transition at Stage 4, 5 or 6 is deferred until those chapter sheets get their skeleton fill.
 
 **Stage 1—Foundation (R&L Ch. 1).** There is exactly one Stage 1 chapter—R&L Ch. 1, *Starters*. Always active as warm-up. This chapter is never fully graduated out of; the exercises just get faster and stay in rotation for the life of the manual.
 
-**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths. **Unlocked when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all hold 90 bpm cleanly** (their unlock bpm—see [§4](#4-the-tempo-target-and-clean-pass-rule)—reached via two consecutive `pass` sessions at 90 bpm per exercise). This is a floor, not a ceiling: the Ch. 1 Core exercises keep advancing towards their 120 bpm target in the warm-up block after Stage 2 opens. Within-stage transitions (Ch. 2 → 3, 3 → 4, 4 → 5) each gate on one exercise per the scheme above; the concrete numbers are in the staging table.
+**Stage 2—16th-note density ladder (R&L Ch. 2 → 3 → 4 → 5).** Worked in strict sequence because they explicitly build on each other: two consecutive 16ths, three consecutive 16ths, four consecutive 16ths, then five-to-sixteen consecutive 16ths. **Unlocked when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all hold 90 bpm cleanly** (their unlock bpm—see [§4](#4-the-tempo-target-and-clean-pass-rule)—reached via two consecutive `pass` sessions at 90 bpm per exercise). This is a floor, not a ceiling: the Ch. 1 Core exercises keep advancing towards their 120 bpm target in the warm-up block after Stage 2 opens. Within-stage transitions (Ch. 2 → 3, 3 → 4, 4 → 5) each gate on one exercise per the scheme above; the concrete numbers are in the staging table.
 
 **Stage 3—Triplets (R&L Ch. 6, 7).** Between-stage unlock per the scheme above; the concrete gate exercises and unlock bpm are in the staging table. Sequential within the stage—8th-note triplets first, then 16th-note triplets; the Ch. 6 → 7 within-stage transition is deferred until those chapter sheets are filled in.
 
@@ -301,7 +301,7 @@ If a plain-text file (rather than a table-capable tool) is easier for you, the s
 
 For same-day sessions in this form, put the marker after the date (`2026-07-30 AM`, `2026-07-30 PM`).
 
-**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for R&L Ch. 2 exercise 5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, last pass bpm, last pass date.
+**3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for Ex. 2.5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, last pass bpm, last pass date.
 
 The current bpm and the last pass bpm can differ, and the update procedure after each session for an exercise is:
 
@@ -326,7 +326,7 @@ This is a template shape, not a rigid schema. If you prefer a slightly different
 
 Short prescriptive answers for the situations that make a beginner give up:
 
-- **Weak foot cannot keep up.** Drop to R&L Ch. 1 exercises 8–12 (single-stroke rolls between the feet, per R&L p. 6) at a bpm 20% below current working. Hold for the full minute. Come back to the main exercise the next session.
+- **Weak foot cannot keep up.** Drop to Ex. 1.8–1.12 (single-stroke rolls between the feet, per R&L p. 6) at a bpm 20% below current working. Hold for the full minute. Come back to the main exercise the next session.
 - **Snare does not line up with the bass drum.** R&L Ch. 17 gives the fix directly: lighten the snare hit until the bass drum is audible under it. The bass drum leads the alignment; the snare adjusts to it, not the other way around.
 - **Speed plateau.** Stop chasing bpm for a full week. Work only on evenness at current tempo. Speed comes back once the fatigue is gone.
 - **Boredom on R&L Ch. 1.** R&L Ch. 1 is a permanent warm-up, not a level to escape. Rotate which exercises you use inside the chapter—do not drop the chapter itself.
@@ -348,7 +348,7 @@ You have read the method. Here is what to do right now.
 2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
 3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry per exercise in your session log per the format in [§8](#8-tracking).
 
-That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when Ex. 1, Ex. 10 and Ex. 11 of Ch. 1 all reach their unlock bpm of 90 bpm (two consecutive `pass` sessions at 90 bpm per exercise); the Ch. 1 Core keeps advancing towards its 120 bpm target as your warm-up after Stage 2 opens. See [§5](#5-the-chapter-progression), Stage 2.
+That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all reach their unlock bpm of 90 bpm (two consecutive `pass` sessions at 90 bpm per exercise); the Ch. 1 Core keeps advancing towards its 120 bpm target as your warm-up after Stage 2 opens. See [§5](#5-the-chapter-progression), Stage 2.
 
 ### Starter template for your tracking document
 
@@ -364,7 +364,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 **Active chapters:**
 - Stage 1 warm-up: R&L Ch. 1—Starters
-- Later-stage focus: (none yet—unlocks when Ex. 1, Ex. 10 and Ex. 11 of R&L Ch. 1 all reach their unlock bpm (90 bpm), per approach.md §5)
+- Later-stage focus: (none yet—unlocks when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all reach their unlock bpm (90 bpm), per approach.md §5)
 
 (Rubric: this header block is the single "what am I working on right now?" reference. Update the active chapters whenever they change. Keep it short—everything else lives in the sections below.)
 
@@ -389,11 +389,11 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 | Ex. | Current bpm | Unlock bpm | Target bpm | Last pass bpm | Last pass date |
 | --- | --- | --- | --- | --- | --- |
-| 1   | 60          | 90         | 120        | (none yet)    | (none yet)     |
-| 10  | 60          | 90         | 120        | (none yet)    | (none yet)     |
-| 11  | 60          | 90         | 120        | (none yet)    | (none yet)     |
+| 1.1  | 60          | 90         | 120        | (none yet)    | (none yet)     |
+| 1.10 | 60          | 90         | 120        | (none yet)    | (none yet)     |
+| 1.11 | 60          | 90         | 120        | (none yet)    | (none yet)     |
 
-(Add rows for exercises 12 and 13 if you start rotating them in. See chapter-01.md for their starting and target bpm.)
+(Add rows for Ex. 1.12 and Ex. 1.13 if you start rotating them in. See chapter-01.md for their starting and target bpm.)
 
 ---
 
