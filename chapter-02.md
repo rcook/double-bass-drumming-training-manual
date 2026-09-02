@@ -57,6 +57,8 @@ That is one session per Warm-Up every second day and one session per Beat every 
 
 **Worked advancement example, Ex. 2.10 (Beat, +2 bpm ladder).** Same shape, but each raise is +2 bpm instead of +4. Session A `pass` at 50; session B (next Ex. 2.10 session) `pass` at 50 → raise; session C raise to 52, `pass`; session D `pass` at 52 → raise; session E raise to 54… The +2 ladder reaches 82 (the Ch. 3 unlock bpm) in 16 increments; assume roughly one advancement per week per exercise once things are stable, so plan for Ex. 2.10 to reach 82 over three-to-four months of steady work.
 
+**When a probe fails with time still on the clock.** Drop the metronome back to the last cleanly-passed rung—the session ceiling, which on a first probe up from your current bpm is the current bpm itself—and use the remaining minutes to reinforce it. Do not grind at the failing bpm. Sustained reps above the ceiling groove tension and uneven mechanics without moving the ceiling; the ceiling has already been recorded for this session, and quality reps at the rung below it set up next session's probe. See [approach.md §7 focus block](approach.md#focus-block) step 4 for the general rule.
+
 ## Core (most sessions)
 
 Your focus and application pool for this chapter. Pick one exercise for the focus block and one Beat for the application block each session, rotating across sessions so all five get worked over time. Concretely: for the chosen exercise, look up your current bpm in the tracking document (or use the starting bpm for the first time), set the metronome, set a timer for the block minutes, play unbroken until the timer stops, log a verdict per the clean-pass rule ([approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)), then move on to the next block.
