@@ -10,18 +10,9 @@ A training manual built around Bobby Rondinelli and Michael Lauren's *The Encycl
 
 The methodology in [approach.md](approach.md) and the chapter-01 working sheet ([chapter-01.md](chapter-01.md)) are the current reference implementation. Chapters 2–23 exist as skeletons—they have the metadata block, a brief "How to use this sheet" section, and Core / Rotation / Reference tables—but they have not yet been rewritten to the shape chapter-01 now has (first-session walkthrough, worked advancement example, explicit two-consecutive-passes loop, per-exercise rationale). The methodology is being validated on chapter-01 first; once the shape is stable, it propagates to the other 22 sheets. Each skeleton chapter sheet carries a banner at the top marking it as such. See [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding items.
 
-## Repository structure
-
-- [approach.md](approach.md)—the training method. Start here.
-- [DEVELOPMENT.md](DEVELOPMENT.md)—orientation for anyone editing the manual (sheet conventions, style, issue tracker). Not needed if you are just following the course.
-- [LICENCE](LICENCE)—Creative Commons Attribution-ShareAlike 4.0 International
-
-Notice something in the manual that looks wrong, disagrees with the source book, or has a gap? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
-
-Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Ch. 1 and Ch. 2 are the fully-written reference implementations; Ch. 3–23 are skeletons awaiting fill (see [chapter-template.md](chapter-template.md) for the shape they will take). Your own practice log is not a repo file—see [approach.md](approach.md) §8.
-
 ## Contents
 
+- [Approach](approach.md)
 - [Chapter 1: Starters](chapter-01.md)
 - [Chapter 2: Two Consecutive 16th Notes](chapter-02.md)
 - [Chapter 3: Three Consecutive 16th Notes](chapter-03.md)
@@ -49,6 +40,16 @@ Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.m
 ## How to use
 
 Start with [approach.md](approach.md)—it establishes the method (the tempo-target and clean-pass rule, the stage-based chapter progression, the session template and the tracking format). Per-chapter working sheets and session logs slot in on top of that foundation as they are produced. This README deliberately does not restate the method; it points at [approach.md](approach.md) instead.
+
+## Repository structure
+
+- [approach.md](approach.md)—the training method. Start here.
+- [DEVELOPMENT.md](DEVELOPMENT.md)—orientation for anyone editing the manual (sheet conventions, style, issue tracker). Not needed if you are just following the course.
+- [LICENCE](LICENCE)—Creative Commons Attribution-ShareAlike 4.0 International
+
+Notice something in the manual that looks wrong, disagrees with the source book, or has a gap? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
+
+Per-chapter working sheets live at the repo root as [chapter-01.md](chapter-01.md) through [chapter-23.md](chapter-23.md), one file per chapter of the source book. Ch. 1 and Ch. 2 are the fully-written reference implementations; Ch. 3–23 are skeletons awaiting fill (see [chapter-template.md](chapter-template.md) for the shape they will take). Your own practice log is not a repo file—see [approach.md](approach.md) §8.
 
 ## Source book
 
