@@ -1,6 +1,6 @@
 # R&L Ch. 10—8th Notes
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 49–51
@@ -9,17 +9,17 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Application chapter (Stage 5 in [approach.md §5](approach.md#5-the-chapter-progression)). R&L notes that 8th-note double bass is usually played at fast tempos in the real world—but they also say explicitly that this chapter is most useful to beginning double bass drummers *when played at slow tempos*. Take them at their word. The point of this chapter is not speed; it is placing every 8th-note bass drum stroke evenly and audibly under whatever the hands are doing.
+Application chapter (Stage 5 in [Approach §5](approach.md#5-the-chapter-progression)). R&L notes that 8th-note double bass is usually played at fast tempos in the real world—but they also say explicitly that this chapter is most useful to beginning double bass drummers *when played at slow tempos*. Take them at their word. The point of this chapter is not speed; it is placing every 8th-note bass drum stroke evenly and audibly under whatever the hands are doing.
 
 Because 8th-note density is coarser than the earlier chapters, an exercise here will often reach its bpm ceiling faster than a corresponding Ch. 2–5 exercise. That is fine. Do not push past clean.
 
 There is no Warm-Ups or Fills section in this chapter—just Beats. R&L points out that fills from the 16th-note and 8th-note triplet chapters (Chs. 2–7) pair well with these beats when you want a fill; use them in the application block of the session template rather than expecting this chapter to supply its own.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because the feet are on 8ths not 16ths, the physical ceiling is higher—but only push past the target once the placement is honest.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because the feet are on 8ths not 16ths, the physical ceiling is higher—but only push past the target once the placement is honest.
 
 ## Core (most sessions)
 
@@ -50,4 +50,4 @@ Beats 2, 3, 5, 6, 8, 9, 11, 12, 14–16, 18–21 are groove variants over the sa
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `10.`—for example `10.1  80 bpm  5 min  pass  even`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `10.`—for example `10.1  80 bpm  5 min  pass  even`. See [Approach §8](approach.md#8-tracking).

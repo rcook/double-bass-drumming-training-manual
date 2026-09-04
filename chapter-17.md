@@ -1,6 +1,6 @@
 # R&L Ch. 17—Binary Beats and Fills
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 6 (Rondinelli additions, third chapter)
 - **Book pages:** R&L pp. 76–83
@@ -9,17 +9,17 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Third chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progression)), and the densest of the Rondinelli additions—65 beats and 39 fills across seven pages. Do not attempt to work this chapter exhaustively. The material is a library of binary (straight-16th-feel) grooves and fills to draw from; pick a handful per session and rotate.
+Third chapter of Stage 6 ([Approach §5](approach.md#5-the-chapter-progression)), and the densest of the Rondinelli additions—65 beats and 39 fills across seven pages. Do not attempt to work this chapter exhaustively. The material is a library of binary (straight-16th-feel) grooves and fills to draw from; pick a handful per session and rotate.
 
 R&L makes three specific coaching points that carry through the whole chapter. First, do not flam the snare with the bass drum—the snare should land exactly with the bass drum stroke, not before or after. Second, in the early going, lighten the snare hit so the bass drum is audible under it; that is the way to actually hear whether snare and bass are landing together. Third, get the weak foot to sound as loud as the strong foot; even volume matters more than bpm.
 
 R&L also notes that most beats are printed strong-foot lead but some players lead with the opposite foot for a given pattern—the printed footing is a default, not a rule.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
 
 ## Core (most sessions)
 
@@ -50,8 +50,8 @@ Everything not in the core or rotation lists—Beats 2–4, 6–12, 14–22, 28�
 - Snare-and-bass unison is the whole point of the "binary" concept. If the snare is flamming against the bass drum, drop the bpm until they line up.
 - Lighten the snare deliberately in the early going. R&L is explicit about this—you cannot hear alignment if the snare is drowning the bass drum.
 - Even volume between the feet is the target, not speed. R&L says so directly.
-- Do not attempt this chapter exhaustively. 65 beats plus 39 fills at one clean pass each is roughly 40 sessions of work for no musical gain over rotating a smaller subset—the encyclopedic layout is the trap [approach.md §2](approach.md#2-a-sustainable-regimen) warns against.
+- Do not attempt this chapter exhaustively. 65 beats plus 39 fills at one clean pass each is roughly 40 sessions of work for no musical gain over rotating a smaller subset—the encyclopedic layout is the trap [Approach §2](approach.md#2-a-sustainable-regimen) warns against.
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `17.` and the section identifier—for example `17.b1  76 bpm  5 min  pass  unison` for Beats exercise 1, or `17.f1  70 bpm  5 min  near  weak-foot` for Fills exercise 1. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `17.` and the section identifier—for example `17.b1  76 bpm  5 min  pass  unison` for Beats exercise 1, or `17.f1  70 bpm  5 min  near  weak-foot` for Fills exercise 1. See [Approach §8](approach.md#8-tracking).

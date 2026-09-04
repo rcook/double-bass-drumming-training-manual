@@ -1,6 +1,6 @@
 # R&L Ch. 21—Turn the Beat Around (Turnarounds)
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 6 (Rondinelli additions, seventh chapter)
 - **Book pages:** R&L pp. 96–98
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Seventh chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progression)). R&L defines the concept plainly: a *turnaround* is a double-bass pattern that switches your downbeat foot to an upbeat and your upbeat foot to a downbeat—the whole feel flips. This chapter has 10 Feet Only Warm-Ups that isolate the switch and 16 Beats that put it into a groove.
+Seventh chapter of Stage 6 ([Approach §5](approach.md#5-the-chapter-progression)). R&L defines the concept plainly: a *turnaround* is a double-bass pattern that switches your downbeat foot to an upbeat and your upbeat foot to a downbeat—the whole feel flips. This chapter has 10 Feet Only Warm-Ups that isolate the switch and 16 Beats that put it into a groove.
 
 R&L's own coaching for this chapter: turnarounds are powerful, so start slowly. Practise on and off the pedals—tapping the pattern on the floor away from the kit counts. Balance matters. Those three cues together are the whole coaching set for the chapter.
 
-The bpm defaults come from the feet-only row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 60 bpm, target ~120 bpm) for the Warm-Ups, and the 16th-note beats row (start 50 bpm, target ~110 bpm) for the Beats.
+The bpm defaults come from the feet-only row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 60 bpm, target ~120 bpm) for the Warm-Ups, and the 16th-note beats row (start 50 bpm, target ~110 bpm) for the Beats.
 
 ## Core (most sessions)
 
@@ -50,4 +50,4 @@ Warm-Ups 2, 4, 6, 7, 9, 10 and Beats 2–4, 6–8, 10–14, 16 are the remaining
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `21.` and the section identifier—for example `21.w1  70 bpm  15 min  pass  balanced` for Warm-Ups exercise 1, or `21.b1  70 bpm  5 min  near  losing-feel` for Beats exercise 1. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `21.` and the section identifier—for example `21.w1  70 bpm  15 min  pass  balanced` for Warm-Ups exercise 1, or `21.b1  70 bpm  5 min  near  losing-feel` for Beats exercise 1. See [Approach §8](approach.md#8-tracking).

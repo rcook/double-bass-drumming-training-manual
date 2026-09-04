@@ -1,6 +1,6 @@
 # R&L Ch. 8—32nd-Notes and 32nd-Note Triplets
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 4 (Density extremes—probe only)
 - **Book pages:** R&L pp. 36–44
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-This chapter is a probe, not a mastery target. Stage 4 of [approach.md §5](approach.md#5-the-chapter-progression) says explicitly: visit, do not camp. The whole point of touching R&L Ch. 8 is to feel what 32nd-note and 32nd-note-triplet density does to the body, the ear and the metronome—so that when you return to Stage 2, 3, 5 or 6 material, the earlier subdivisions feel less alien.
+This chapter is a probe, not a mastery target. Stage 4 of [Approach §5](approach.md#5-the-chapter-progression) says explicitly: visit, do not camp. The whole point of touching R&L Ch. 8 is to feel what 32nd-note and 32nd-note-triplet density does to the body, the ear and the metronome—so that when you return to Stage 2, 3, 5 or 6 material, the earlier subdivisions feel less alien.
 
 There is no core list, no starting-and-target bpm table and no "done" state. The exercises are here so you can pick one, sit with it, and leave. R&L notes that many of the beats are "very challenging but not impossible" and that all of them are playable at a variety of tempos—that framing matters. You are not chasing the printed bpm; you are learning the feel of the density.
 
-[approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) sets a starting bpm of 40 for this material and explicitly writes "no aspirational target—this chapter is a probe". That is the rule for this sheet too.
+[Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) sets a starting bpm of 40 for this material and explicitly writes "no aspirational target—this chapter is a probe". That is the rule for this sheet too.
 
 ## How to probe this chapter
 
@@ -39,4 +39,4 @@ Suggested probing paths, in order of increasing demand:
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `8.`—for example `8.1  40 bpm  15 min  probe  weak-foot-dying`. `probe` is a legitimate verdict here in addition to `pass` / `near` / `fail`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `8.`—for example `8.1  40 bpm  15 min  probe  weak-foot-dying`. `probe` is a legitimate verdict here in addition to `pass` / `near` / `fail`. See [Approach §8](approach.md#8-tracking).

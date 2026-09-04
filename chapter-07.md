@@ -1,6 +1,6 @@
 # R&L Ch. 7—16th-Note Triplets
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 3 (Triplets, second step)
 - **Book pages:** R&L pp. 31–35
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Second chapter of Stage 3 ([approach.md §5](approach.md#5-the-chapter-progression)). Unlike Ch. 6, this chapter has only Warm-Ups and Beats—no Fills section—because the density is high enough that the beat is already doing the fill's job. Expect this chapter to feel harder than Ch. 6 despite the notation looking similar; the subdivision is twice as dense.
+Second chapter of Stage 3 ([Approach §5](approach.md#5-the-chapter-progression)). Unlike Ch. 6, this chapter has only Warm-Ups and Beats—no Fills section—because the density is high enough that the beat is already doing the fill's job. Expect this chapter to feel harder than Ch. 6 despite the notation looking similar; the subdivision is twice as dense.
 
 R&L flags a specific placement pitfall for this chapter: with 16th-note triplets and a strong-foot lead, the backbeat lands with the strong foot—the opposite of 8th-note triplets. That reversal is easy to miss and is worth calling out on every session until it becomes automatic. R&L also notes you can play any non-triplet 16ths straight or swung, and that a few beats are not written strong-foot lead—the printed footing is a starting point rather than the only choice.
 
-The bpm defaults come from the triplet-material row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm). Because the subdivision is denser, the real starting bpm will often be well below 40—drop until the pattern is clean.
+The bpm defaults come from the triplet-material row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm). Because the subdivision is denser, the real starting bpm will often be well below 40—drop until the pattern is clean.
 
 ## Core (most sessions)
 
@@ -51,4 +51,4 @@ Warm-Ups 4, 6, 8 are the footing pairs to their odd-numbered neighbours. The lat
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `7.`—for example `7.9  48 bpm  5 min  near  weak-foot`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `7.`—for example `7.9  48 bpm  5 min  near  weak-foot`. See [Approach §8](approach.md#8-tracking).

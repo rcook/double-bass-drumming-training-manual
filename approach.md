@@ -40,7 +40,7 @@ Read this section before any other. It is the difference between a manual you fo
 | --- | --- |
 | Roughly a week or less | For every active exercise, drop the current bpm by one increment for that material type ([§4](#4-the-tempo-target-and-clean-pass-rule): −4 bpm for warm-ups and feet-only exercises, −2 to −3 bpm for beats and fills played in context with hands). Concretely, if Ex. 1.1 was at 68 bpm before the break, resume at 64 bpm; if a Ch. 2 beat was at 74 bpm, resume at 72. Do the 1-minute clean pass at that reduced tempo and continue. |
 | Roughly a month | Drop each active exercise back to the **last pass bpm** recorded in your per-chapter working state ([§8](#8-tracking))—the tempo you last actually cleared, not the current bpm you were probing towards. Hold that tempo for two consecutive practice sessions ([§4](#4-the-tempo-target-and-clean-pass-rule)) before probing up again. |
-| Roughly a year, or you no longer remember where you were | Reset the current bpm on every active exercise to its starting bpm from the chapter sheet, and run the chapter's "Your first session" walkthrough again (for R&L Ch. 1, see [chapter-01.md](chapter-01.md)). The last pass bpm column in your tracking document stays as a memory of where you got to before—it is not today's ceiling. |
+| Roughly a year, or you no longer remember where you were | Reset the current bpm on every active exercise to its starting bpm from the chapter sheet, and run the chapter's "Your first session" walkthrough again (for R&L Ch. 1, see [Chapter 1](chapter-01.md)). The last pass bpm column in your tracking document stays as a memory of where you got to before—it is not today's ceiling. |
 
 None of this is a penalty. It is the honest state of your body after time off. The rule is deliberately generous on the short end and pragmatic on the long end—body memory returns fast, but the ceiling does not, and pushing yesterday's ceiling on today's feet is how injury and discouragement enter the programme.
 
@@ -80,7 +80,7 @@ When R&L's prose (or a chapter sheet in this manual) refers to a "right-foot lea
 - **Chapters 1–14 are identical in both editions**—same titles, same book page numbers (Ch. 1 at p. 6, Ch. 2 at p. 8 and so on through Ch. 14 at pp. 70–71). Page-number citations elsewhere in this manual (e.g. "R&L p. 6", "R&L pp. 6–7") resolve to the same content in either edition.
 - **Front matter is common to both**: Introduction, Acknowledgments, Key panel (with the BD I / BD II staff assignment referenced in [§3.1](#31-notation-strong-foot--weak-foot-vs-rls-bd-i--bd-ii)), Getting Started With Double Bass, Two Bass Drums Versus A Double Pedal, Applying Double Bass.
 - **Chapters 15–23 are Revised-only.** The Revised Edition adds nine chapters—the *Stage 6—Rondinelli additions* referenced in [§5](#5-the-chapter-progression)—covering starters and doubles, feet-only doubles, binary beats and fills, feet-only triplets, ternary beats and fills, skiplets, turnarounds, the ladder and hands-doubles / feet-singles. In the Original Edition, the corresponding pages hold three back-matter essays instead: a Double Bass Time Line, a Discography and a "Future of Double Bass Drumming" piece. Interesting historical reading; not exercise material.
-- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is Ex. 1.1, bar 2 foot assignment—see [chapter-01.md](chapter-01.md) under "Note on Ex. 1.1 (edition discrepancy)". Expect more of these to surface as more exercises are worked; each will be called out on the relevant chapter sheet.
+- **Per-exercise notation differences.** Where the two editions disagree at the exercise level, individual chapter sheets call it out and pick the reading that best serves the training goal. The only one confirmed so far is Ex. 1.1, bar 2 foot assignment—see [Chapter 1](chapter-01.md) under "Note on Ex. 1.1 (edition discrepancy)". Expect more of these to surface as more exercises are worked; each will be called out on the relevant chapter sheet.
 
 **Working from the Original Edition.**
 
@@ -154,7 +154,7 @@ The 23 chapters do not need to be worked in strict order. They are grouped into 
 
 | Transition | Type | Gate exercise(s) | Unlock bpm | Rationale |
 | --- | --- | --- | --- | --- |
-| Stage 1 → 2 | Between-stage | Ex. 1.1, Ex. 1.10 and Ex. 1.11 | 90 (each) | 25% below the 120 bpm warm-up target; the scheme's baseline example. Concrete text in [chapter-01.md](chapter-01.md) "Moving on to Stage 2". |
+| Stage 1 → 2 | Between-stage | Ex. 1.1, Ex. 1.10 and Ex. 1.11 | 90 (each) | 25% below the 120 bpm warm-up target; the scheme's baseline example. Concrete text in [Chapter 1](chapter-01.md) "Moving on to Stage 2". |
 | Ch. 2 → 3 | Within-stage | Ex. 2.10 (Beats, highest doubled-16th density per bar — 2& + 2a and 4& + 4a) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 2.10 has the highest doubled-16th density per bar of any Ch. 2 Core exercise (two events per bar vs. one for Ex. 2.5 and Ex. 2.7), so it also preps 3-consecutive-16ths in Ch. 3. |
 | Ch. 3 → 4 | Within-stage | Ex. 3.12 (Beats, groove-context reinforcement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 3.12 represents chapter maturity in context and preps 4-consecutive-16ths in Ch. 4. |
 | Ch. 4 → 5 | Within-stage | Ex. 4.12 (Beats, sustained four-16th runs in a different placement) | 82 | 25% below the 110 bpm 16th-note-beats target; Ex. 4.12 preps 5-to-16-consecutive-16ths in Ch. 5. |
@@ -196,7 +196,7 @@ The template has fixed proportions and elastic duration. It fits a 15-minute ses
 
 Other durations follow the same proportions. A 60-minute session doubles every block; a 15-minute session halves them and drops the application block if needed.
 
-Minimum useful session depends on where you are in the progression ([§5](#5-the-chapter-progression)). In Stage 1, when R&L Ch. 1 is your only active chapter and there is no focus block yet, it is just the Ch. 1 Core warm-up—about 8 minutes (see [chapter-01.md](chapter-01.md)). From Stage 2 onwards, when a focus block joins, the minimum useful session is about 15 minutes: warm-up plus one focus rep, dropping the application and cool-down blocks if the time is not there. Short sessions still count—the authors say so in R&L Ch. 1 and it is worth taking them at their word.
+Minimum useful session depends on where you are in the progression ([§5](#5-the-chapter-progression)). In Stage 1, when R&L Ch. 1 is your only active chapter and there is no focus block yet, it is just the Ch. 1 Core warm-up—about 8 minutes (see [Chapter 1](chapter-01.md)). From Stage 2 onwards, when a focus block joins, the minimum useful session is about 15 minutes: warm-up plus one focus rep, dropping the application and cool-down blocks if the time is not there. Short sessions still count—the authors say so in R&L Ch. 1 and it is worth taking them at their word.
 
 ## 7. Running a session
 
@@ -206,16 +206,16 @@ This section is the mechanical loop for a single session. It is deliberately con
 
 1. Open your tracking document (see [§8](#8-tracking) for its structure; [§11](#11-starting-your-first-session) has a copy-and-pasteable starter template if you have not created it yet).
 2. Look at the header block at the top of your tracking document. It lists your current active chapters: R&L Ch. 1 (always active as warm-up) plus 0, 1 or 2 later-stage chapters per [§5](#5-the-chapter-progression). Those are what you work today.
-3. Pick the specific exercises you will work today: your Ch. 1 warm-up (see the Warm-up block below and [chapter-01.md](chapter-01.md) for which exercises constitute the block at your current stage — a single exercise early in Stage 1, expanding to the Core after your first advancement, and staying at the Core once Stage 2 opens), one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
+3. Pick the specific exercises you will work today: your Ch. 1 warm-up (see the Warm-up block below and [Chapter 1](chapter-01.md) for which exercises constitute the block at your current stage — a single exercise early in Stage 1, expanding to the Core after your first advancement, and staying at the Core once Stage 2 opens), one focus exercise from your active Stage 2+ chapter (if any) and one application exercise from that same chapter. If you only have Ch. 1 active, everything is Ch. 1.
 4. Decide the session duration and mentally scale the block minutes per [§6](#6-the-session-template).
 
 ### Warm-up block
 
-The warm-up block is your Ch. 1 practice — the whole session in Stage 1, and the opening ~7–8 min of the three-block template from Stage 2 onwards. Which Ch. 1 exercises constitute the block, and their per-exercise durations, are set by [chapter-01.md](chapter-01.md) (Core list, Rotation list, per-exercise minutes; see "After Stage 2 unlocks" in that sheet for how Rotation cadence drops once Ch. 2 becomes active). The block may contain a single exercise (early Stage 1) or all three Core exercises (Stage 2+), sometimes plus one Rotation exercise on longer days. The steps below apply per exercise inside the block; run them in order for each Ch. 1 exercise the sheet names.
+The warm-up block is your Ch. 1 practice — the whole session in Stage 1, and the opening ~7–8 min of the three-block template from Stage 2 onwards. Which Ch. 1 exercises constitute the block, and their per-exercise durations, are set by [Chapter 1](chapter-01.md) (Core list, Rotation list, per-exercise minutes; see "After Stage 2 unlocks" in that sheet for how Rotation cadence drops once Ch. 2 becomes active). The block may contain a single exercise (early Stage 1) or all three Core exercises (Stage 2+), sometimes plus one Rotation exercise on longer days. The steps below apply per exercise inside the block; run them in order for each Ch. 1 exercise the sheet names.
 
 1. Look up your current working bpm for this exercise in the per-chapter working state ([§8](#8-tracking)) of your tracking document. If you have never worked it before, use the starting bpm from the chapter sheet.
 2. Set your metronome to that bpm.
-3. Set a timer for this exercise's slice of the warm-up block (per-exercise durations are on [chapter-01.md](chapter-01.md); the block totals ~7–8 min in a 30-min session, scaled proportionally otherwise).
+3. Set a timer for this exercise's slice of the warm-up block (per-exercise durations are on [Chapter 1](chapter-01.md); the block totals ~7–8 min in a 30-min session, scaled proportionally otherwise).
 4. Play the exercise unbroken until the timer stops. Focus on evenness between the feet; do not push the bpm inside the block.
 5. When the timer stops, decide the verdict against the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)): `pass`, `near` or `fail`. Add a log entry: `1.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`, where `<duration>` is the per-exercise time you actually spent (see [§8](#8-tracking) for the full log format, including the tabular shape most students will use). The note starts with a short tag—typical tags are `even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `flabby`—and may be followed by a short free-form comment when a single word is not enough. Example tag-only: `pass  even`. Example tag plus prose: `pass  even, click clear throughout`. Pick whatever will remind you what happened when you read the log next week.
 6. Move to the next exercise in the block. Repeat until the block's total time is up.
@@ -244,11 +244,11 @@ You have no historical bpm to look up. Use the starting bpm from the chapter she
 
 ### Short session
 
-For a Stage 2+ minimum-useful session (~15 min; see [§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down and stop cleanly. In Stage 1, when Ch. 1 is your only active chapter and there is no focus block yet, the minimum-useful session is the Ch. 1 Core warm-up itself (~8 min; see [chapter-01.md](chapter-01.md)). A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
+For a Stage 2+ minimum-useful session (~15 min; see [§6](#6-the-session-template)), keep the warm-up and focus blocks, skip the application and cool-down and stop cleanly. In Stage 1, when Ch. 1 is your only active chapter and there is no focus block yet, the minimum-useful session is the Ch. 1 Core warm-up itself (~8 min; see [Chapter 1](chapter-01.md)). A shortened session that gets logged is more useful than an ambitious one that gets abandoned.
 
 ### Off-kit session
 
-You do not always have to be at the kit. Tapping the exercise on the floor, on your leg or on a practice pad is legitimate practice and is called out as such in [§3](#3-guiding-principles) and in [chapter-01.md](chapter-01.md). It is how the pattern gets into the body without the volume overhead, and it lets you keep practising on days you cannot get to the kit.
+You do not always have to be at the kit. Tapping the exercise on the floor, on your leg or on a practice pad is legitimate practice and is called out as such in [§3](#3-guiding-principles) and in [Chapter 1](chapter-01.md). It is how the pattern gets into the body without the volume overhead, and it lets you keep practising on days you cannot get to the kit.
 
 Two things about off-kit work are worth knowing so you do not misread the results:
 
@@ -345,7 +345,7 @@ Short prescriptive answers for the situations that make a beginner give up:
 You have read the method. Here is what to do right now.
 
 1. **Set up your tracking document.** Create a new Google Doc (or Word document or plain text file—see [§8](#8-tracking) for the format rationale) and copy the starter template below into it. Fill in the placeholders. Do not add anything else yet.
-2. **Open the Ch. 1 working sheet: [chapter-01.md](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
+2. **Open the Ch. 1 working sheet: [Chapter 1](chapter-01.md).** It is your only active chapter for now. Read the "Your first session" section at the top—it walks the mechanical loop of [§7](#7-running-a-session) through the specific case of a first Ch. 1 session.
 3. **Run the session** per [§7](#7-running-a-session). When it is over, write one entry per exercise in your session log per the format in [§8](#8-tracking).
 
 That is the full loop. Every subsequent session follows the same shape, with your tracking document providing the previous bpm to look up. Stage 2 unlocks when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all reach their unlock bpm of 90 bpm (two consecutive `pass` sessions at 90 bpm per exercise); the Ch. 1 Core keeps advancing towards its 120 bpm target as your warm-up after Stage 2 opens. See [§5](#5-the-chapter-progression), Stage 2.
@@ -364,7 +364,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 **Active chapters:**
 - Stage 1 warm-up: R&L Ch. 1—Starters
-- Later-stage focus: (none yet—unlocks when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all reach their unlock bpm (90 bpm), per approach.md §5)
+- Later-stage focus: (none yet—unlocks when Ex. 1.1, Ex. 1.10 and Ex. 1.11 all reach their unlock bpm (90 bpm), per Approach §5)
 
 (Rubric: this header block is the single "what am I working on right now?" reference. Update the active chapters whenever they change. Keep it short—everything else lives in the sections below.)
 
@@ -372,7 +372,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 
 ## Session log
 
-(Rubric: rolling record of what you actually practised, newest row at the top. The recommended shape is a table with one row per exercise-session and these columns: **Date** (ISO 8601), **Session** (optional; blank in the normal case, filled with a short marker like `AM` / `PM` or `1` / `2` only when you practised more than once on the same day), **Exercise** (`chapter.exercise`), **bpm**, **Duration** (per-exercise time, e.g. `3 min`), **Verdict** (`pass` / `near` / `fail`), **Note** (a short tag—`even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `off-kit`—optionally followed by a short free-form comment). Only log what you actually practised. See approach.md §8 for the full description and the plain-text-file alternative shape.)
+(Rubric: rolling record of what you actually practised, newest row at the top. The recommended shape is a table with one row per exercise-session and these columns: **Date** (ISO 8601), **Session** (optional; blank in the normal case, filled with a short marker like `AM` / `PM` or `1` / `2` only when you practised more than once on the same day), **Exercise** (`chapter.exercise`), **bpm**, **Duration** (per-exercise time, e.g. `3 min`), **Verdict** (`pass` / `near` / `fail`), **Note** (a short tag—`even`, `steady`, `weak-foot`, `rushed`, `dragging`, `clean`, `off-kit`—optionally followed by a short free-form comment). Only log what you actually practised. See Approach §8 for the full description and the plain-text-file alternative shape.)
 
 | Date | Session | Exercise | bpm | Duration | Verdict | Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -393,7 +393,7 @@ Copy everything between the two `═══` lines into your tracking document, t
 | 1.10 | 60          | 90         | 120        | (none yet)    | (none yet)     |
 | 1.11 | 60          | 90         | 120        | (none yet)    | (none yet)     |
 
-(Add rows for Ex. 1.12 and Ex. 1.13 if you start rotating them in. See chapter-01.md for their starting and target bpm.)
+(Add rows for Ex. 1.12 and Ex. 1.13 if you start rotating them in. See Chapter 1 for their starting and target bpm.)
 
 ---
 
@@ -404,4 +404,4 @@ Copy everything between the two `═══` lines into your tracking document, t
 ═══════════════════════════════════════════════════════════════════
 ```
 
-That is a complete tracking document for a student on day one. Once it exists, open [chapter-01.md](chapter-01.md) and follow the "Your first session" walkthrough.
+That is a complete tracking document for a student on day one. Once it exists, open [Chapter 1](chapter-01.md) and follow the "Your first session" walkthrough.

@@ -1,6 +1,6 @@
 # Chapter-sheet template
 
-Reference template for filling in R&L chapter working sheets. [chapter-01.md](chapter-01.md) (Stage 1) and [chapter-02.md](chapter-02.md) (Stage 2+) are the reference implementations that shaped this template; when they and this template disagree, they win—this template lags them.
+Reference template for filling in R&L chapter working sheets. [Chapter 1](chapter-01.md) (Stage 1) and [Chapter 2](chapter-02.md) (Stage 2+) are the reference implementations that shaped this template; when they and this template disagree, they win—this template lags them.
 
 ## When to fill a chapter
 
@@ -26,17 +26,17 @@ The eight sections common to both Ch. 1 and Ch. 2 (present in every chapter shee
 - **Reference (discretionary).** Short prose paragraph listing what is not in Core / Rotation.
 - **Practice notes.** Bulleted list of per-chapter tips.
 - **Moving on to [next chapter or stage].** Gate criterion + choice of common-vs-overlap path when the next chapter opens.
-- **Log entry format.** Short example matching [approach.md §8](approach.md#8-tracking), 5-field form: `chapter.exercise  bpm  duration  verdict  note`.
+- **Log entry format.** Short example matching [Approach §8](approach.md#8-tracking), 5-field form: `chapter.exercise  bpm  duration  verdict  note`.
 
 Stage-specific additional sections:
 
-- **Stage 1 (chapter-01.md only).** "Your first session" + "Your third session" walkthroughs. Stage 1 uses **hold-only** single-block sessions—the student holds the current bpm for the whole block, no within-session probing.
-- **Stage 2+ (chapter-02.md onwards).** "Your first [Ch. N] session" walkthrough + "Rotating through the Core" section. Stage 2+ uses the **three-block session template** ([approach.md §6](approach.md#6-the-session-template))—warm-up (Ch. 1), focus, application, cool-down—and the focus and application blocks run [approach.md §7](approach.md#7-running-a-session)'s **hold-and-probe** loop within the block.
+- **Stage 1 ([Chapter 1](chapter-01.md) only).** "Your first session" + "Your third session" walkthroughs. Stage 1 uses **hold-only** single-block sessions—the student holds the current bpm for the whole block, no within-session probing.
+- **Stage 2+ ([Chapter 2](chapter-02.md) onwards).** "Your first [Ch. N] session" walkthrough + "Rotating through the Core" section. Stage 2+ uses the **three-block session template** ([Approach §6](approach.md#6-the-session-template))—warm-up (Ch. 1), focus, application, cool-down—and the focus and application blocks run [Approach §7](approach.md#7-running-a-session)'s **hold-and-probe** loop within the block.
 
 When-applicable additions:
 
-- **Kit-setup callout** in "How to use this sheet" when a chapter introduces a new kit element (hi-hat for Ch. 2 Beats; other elements later). Cross-reference [approach.md §3.3](approach.md#33-kit-setup).
-- **Increment-differs paragraph** in "How to use this sheet" when the chapter has both Warm-Ups (feet-only, +4 bpm) and Beats / Fills (hands + feet, +2 bpm). See [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule).
+- **Kit-setup callout** in "How to use this sheet" when a chapter introduces a new kit element (hi-hat for Ch. 2 Beats; other elements later). Cross-reference [Approach §3.3](approach.md#33-kit-setup).
+- **Increment-differs paragraph** in "How to use this sheet" when the chapter has both Warm-Ups (feet-only, +4 bpm) and Beats / Fills (hands + feet, +2 bpm). See [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule).
 - **Increment column** in the Core / Rotation tables for the same reason.
 
 ## Per-chapter decisions
@@ -45,27 +45,27 @@ When instantiating for a new chapter, decide each of these before drafting:
 
 | Decision | Source |
 | --- | --- |
-| Stage | [approach.md §5](approach.md#5-the-chapter-progression) chapter progression |
+| Stage | [Approach §5](approach.md#5-the-chapter-progression) chapter progression |
 | Book pages | R&L table of contents |
 | Total exercises + section-label breakdown | R&L source |
 | Section labels present | R&L source |
 | Session role wording | Stage 1 = "the whole session"; Stage 2+ = "focus and application blocks" |
-| Starting / target bpm | [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) material-type table |
-| Increment (+4 / +2) | [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)—feet-only → +4, hands + feet → +2 |
-| Unlock bpm (only if this chapter gates a stage transition) | [approach.md §5](approach.md#5-the-chapter-progression) staging table |
+| Starting / target bpm | [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) material-type table |
+| Increment (+4 / +2) | [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule)—feet-only → +4, hands + feet → +2 |
+| Unlock bpm (only if this chapter gates a stage transition) | [Approach §5](approach.md#5-the-chapter-progression) staging table |
 | Core exercise selection | Chapter-specific pedagogical judgment against the transcribed grids |
 | Rotation / Reference selection | Same |
-| "Moving on to…" gate criterion | [approach.md §5](approach.md#5-the-chapter-progression) staging table |
+| "Moving on to…" gate criterion | [Approach §5](approach.md#5-the-chapter-progression) staging table |
 | Log-line prefix | `<N>.` for standard numbering; `<N>.<section-id>N` when a chapter's section labels restart numbering (Ch. 14, 17, 19, 20, 21 currently) |
 
 ## Anti-patterns from prior chapter fills
 
 Lessons the manual has already paid for, worth avoiding on any new fill:
 
-- **Do not draft Role cells from a visual read of the score without transcribing bar-by-bar first.** The `a828030` fill of chapter-02.md drafted five Core Role cells without transcription; every one of them turned out to be wrong or misleading on the first real session (foot lead flipped, placement axis wrong, "sustained" density mis-called). The `exercises.json` transcription is the load-bearing input; draft after it, not before.
-- **Do not apply Stage 1's "hold, do not probe" first-ever-session rule to Stage 2+ chapters.** The Stage 1 rule assumes a true beginner with no coordination floor. Any Stage 2+ chapter unlocks only after the student cleared 90 bpm on the Ch. 1 Core—so 50 bpm on the new chapter's first-ever session sits well below the student's coordination floor by construction. A student holding 50 bpm for the full 15-minute focus block will quit out of boredom. Stage 2+ walkthroughs must reference [approach.md §7](approach.md#7-running-a-session)'s hold-and-probe loop from minute one.
+- **Do not draft Role cells from a visual read of the score without transcribing bar-by-bar first.** The `a828030` fill of [Chapter 2](chapter-02.md) drafted five Core Role cells without transcription; every one of them turned out to be wrong or misleading on the first real session (foot lead flipped, placement axis wrong, "sustained" density mis-called). The `exercises.json` transcription is the load-bearing input; draft after it, not before.
+- **Do not apply Stage 1's "hold, do not probe" first-ever-session rule to Stage 2+ chapters.** The Stage 1 rule assumes a true beginner with no coordination floor. Any Stage 2+ chapter unlocks only after the student cleared 90 bpm on the Ch. 1 Core—so 50 bpm on the new chapter's first-ever session sits well below the student's coordination floor by construction. A student holding 50 bpm for the full 15-minute focus block will quit out of boredom. Stage 2+ walkthroughs must reference [Approach §7](approach.md#7-running-a-session)'s hold-and-probe loop from minute one.
 - **List every kick per bar in a Beat's Role cell, not just the distinguishing feature.** "Doubled 16ths on 2& + 2a and 4& + 4a" tells the student only two of the six kicks in the actual pattern; the missing single kicks on 1& and 3& are also part of the exercise. Convention: identifying feature + anchor kicks + strong-foot / weak-foot lead.
-- **Cross-check the [approach.md §5](approach.md#5-the-chapter-progression) staging table when resolving a description-of-exercise issue.** The staging table's Ch. X → Y row often carries the same phrasing that lives in the chapter sheet; when one changes, grep the other. Same for any wording that lives in more than one place (`exercises.json` notes, per-exercise descriptions).
+- **Cross-check the [Approach §5](approach.md#5-the-chapter-progression) staging table when resolving a description-of-exercise issue.** The staging table's Ch. X → Y row often carries the same phrasing that lives in the chapter sheet; when one changes, grep the other. Same for any wording that lives in more than one place (`exercises.json` notes, per-exercise descriptions).
 
 ## Instantiation checklist
 
@@ -73,11 +73,11 @@ Before landing a new chapter sheet:
 
 - [ ] Every Core and Rotation exercise has a verified transcription in `exercises.json`.
 - [ ] Role cells cite the transcription's placement / lead-foot / density-per-bar, not a visual read.
-- [ ] Starting / target bpm match [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule)'s material-type table for this chapter's material.
+- [ ] Starting / target bpm match [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule)'s material-type table for this chapter's material.
 - [ ] Increment column present if the chapter mixes Warm-Ups and Beats / Fills.
-- [ ] Unlock bpm matches [approach.md §5](approach.md#5-the-chapter-progression)'s staging table (blank if this chapter does not gate a stage transition).
+- [ ] Unlock bpm matches [Approach §5](approach.md#5-the-chapter-progression)'s staging table (blank if this chapter does not gate a stage transition).
 - [ ] Kit-setup callout present if a new kit element enters this chapter.
-- [ ] "Your first [Ch. N] session" references [approach.md §7](approach.md#7-running-a-session)'s hold-and-probe loop (Stage 2+); does not restate the Stage 1 hold-only rule.
-- [ ] Working-state update wording defers to [approach.md §8](approach.md#8-tracking) rather than restating it (§8 is the canonical spec for `current bpm` and `last pass bpm` updates).
+- [ ] "Your first [Ch. N] session" references [Approach §7](approach.md#7-running-a-session)'s hold-and-probe loop (Stage 2+); does not restate the Stage 1 hold-only rule.
+- [ ] Working-state update wording defers to [Approach §8](approach.md#8-tracking) rather than restating it (§8 is the canonical spec for `current bpm` and `last pass bpm` updates).
 - [ ] "Moving on to…" section names the gate exercise and unlock bpm from the staging table and describes the common vs. overlap path.
 - [ ] Log-entry example uses the 5-field format `<N>.<exercise>  <bpm> bpm  <duration> min  <verdict>  <note>`.

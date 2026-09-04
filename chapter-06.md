@@ -1,6 +1,6 @@
 # R&L Ch. 6—8th-Note Triplets
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 3 (Triplets, first step)
 - **Book pages:** R&L pp. 24–30
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-First chapter of Stage 3 ([approach.md §5](approach.md#5-the-chapter-progression)). Unlocked once Stage 2 core beats hold ~90 bpm cleanly. This is where the triplet feel enters the manual—R&L notes that the most common footing is alternating (RLR LRL) but that the Warm-Ups deliberately walk through other footings to broaden coordination.
+First chapter of Stage 3 ([Approach §5](approach.md#5-the-chapter-progression)). Unlocked once Stage 2 core beats hold ~90 bpm cleanly. This is where the triplet feel enters the manual—R&L notes that the most common footing is alternating (RLR LRL) but that the Warm-Ups deliberately walk through other footings to broaden coordination.
 
 R&L makes two specific points worth carrying into every session in this chapter. First, keep the triplets wide and even—do not rush them into a shuffle when they are not meant to be one. Second, although 8th-note triplet double bass is usually played at fast tempos, the slow tempos are just as valuable to practise; do not skip them. Also note R&L's rule of thumb that all beats and fills are written strong-foot lead, with alternative footings printed where they matter.
 
-The bpm defaults come from the triplet-material row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm).
+The bpm defaults come from the triplet-material row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm).
 
 ## Core (most sessions)
 
@@ -52,4 +52,4 @@ Warm-Ups 2, 4, 6, 8, 10, 12 are the footing pairs to their odd-numbered neighbou
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `6.`—for example `6.13  56 bpm  5 min  pass  even`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `6.`—for example `6.13  56 bpm  5 min  pass  even`. See [Approach §8](approach.md#8-tracking).

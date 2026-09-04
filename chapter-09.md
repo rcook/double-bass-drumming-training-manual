@@ -1,6 +1,6 @@
 # R&L Ch. 9—The Blues
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 45–48
@@ -9,17 +9,17 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Application chapter (Stage 5 in [approach.md §5](approach.md#5-the-chapter-progression)). R&L is upfront that this chapter is difficult but worth the effort—do not open it until your Stage 2 core beats hold ~90 bpm cleanly. This is not a punishment rule; it is that the swung-16th feel here is hard to place accurately when the underlying 16th-note coordination is still shaky.
+Application chapter (Stage 5 in [Approach §5](approach.md#5-the-chapter-progression)). R&L is upfront that this chapter is difficult but worth the effort—do not open it until your Stage 2 core beats hold ~90 bpm cleanly. This is not a punishment rule; it is that the swung-16th feel here is hard to place accurately when the underlying 16th-note coordination is still shaky.
 
 Two specific R&L cues drive how you work this chapter. First, swing all the 16th notes—the chapter is written straight but is meant to be played swung. Second, practise in twelve-measure phrases; the traditional blues form is the point of the material, and a 12-bar loop is the right length for a clean pass here rather than a bare minute.
 
 Some of the beats and fills are not printed strong-foot lead. R&L says to play them as written and then experiment—treat the printed footing as the starting point.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because everything is swung, the real feel-target is often 10–20 bpm lower than the equivalent straight-16th chapter.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because everything is swung, the real feel-target is often 10–20 bpm lower than the equivalent straight-16th chapter.
 
 ## Core (most sessions)
 
@@ -54,4 +54,4 @@ Warm-Ups 2, 5, 6, 8, 9, 10 build density on top of the core patterns. Beats 12, 
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `9.`—for example `9.11  70 bpm  5 min  pass  swung`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `9.`—for example `9.11  70 bpm  5 min  pass  swung`. See [Approach §8](approach.md#8-tracking).

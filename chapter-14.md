@@ -1,6 +1,6 @@
 # R&L Ch. 14—Fast Track Double Bass
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 70–71
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Application chapter (Stage 5 in [approach.md §5](approach.md#5-the-chapter-progression)). R&L frames this chapter as "commonly played double bass licks" and assumes the earlier chapters are already solid. If you have worked through Stages 2 and 3 methodically, they say these should not take long to master—this chapter is idiomatic vocabulary, not new coordination.
+Application chapter (Stage 5 in [Approach §5](approach.md#5-the-chapter-progression)). R&L frames this chapter as "commonly played double bass licks" and assumes the earlier chapters are already solid. If you have worked through Stages 2 and 3 methodically, they say these should not take long to master—this chapter is idiomatic vocabulary, not new coordination.
 
 The chapter has two short sections. Beats 1–11 are the common groove shapes. Fills 1–11 are the common fill shapes. R&L asks that both be practised at many tempos with a metronome or drum machine—the point of the chapter is having these patterns "under your feet" so you can play them at will.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because these are common patterns, some will already sit under the feet—check honestly whether the pattern is truly clean or just familiar, and drop bpm if the answer is the second.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). Because these are common patterns, some will already sit under the feet—check honestly whether the pattern is truly clean or just familiar, and drop bpm if the answer is the second.
 
 ## Core (most sessions)
 
@@ -50,4 +50,4 @@ Beats 2, 4, 6, 8–11 and Fills 2, 4, 6, 8–11 are further common shapes. R&L's
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `14.` and the section identifier—for example `14.b1  80 bpm  5 min  pass  clean` for Beats exercise 1, or `14.f1  70 bpm  5 min  near  weak-foot` for Fills exercise 1. The `b` / `f` prefix disambiguates because both sections number from 1. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `14.` and the section identifier—for example `14.b1  80 bpm  5 min  pass  clean` for Beats exercise 1, or `14.f1  70 bpm  5 min  near  weak-foot` for Fills exercise 1. The `b` / `f` prefix disambiguates because both sections number from 1. See [Approach §8](approach.md#8-tracking).

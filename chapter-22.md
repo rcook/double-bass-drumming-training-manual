@@ -1,6 +1,6 @@
 # R&L Ch. 22—The Ladder
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 6 (Rondinelli additions, eighth chapter)
 - **Book pages:** R&L pp. 99–100
@@ -9,7 +9,7 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
@@ -28,7 +28,7 @@ R&L walks through the concept over eight numbered examples on the page, in the o
 
 Work them in order. Do not skip forward. Ex. 22.3 (the triplet-feel entry) is the pattern that unlocks the rest for most people—spend most of your early time there.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm), but expect to start well below that on Ex. 22.2 and Ex. 22.3. R&L is emphatic that this pattern only works at slow tempos until the motion is felt.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm), but expect to start well below that on Ex. 22.2 and Ex. 22.3. R&L is emphatic that this pattern only works at slow tempos until the motion is felt.
 
 ## Suggested per-exercise starting bpm
 
@@ -53,4 +53,4 @@ Ex. 22.1 is a quads reference and does not need its own working bpm—play it on
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `22.`—for example `22.3  50 bpm  15 min  pass  triplet-feel`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `22.`—for example `22.3  50 bpm  15 min  pass  triplet-feel`. See [Approach §8](approach.md#8-tracking).

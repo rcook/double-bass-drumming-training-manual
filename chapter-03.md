@@ -1,6 +1,6 @@
 # R&L Ch. 3—Three Consecutive 16th Notes
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 2 (16th-note density ladder, second step)
 - **Book pages:** R&L pp. 12–15
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Second step of the 16th-note density ladder (Stage 2 in [approach.md §5](approach.md#5-the-chapter-progression)). Where Ch. 2 taught two consecutive 16ths between the feet, this chapter drills three-note groupings—which is where footing choice starts to matter. R&L notes that the most common way to play three consecutive 16ths is RLR or LRL, and that the Warm-Ups deliberately walk through alternative footings (RLL, LRR, RRR-LLL and so on) so you become aware of the possibilities rather than defaulting to one.
+Second step of the 16th-note density ladder (Stage 2 in [Approach §5](approach.md#5-the-chapter-progression)). Where Ch. 2 taught two consecutive 16ths between the feet, this chapter drills three-note groupings—which is where footing choice starts to matter. R&L notes that the most common way to play three consecutive 16ths is RLR or LRL, and that the Warm-Ups deliberately walk through alternative footings (RLL, LRR, RRR-LLL and so on) so you become aware of the possibilities rather than defaulting to one.
 
 That is the reason to spend real time on the Warm-Ups even when the Beats feel more useful. Each Warm-Up is written with several footing labels underneath (variants 1–6). Do not attempt every variant on every session—pick one variant, hold it for the 1-minute clean pass, and rotate variants across sessions.
 
-The bpm defaults below come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
+The bpm defaults below come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm).
 
 ## Core (most sessions)
 
@@ -52,4 +52,4 @@ Beats 15–18 and Fills 20–28 are secondary material—pick them when you want
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `3.`—for example `3.7  64 bpm  5 min  pass  even`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `3.`—for example `3.7  64 bpm  5 min  pass  even`. See [Approach §8](approach.md#8-tracking).

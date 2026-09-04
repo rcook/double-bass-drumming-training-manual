@@ -1,6 +1,6 @@
 # R&L Ch. 20—Skiplets
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 6 (Rondinelli additions, sixth chapter)
 - **Book pages:** R&L pp. 92–95
@@ -9,17 +9,17 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Sixth chapter of Stage 6 ([approach.md §5](approach.md#5-the-chapter-progression)). R&L defines a *skiplet* precisely: a triplet where one foot plays the first partial and the other foot plays the next two—LRR / RLL and similar. Any combination is allowed; skiplets can start or end with the single-foot side. The Warm-Ups walk through the footing variants; the Beats and Fills put them into grooves and licks.
+Sixth chapter of Stage 6 ([Approach §5](approach.md#5-the-chapter-progression)). R&L defines a *skiplet* precisely: a triplet where one foot plays the first partial and the other foot plays the next two—LRR / RLL and similar. Any combination is allowed; skiplets can start or end with the single-foot side. The Warm-Ups walk through the footing variants; the Beats and Fills put them into grooves and licks.
 
 R&L is explicit about two things. First, try all possible footings in the warm-ups—the point is to discover which skiplets suit your style, and that only shows up once you have played several. Second, feel free to substitute your preferred skiplet footing when working the beats and fills; the printed footings are examples, not prescriptions.
 
 R&L also notes an orchestration option: skiplets can be played with the weak foot doubling the hi-hat pedal together with the BD II pedal (both played by the weak foot on a conventional setup). That is a fun texture; it is not required.
 
-The bpm defaults come from the triplet-material row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm).
+The bpm defaults come from the triplet-material row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 40 bpm, target ~110 bpm).
 
 ## Core (most sessions)
 
@@ -53,4 +53,4 @@ Warm-Ups 2, 4, 6, 8 are footing pairs to their odd-numbered neighbours. Beats 2�
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `20.` and the section identifier—for example `20.w1  60 bpm  15 min  pass  LRR` for Warm-Ups exercise 1, `20.b1  56 bpm  5 min  near  drifting` for Beats exercise 1, or `20.f1  56 bpm  5 min  pass  clean` for Fills exercise 1. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `20.` and the section identifier—for example `20.w1  60 bpm  15 min  pass  LRR` for Warm-Ups exercise 1, `20.b1  56 bpm  5 min  near  drifting` for Beats exercise 1, or `20.f1  56 bpm  5 min  pass  clean` for Fills exercise 1. See [Approach §8](approach.md#8-tracking).

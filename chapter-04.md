@@ -1,6 +1,6 @@
 # R&L Ch. 4—Four Consecutive 16th Notes
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 2 (16th-note density ladder, third step)
 - **Book pages:** R&L pp. 16–18
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Third step of the 16th-note density ladder (Stage 2 in [approach.md §5](approach.md#5-the-chapter-progression)). Four consecutive 16ths is the first place sustained runs appear between the feet—the endurance cost is real, and the weak foot will fatigue first. R&L is explicit that "fours" are difficult when leading with the weak foot and that avoiding them is the wrong response; the sheet reflects that by giving the weak-foot lead its own core slot.
+Third step of the 16th-note density ladder (Stage 2 in [Approach §5](approach.md#5-the-chapter-progression)). Four consecutive 16ths is the first place sustained runs appear between the feet—the endurance cost is real, and the weak foot will fatigue first. R&L is explicit that "fours" are difficult when leading with the weak foot and that avoiding them is the wrong response; the sheet reflects that by giving the weak-foot lead its own core slot.
 
 Each Warm-Up in this chapter is written with several footing variants (alternating, doubles, and so on). Pick one variant per session and hold it for the 1-minute clean pass. Rotate variants across sessions—do not attempt every variant every day.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). If the weak-foot lead cannot hold 50 bpm cleanly, drop lower until it can—that is your real starting bpm.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). If the weak-foot lead cannot hold 50 bpm cleanly, drop lower until it can—that is your real starting bpm.
 
 ## Core (most sessions)
 
@@ -52,4 +52,4 @@ Warm-Ups 2, 4, 6, 8 are alternate-footing pairs to their odd-numbered neighbours
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `4.`—for example `4.9  60 bpm  5 min  fail  weak-foot`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `4.`—for example `4.9  60 bpm  5 min  fail  weak-foot`. See [Approach §8](approach.md#8-tracking).

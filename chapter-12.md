@@ -1,6 +1,6 @@
 # R&L Ch. 12—Linear Cross Rhythms
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L pp. 54–68
@@ -9,17 +9,17 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-This is a survey chapter. Stage 5 ([approach.md §5](approach.md#5-the-chapter-progression)) puts it here as an application. The goal is exposure to the linear-cross concept—a state where no two limbs strike at the same time, arranged into odd groupings that do not line up with the underlying pulse—rather than mastery of every grouping.
+This is a survey chapter. Stage 5 ([Approach §5](approach.md#5-the-chapter-progression)) puts it here as an application. The goal is exposure to the linear-cross concept—a state where no two limbs strike at the same time, arranged into odd groupings that do not line up with the underlying pulse—rather than mastery of every grouping.
 
 R&L introduces the linear concept plainly: none of your limbs hit at the same time. Cross-rhythms are usually odd note groupings (3, 5, 6, 7, 9) played repetitively so they do not coincide with the downbeats of even-note groupings; even-note cross-rhythms are possible too (see Triplet 4s further into the chapter). All the fills here use linear cross-rhythms. R&L encourages orchestrating the hands between snare and toms; playing one hand on a tom sounds particularly good.
 
 Do not try to work every exercise. Pick one sub-section per session, sit with a couple of exercises inside it, and move on. Rotate sub-sections across sessions.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm) for the 16th-based groupings, and the triplet-material row (start 40 bpm, target ~110 bpm) for the triplet-based sub-sections. Because the placement is odd-against-even, the real starting bpm will often be lower.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm) for the 16th-based groupings, and the triplet-material row (start 40 bpm, target ~110 bpm) for the triplet-based sub-sections. Because the placement is odd-against-even, the real starting bpm will often be lower.
 
 ## The sub-sections of this chapter
 
@@ -48,4 +48,4 @@ Work them in book order, but do not treat the list as a checklist. One sub-secti
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `12.` and the sub-section named—for example `12.3/16-warm-ups.1  60 bpm  15 min  pass  odd-feel`. The sub-section is what disambiguates the exercise numbers, since numbering restarts at 1 in each sub-section. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `12.` and the sub-section named—for example `12.3/16-warm-ups.1  60 bpm  15 min  pass  odd-feel`. The sub-section is what disambiguates the exercise numbers, since numbering restarts at 1 in each sub-section. See [Approach §8](approach.md#8-tracking).

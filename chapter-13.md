@@ -1,6 +1,6 @@
 # R&L Ch. 13—Linear Cross-Rhythm Combinations
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 5 (Applications)
 - **Book pages:** R&L p. 69
@@ -9,7 +9,7 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
@@ -17,7 +17,7 @@ This is a one-page follow-on to Ch. 12 and is generally worked alongside Ch. 12 
 
 The chapter is best worked as an extension to Ch. 12: once a specific grouping (say the 5-note grouping) feels stable in Ch. 12, come here and pick a combination that puts that grouping next to another one (say 5-5-3-3, or 3-5-5-3), then play the resulting fill as a one-bar phrase. R&L points out that the order of numbers greatly affects the sound; two combinations with the same numbers in different orders are different exercises.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm) for the 16th-note groupings, and the triplet-material row (start 40 bpm, target ~110 bpm) for the triplet groupings.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm) for the 16th-note groupings, and the triplet-material row (start 40 bpm, target ~110 bpm) for the triplet groupings.
 
 ## Suggested starting combinations
 
@@ -40,4 +40,4 @@ Pick one and hold it for the 1-minute clean pass. Rotate combinations across ses
 
 ## Log line format
 
-Log this chapter's work with the combination in place of an exercise number—for example `13.5-5-3-3  50 bpm  15 min  pass  clean` or `13.7-7-7-3-tri  40 bpm  15 min  near  drifting`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the combination in place of an exercise number—for example `13.5-5-3-3  50 bpm  15 min  pass  clean` or `13.7-7-7-3-tri  40 bpm  15 min  near  drifting`. See [Approach §8](approach.md#8-tracking).

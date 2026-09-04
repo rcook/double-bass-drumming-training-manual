@@ -1,6 +1,6 @@
 # R&L Ch. 5—Five To Sixteen Consecutive 16th Notes
 
-> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [chapter-template.md](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
+> **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [Chapter template](chapter-template.md) for the shape this sheet will take when filled, and [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.
 
 - **Stage:** 2 (16th-note density ladder, final step)
 - **Book pages:** R&L pp. 19–23
@@ -9,15 +9,15 @@
 
 **Session role:** focus block.
 
-Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [approach.md §6](approach.md#6-the-session-template).
+Every session opens with warm-up on the current R&L Ch. 1 exercises before you work this chapter. Baseline 30-min session: ~7–8 min warm-up (Ch. 1) → ~15 min focus (this chapter) → ~5–6 min application → ~2 min cool-down. Full detail in [Approach §6](approach.md#6-the-session-template).
 
 ## How to use this sheet
 
-Final step of the 16th-note density ladder (Stage 2 in [approach.md §5](approach.md#5-the-chapter-progression)). This chapter is itself a graduated ladder—it walks up from five-note groups through eight-note groups to full 16-note runs. R&L is clear that this is not an exhaustive list; the point is exposure to the range, not mastery of every combination.
+Final step of the 16th-note density ladder (Stage 2 in [Approach §5](approach.md#5-the-chapter-progression)). This chapter is itself a graduated ladder—it walks up from five-note groups through eight-note groups to full 16-note runs. R&L is clear that this is not an exhaustive list; the point is exposure to the range, not mastery of every combination.
 
 Attack this chapter by picking one entry point at each density and holding it until it is clean. Do not try to work every group size in one session. The core list below picks representative entry points at the five-note, eight-note and sustained-16 densities—leave the others for rotation and reference.
 
-The bpm defaults come from the 16th-note beats row of [approach.md §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). At the sustained-16 end, expect the real starting bpm to be lower than the default—drop until the weak foot can hold the run for the full minute.
+The bpm defaults come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule) (start 50 bpm, target ~110 bpm). At the sustained-16 end, expect the real starting bpm to be lower than the default—drop until the weak foot can hold the run for the full minute.
 
 ## Core (most sessions)
 
@@ -52,4 +52,4 @@ Warm-Ups 2, 4, 6, 8 are footing pairs to their odd-numbered neighbours. Beats 14
 
 ## Log line format
 
-Log this chapter's work with the exercise number prefixed by `5.`—for example `5.9  56 bpm  5 min  near  weak-foot`. See [approach.md §8](approach.md#8-tracking).
+Log this chapter's work with the exercise number prefixed by `5.`—for example `5.9  56 bpm  5 min  near  weak-foot`. See [Approach §8](approach.md#8-tracking).
