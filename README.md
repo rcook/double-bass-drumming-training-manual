@@ -15,6 +15,7 @@ The methodology in [Approach](approach.md) is the current reference implementati
 ## Contents
 
 - [Approach](approach.md)
+- [Edition notes](edition-notes.md)
 
 **Stage 1 — Foundation**
 
