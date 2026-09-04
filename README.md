@@ -15,20 +15,38 @@ The methodology in [approach.md](approach.md) is the current reference implement
 ## Contents
 
 - [Approach](approach.md)
+
+**Stage 1 — Foundation**
+
 - [Chapter 1: Starters](chapter-01.md)
+
+**Stage 2 — 16th-note density ladder**
+
 - [Chapter 2: Two Consecutive 16th Notes](chapter-02.md)
 - [Chapter 3: Three Consecutive 16th Notes](chapter-03.md)
 - [Chapter 4: Four Consecutive 16th Notes](chapter-04.md)
 - [Chapter 5: Five To Sixteen Consecutive 16th Notes](chapter-05.md)
+
+**Stage 3 — Triplets**
+
 - [Chapter 6: 8th-Note Triplets](chapter-06.md)
 - [Chapter 7: 16th-Note Triplets](chapter-07.md)
+
+**Stage 4 — Density extremes**
+
 - [Chapter 8: 32nd-Notes and 32nd-Note Triplets](chapter-08.md)
+
+**Stage 5 — Applications**
+
 - [Chapter 9: The Blues](chapter-09.md)
 - [Chapter 10: 8th Notes](chapter-10.md)
 - [Chapter 11: Power Threes](chapter-11.md)
 - [Chapter 12: Linear Cross Rhythms](chapter-12.md)
 - [Chapter 13: Linear Cross-Rhythm Combinations](chapter-13.md)
 - [Chapter 14: Fast Track Double Bass](chapter-14.md)
+
+**Stage 6 — Rondinelli additions**
+
 - [Chapter 15: Starters—Double Strokes](chapter-15.md)
 - [Chapter 16: Feet Only](chapter-16.md)
 - [Chapter 17: Binary Beats and Fills](chapter-17.md)
