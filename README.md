@@ -8,7 +8,7 @@ A training manual built around Bobby Rondinelli and Michael Lauren's *The Encycl
 
 ## Project status
 
-The methodology in [approach.md](approach.md) and the chapter-01 working sheet ([chapter-01.md](chapter-01.md)) are the current reference implementation. Chapters 2–23 exist as skeletons—they have the metadata block, a brief "How to use this sheet" section, and Core / Rotation / Reference tables—but they have not yet been rewritten to the shape chapter-01 now has (first-session walkthrough, worked advancement example, explicit two-consecutive-passes loop, per-exercise rationale). The methodology is being validated on chapter-01 first; once the shape is stable, it propagates to the other 22 sheets. Each skeleton chapter sheet carries a banner at the top marking it as such. See [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding items.
+The methodology in [approach.md](approach.md) is the current reference implementation, together with the two fully-written per-chapter working sheets: [chapter-01.md](chapter-01.md) and [chapter-02.md](chapter-02.md). Chapters 3–23 exist as skeletons—they have the metadata block, a brief "How to use this sheet" section, and Core / Rotation / Reference tables—but they have not yet been rewritten to the shape chapters 1 and 2 now have (first-session walkthrough, worked advancement example, explicit two-consecutive-passes loop, per-exercise rationale). The methodology was validated on chapter-01 first and propagated to chapter-02; the remaining 21 sheets are next. Each skeleton chapter sheet carries a banner at the top marking it as such. See [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding items.
 
 ## Contents
 
