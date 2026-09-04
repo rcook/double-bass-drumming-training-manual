@@ -18,7 +18,7 @@ Title #2 asks the reader to *do* something, which tends to draw better comments 
 
 ## Body
 
-Copy from here down. Everything in `<angle brackets>` is a placeholder — fill in before posting.
+Copy from here down.
 
 ---
 
@@ -32,7 +32,7 @@ I have been working on a training manual built around **The Encyclopedia of Doub
 - [chapter-01.md](https://github.com/rcook/double-bass-drumming-training-manual/blob/main/chapter-01.md) — the reference implementation for how a per-chapter working sheet looks when it is fully drafted. Includes a first-session walkthrough, worked advancement example, and per-exercise rationale.
 - [chapter-02.md](https://github.com/rcook/double-bass-drumming-training-manual/blob/main/chapter-02.md) — the same shape applied to Ch. 2 (two consecutive 16ths between the feet). This is the first propagation of the Ch. 1 shape; if the shape is going to break, this is where it starts to show.
 
-**Why I am posting now.** Chapters 1 and 2 are finished; chapters 3–23 are skeletons on purpose. The Ch. 1 → Ch. 2 propagation is done and the method has produced one real chapter transition in my own practice — Stage 2 unlocked on <date>, and I have been working Ch. 2 for ~2 weeks since. That is enough for the method to have some skin in the game, but 21 chapters is still ahead. Feedback on the *method* is most valuable now, before the copy-paste to Ch. 3+ happens. Waiting until all 23 are drafted means either fixing the same defect in 23 files or never fixing it because the sunk cost is too high.
+**Why I am posting now.** Chapters 1 and 2 are finished; chapters 3–23 are skeletons on purpose. The Ch. 1 → Ch. 2 propagation is done and the method has produced one real chapter transition in my own practice — Stage 2 unlocked on 2026-08-26, and I have been working Ch. 2 for ~2 weeks since. That is enough for the method to have some skin in the game, but 21 chapters is still ahead. Feedback on the *method* is most valuable now, before the copy-paste to Ch. 3+ happens. Waiting until all 23 are drafted means either fixing the same defect in 23 files or never fixing it because the sunk cost is too high.
 
 **I am specifically interested in:**
 
@@ -50,7 +50,7 @@ I have been working on a training manual built around **The Encyclopedia of Doub
 **Some context:**
 
 - Licence: **Creative Commons Attribution-ShareAlike 4.0**. Fork it, adapt it, use it. Nothing here reproduces R&L's content — the manual assumes you own the book (or acquire your own legal copy).
-- **<N> real practice sessions** logged against the manual so far, spanning Stage 1 and roughly two weeks into Stage 2. The method is not purely theoretical — it has produced one chapter transition and is actively being worked against the next one.
+- **31 real practice sessions** logged against the manual so far, spanning Stage 1 and roughly two weeks into Stage 2. The method is not purely theoretical — it has produced one chapter transition and is actively being worked against the next one.
 - The **backstory and motivation** are up at https://blog.rcook.org/blog/2026/double-bass-drumming-training-manual/ — why I ended up writing a training manual around a reference book rather than just working through the book, and what the method is trying to do.
 - Feedback is welcome as **GitHub Issues** (templates for method-feedback, content-issue, and chapter-request) or **as replies to this thread** — whatever is lower friction for you.
 
@@ -60,7 +60,6 @@ Thanks for reading.
 
 ## Notes for the poster (do not include in the actual Reddit body)
 
-- **Fill placeholders before posting.** `<date>` (Stage 2 unlock date, currently 2026-08-26) and `<N>` (real practice sessions logged) both need real numbers.
 - **Do not link the R&L PDF.** The manual's legal position rests on "we do not distribute the book" — that has to hold on Reddit too.
 - **Do not embed screenshots of R&L notation** for the same reason. If you illustrate anything, use text.
 - **Pick the venue first, then re-read the body.** Tone should match the sub — a niche/technique sub tolerates more prose; a general drumming sub wants punchier framing.
