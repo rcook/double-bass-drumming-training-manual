@@ -107,6 +107,7 @@ Ex. 1.2–1.9 are all 8th-note patterns. Ex. 1.2–1.3 vary how the 8ths are gro
 - These exercises can be played on the kit or on a practice pad—tapping the pattern on the floor is legitimate practice. See [Approach §7 "Off-kit session"](approach.md#off-kit-session) for how off-kit reps sit against the clean-pass rule and how to log them if you want to.
 - Do not neglect the accents where they are written. Even at slow tempos, an unaccented pass does not count as clean.
 - If the target bpm feels far away, that is expected. The number is a ceiling, not a schedule.
+- One Core exercise will often plateau at some bpm while the other two continue to climb—uneven advancement across the three is expected, because Ex. 1.1 (weak-foot 8ths on offbeats), Ex. 1.10 (doubled 16ths between the feet) and Ex. 1.11 (8th-note triplets between the feet) are three distinct mechanical problems. When one stalls, hold it at its stuck bpm and apply the [Approach §9](approach.md#9-handling-common-failure-modes) speed-plateau prescription—evenness-only work at current tempo for about a week—rather than forcing the next increment. Stage 2 unlock and the 120 bpm target apply per-exercise; the three do not have to move together.
 
 ## Moving on to Stage 2
 
