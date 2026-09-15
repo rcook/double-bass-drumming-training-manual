@@ -17,7 +17,7 @@ Work the Warm-Ups first. They are density drills—the point is not musicality b
 
 The 36 exercises are not a checklist. Each session's focus block works *one* exercise, not all five in the Core—rotate through them across sessions so all five get worked over time. The **core** list below is where most of your focus and application time goes. The **rotation** list adds variety when the core feels stale or when a specific pattern is coming up in your listening. The **reference** exercises (Beats Ex. 2.13–2.20 and most Fills) are R&L's raw material; treat them as discretionary.
 
-The bpm defaults below come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule): start 50 bpm, target ~110 bpm. Warm-Ups start at the same 50 bpm because the coordination cost is what makes them hard, not the speed.
+The bpm defaults below come from the 16th-note beats row of [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule): start 50 bpm, target ~110 bpm for the Beats. Warm-Ups start at the same 50 bpm because the coordination cost is what makes them hard, not the speed; their targets are set per-exercise in the Core table below—Ex. 2.1 and Ex. 2.3 consolidated well above the material-type default in real practice and carry higher targets (146 and 130 respectively).
 
 **Increment differs by exercise type.** Per [Approach §4](approach.md#4-the-tempo-target-and-clean-pass-rule), the Warm-Ups (Ex. 2.1 and Ex. 2.3) are feet-only and advance at **+4 bpm** per two-pass advancement; the Beats (Ex. 2.5, Ex. 2.7 and Ex. 2.10) advance at **+2 bpm**. Both ladders from 50 land on the 82 bpm Ch. 3 unlock exactly—no rounding needed. See "Moving on to Ch. 3" below.
 
@@ -73,8 +73,8 @@ Your focus and application pool for this chapter. Pick one exercise for the focu
 
 | Ex. | Section | Role | Start | Unlock | Target | Increment |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2.1 | Warm-Ups | Doubled 16ths on beat + e, strong-foot lead | 50 bpm |  | 110 bpm | +4 bpm |
-| 2.3 | Warm-Ups | Doubled 16ths on & + a, strong-foot lead | 50 bpm |  | 110 bpm | +4 bpm |
+| 2.1 | Warm-Ups | Doubled 16ths on beat + e, strong-foot lead | 50 bpm |  | 146 bpm | +4 bpm |
+| 2.3 | Warm-Ups | Doubled 16ths on & + a, strong-foot lead | 50 bpm |  | 130 bpm | +4 bpm |
 | 2.5 | Beats | Rock beat, doubled 16ths on 3 + 3e, strong-foot lead | 50 bpm |  | 110 bpm | +2 bpm |
 | 2.7 | Beats | Rock beat, doubled 16ths on 3& + 3a plus single strong-foot kicks on 1, 1& and 3, strong-foot lead | 50 bpm |  | 110 bpm | +2 bpm |
 | 2.10 | Beats | Rock beat, doubled 16ths on 2& + 2a and 4& + 4a plus single strong-foot kicks on 1& and 3&, strong-foot lead | 50 bpm | 82 bpm | 110 bpm | +2 bpm |
