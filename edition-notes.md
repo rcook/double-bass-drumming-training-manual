@@ -26,6 +26,13 @@ The general edition policy (which edition the manual defaults to, how to work fr
 - **What the Original Edition prints.** Bar 2 on BD II (weak foot). Reads as a strong-foot / weak-foot alternation across the two bars, which does fit the chapter's stated purpose.
 - **How the manual plays it.** Per the Original Edition: bar 1 strong foot, bar 2 weak foot. Called out on [Chapter 1](chapter-01.md) under "Note on Ex. 1.1 (edition discrepancy)".
 
+### Ex. 3.32, bar 1 (Revised Edition)
+
+- **Symptom.** The Revised Edition prints an extra hi-hat cross-notehead at bar 1 beat 2a of Ex. 3.32—three 16th-note hi-hats on 2& + 2a + 3, instead of the strict 8th-note hi-hat pattern the exercise otherwise carries.
+- **Why this looks wrong.** Bar 2 of the same exercise prints the clean 8th-note hi-hat pattern over the identical foot pattern. The two bars share one groove; the hi-hat should match.
+- **What the Original Edition prints.** Both bars with the strict 8th-note hi-hat pattern (× on 1, 1&, 2, 2&, 3, 3&, 4, 4&).
+- **How the manual plays it.** Per the Original Edition: strict 8th-note hi-hat on both bars. Ex. 3.32 is in [Chapter 3](chapter-03.md)'s Reference material.
+
 ## Per-exercise notation differences
 
 None confirmed to date beyond the Ex. 1.1 printing error above (which is an error, not a stylistic difference). Add here as more surface during ongoing reading.
