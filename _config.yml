@@ -5,6 +5,9 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-readme-index
 
+readme_index:
+  with_frontmatter: true
+
 defaults:
   - scope:
       path: ""
