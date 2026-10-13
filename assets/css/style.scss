@@ -6,9 +6,13 @@
 /* Mobile scaling fixes layered on top of jekyll-theme-primer. */
 
 /* Narrower prose container reads better on wide displays and gives
-   mobile browsers a consistent target width to scale from. */
+   mobile browsers a consistent target width to scale from. Primer's
+   default body size (1.1rem on .main-content) is tight for long-form
+   reading; bump the baseline across all breakpoints. */
 .main-content {
   max-width: 46rem;
+  font-size: 1.125rem;
+  line-height: 1.6;
 }
 
 /* Primer renders tables inline, which forces the whole page wider
@@ -35,11 +39,13 @@
   word-wrap: break-word;
 }
 
-/* Narrow-screen tuning. */
+/* Narrow-screen tuning. Keep the body font-size the same as desktop —
+   mobile browsers scale rem the same way, and shrinking it just makes
+   long-form prose harder to read on a phone. Only trim the container
+   padding and the oversized header. */
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 1rem;
-    font-size: 1rem;
   }
 
   .page-header {
