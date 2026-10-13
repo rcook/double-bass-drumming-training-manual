@@ -279,7 +279,7 @@ Columns, in order:
 
 - **Date** — ISO 8601, `YYYY-MM-DD`.
 - **Session** — optional. Blank in the normal case (one session per day). Fill in only when you practised more than once on the same day (see [§2](#2-a-sustainable-regimen))—use a short marker like `AM` / `PM` or `1` / `2` to distinguish that day's sessions at a glance. Only sessions on different practice *days* chain towards the two-pass advancement rule ([§4](#4-the-tempo-target-and-clean-pass-rule)); the Session column is purely for disambiguation, not for advancement counting.
-- **Exercise** — `chapter.exercise` (e.g. `1.10`, `2.5`).
+- **Exercise** — `chapter.exercise` for exercises with no variant axis (e.g. `1.10`, `2.5`); `chapter.exercise.variant` where a chapter prints alternative footings or hand-stickings for the exercise and the clean-pass rule needs to resolve per `(exercise, variant)` pair (e.g. `3.1.1` for Ex. 3.1 variant 1—RLR; `3.1.2` for variant 2—LRL). The variant suffix is required when the chapter sheet names a variant axis for the exercise; it is omitted otherwise.
 - **bpm** — the metronome tempo you played the exercise at.
 - **Duration** — the per-exercise time you actually spent (e.g. `3 min`). Useful data on its own—it surfaces whether you are actually giving each exercise its intended block time.
 - **Verdict** — `pass` / `near` / `fail` per the clean-pass rule ([§4](#4-the-tempo-target-and-clean-pass-rule)).
@@ -295,6 +295,12 @@ A worked example—five rows covering two sessions:
 | 2026-07-30 |  | 1.7  | 84 bpm | 8 min  | pass | steady |
 | 2026-07-30 |  | 2.5  | 68 bpm | 15 min | pass | clean |
 
+A Ch. 3 Warm-Up log entry carries the variant suffix in the Exercise column; the rest of the row is unchanged:
+
+| Date | Session | Exercise | bpm | Duration | Verdict | Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-13 |  | 3.1.1 | 90 bpm | 15 min | pass | even |
+
 If you have not practised an exercise in a given session, do not write a row for it. The log is a record of what happened, not a checklist of what should have happened.
 
 If a plain-text file (rather than a table-capable tool) is easier for you, the same information laid out as one date header per session with the exercise lines underneath is fine—use whichever fits your tool:
@@ -308,6 +314,8 @@ If a plain-text file (rather than a table-capable tool) is easier for you, the s
 For same-day sessions in this form, put the marker after the date (`2026-07-30 AM`, `2026-07-30 PM`).
 
 **3. Per-chapter working state.** One subsection per active chapter, showing where you are right now on each exercise in that chapter—the state you look up between sessions to answer "what bpm am I on for Ex. 2.5?". Each row: exercise number, current working bpm, unlock bpm (blank if the exercise does not gate a stage transition—see [§4](#4-the-tempo-target-and-clean-pass-rule)), target bpm, last pass bpm, last pass date.
+
+For exercises with a variant axis (per the Exercise-column convention above), the exercise-number column carries the variant suffix and the table carries one row per `(exercise, variant)` pair you have worked. Rows accrete as you first touch each variant—the row for `3.1.4` first appears the session you drill variant 4, not pre-populated with all six. Each variant finds its own ceiling independently; the update procedure below applies per row, not per bare exercise.
 
 The current bpm and the last pass bpm can differ, and the update procedure after each session for an exercise is:
 
