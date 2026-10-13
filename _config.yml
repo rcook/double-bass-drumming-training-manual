@@ -2,6 +2,9 @@ title: Double Bass Drumming Training Manual
 description: A training manual built around The Encyclopedia of Double Bass Drumming (Revised Edition)
 theme: jekyll-theme-primer
 
+plugins:
+  - jekyll-readme-index
+
 defaults:
   - scope:
       path: ""
