@@ -3,60 +3,52 @@
 
 @import "{{ site.theme }}";
 
-/* Mobile scaling fixes layered on top of jekyll-theme-primer. */
+/* Mobile and typography fixes layered on top of jekyll-theme-primer.
+   Primer wraps content in <div class="container-lg ... markdown-body">
+   — not .main-content — so overrides target those classes. */
 
-/* Narrower prose container reads better on wide displays and gives
-   mobile browsers a consistent target width to scale from. Primer's
-   default body size (1.1rem on .main-content) is tight for long-form
-   reading; bump the baseline across all breakpoints. */
-.main-content {
-  max-width: 46rem;
+/* Primer's .markdown-body is 16px with 1.5 line-height. That is tight
+   for long-form reading; bump it across all breakpoints. Container
+   also narrows to a comfortable prose measure. */
+.markdown-body {
   font-size: 1.125rem;
   line-height: 1.6;
 }
 
+.container-lg.markdown-body {
+  max-width: 46rem;
+}
+
 /* Primer renders tables inline, which forces the whole page wider
    than the viewport when a table has many columns (the Core /
-   Rotation chapter-sheet tables are 6-7 columns wide). Wrap each
-   table in its own horizontal-scroll box so the surrounding prose
+   Rotation chapter-sheet tables are 6-7 columns wide). Make each
+   table its own horizontal-scroll box so the surrounding prose
    stays at viewport width. */
-.main-content table {
+.markdown-body table {
   display: block;
-  width: 100%;
+  width: fit-content;
   max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
 
-/* Long log-entry snippets and inline code should wrap rather than
-   push the viewport wider. */
-.main-content pre {
+/* Long log-entry snippets and inline code wrap rather than push the
+   viewport wider. */
+.markdown-body pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
 
-.main-content code {
+.markdown-body code {
   word-wrap: break-word;
 }
 
-/* Narrow-screen tuning. Keep the body font-size the same as desktop —
-   mobile browsers scale rem the same way, and shrinking it just makes
-   long-form prose harder to read on a phone. Only trim the container
-   padding and the oversized header. */
+/* Narrow-screen tuning. Keep font-size the same as desktop — mobile
+   browsers scale rem the same way, and shrinking it makes long-form
+   prose harder to read on a phone. Trim container padding only. */
 @media screen and (max-width: 42em) {
-  .main-content {
-    padding: 1rem;
-  }
-
-  .page-header {
-    padding: 2rem 1rem;
-  }
-
-  .page-header .project-name {
-    font-size: 1.75rem;
-  }
-
-  .page-header .project-tagline {
-    font-size: 1rem;
+  .container-lg {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
