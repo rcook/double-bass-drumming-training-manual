@@ -1,3 +1,6 @@
+---
+---
+
 # Double Bass Drumming Training Manual—general approach
 
 ## 1. Purpose and scope

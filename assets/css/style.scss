@@ -1,0 +1,56 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Mobile scaling fixes layered on top of jekyll-theme-primer. */
+
+/* Narrower prose container reads better on wide displays and gives
+   mobile browsers a consistent target width to scale from. */
+.main-content {
+  max-width: 46rem;
+}
+
+/* Primer renders tables inline, which forces the whole page wider
+   than the viewport when a table has many columns (the Core /
+   Rotation chapter-sheet tables are 6-7 columns wide). Wrap each
+   table in its own horizontal-scroll box so the surrounding prose
+   stays at viewport width. */
+.main-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Long log-entry snippets and inline code should wrap rather than
+   push the viewport wider. */
+.main-content pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.main-content code {
+  word-wrap: break-word;
+}
+
+/* Narrow-screen tuning. */
+@media screen and (max-width: 42em) {
+  .main-content {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  .page-header {
+    padding: 2rem 1rem;
+  }
+
+  .page-header .project-name {
+    font-size: 1.75rem;
+  }
+
+  .page-header .project-tagline {
+    font-size: 1rem;
+  }
+}

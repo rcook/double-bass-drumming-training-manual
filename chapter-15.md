@@ -1,3 +1,6 @@
+---
+---
+
 # R&L Ch. 15—Starters—Double Strokes
 
 > **Skeleton sheet.** This chapter has the metadata block and Core / Rotation / Reference tables but has not yet been rewritten to the shape of [Chapter 1](chapter-01.md) and [Chapter 2](chapter-02.md)—no first-session walkthrough, no worked advancement example, no per-exercise rationale. See [DEVELOPMENT.md](DEVELOPMENT.md) "Things to do later" for the outstanding propagation work.

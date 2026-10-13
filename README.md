@@ -1,3 +1,6 @@
+---
+---
+
 # Double Bass Drumming Training Manual
 
 > **Following the course?** Start with [Approach](approach.md).

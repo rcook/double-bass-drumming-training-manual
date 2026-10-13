@@ -1,3 +1,6 @@
+---
+---
+
 # R&L Ch. 2—Two Consecutive 16th Notes
 
 - **Stage:** 2 (16th-note density ladder, first step)

@@ -1,3 +1,6 @@
+---
+---
+
 # Edition notes
 
 > **Status: evolving.** This list is populated as I work through the source book. It will not be complete until my reading of Rondinelli & Lauren's *Encyclopedia of Double Bass Drumming* is complete. Entries below reflect what I have personally verified against both the Original and Revised editions; anything not yet checked is not on the list.

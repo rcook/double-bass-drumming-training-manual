@@ -1,3 +1,6 @@
+---
+---
+
 # Development notes
 
 Orientation for editing this repository. Not for students following the manual—students should start at [approach.md](approach.md).
