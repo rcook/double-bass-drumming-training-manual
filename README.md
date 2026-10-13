@@ -70,7 +70,7 @@ Start with [Approach](approach.md)—it establishes the method (the tempo-target
 
 Notice something in the manual that looks wrong, disagrees with the source book, or has a gap? Please file an issue at [https://github.com/rcook/double-bass-drumming-training-manual/issues](https://github.com/rcook/double-bass-drumming-training-manual/issues).
 
-Per-chapter working sheets live at the repo root as [Chapter 1](chapter-01.md) through [Chapter 23](chapter-23.md), one file per chapter of the source book. Ch. 1 and Ch. 2 are the fully-written reference implementations; Ch. 3–23 are skeletons awaiting fill (see [Chapter template](chapter-template.md) for the shape they will take). Your own practice log is not a repo file—see [Approach §8](approach.md#8-tracking).
+Per-chapter working sheets live at the repo root as [Chapter 1](chapter-01.md) through [Chapter 23](chapter-23.md), one file per chapter of the source book. Ch. 1, Ch. 2 and Ch. 3 are the fully-written reference implementations; Ch. 4–23 are skeletons awaiting fill. Your own practice log is not a repo file—see [Approach §8](approach.md#8-tracking).
 
 ## Source book
 
